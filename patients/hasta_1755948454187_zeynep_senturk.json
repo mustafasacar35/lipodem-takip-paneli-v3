@@ -1351,7 +1351,7 @@
       ],
       "hastaIsmi": "ZEYNEP SENTURK",
       "tarihAraligi": "8-14 EYLUL",
-      "realizedAvgKcal": 1209,
+      "realizedAvgKcal": 1211,
       "kilitAcmaTarihi": "2025-09-23T18:36:06.684Z",
       "kilitlenmeTarihi": "2025-09-23T18:36:11.419Z",
       "_orijinalOgunler": {
@@ -1521,14 +1521,8 @@
           ]
         },
         "10": {
-          "yemek": "1 dilim Lupin Unlu Ekmek",
-          "kartlar": [
-            {
-              "name": "lupin_unlu_ekmek.jpg",
-              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lupin_unlu_ekmek.jpg",
-              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lupin_unlu_ekmek.jpg"
-            }
-          ]
+          "yemek": "Hindistan Cevizli Ekmek (1 dilim)",
+          "kartlar": []
         },
         "11": {
           "yemek": "1 dilim Lupin Unlu Ekmek",
@@ -1674,7 +1668,7 @@
   ],
   "olusturmaTarihi": "2025-08-23T11:27:34.187Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-25T20:08:47.266Z",
+  "sonGuncelleme": "2025-10-25T20:08:51.856Z",
   "githubKaydedildi": true,
   "weeklyOverrides": {
     "2": {
