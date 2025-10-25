@@ -1116,7 +1116,13 @@
       "kayitTarihi": "2025-09-03T18:54:47.818Z",
       "tarifKartlar": [
         {
-          "tarifAdi": "1 dilim Keten Tohumu Ekmeği",
+          "tarifAdi": "Haşhaş ezmesi ekmeği (1 dilim)",
+          "kartResmi": "hashas_ezmesi_ekmegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/hashas_ezmesi_ekmegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "keten tohumu ekmeği 2 dilim",
           "kartResmi": "keten_tohumu_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/keten_tohumu_ekmegi.jpg",
           "eslesmeTuru": "tam eşleşme"
@@ -1126,12 +1132,6 @@
           "kartResmi": "tahin_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tahin_ekmegi.jpg",
           "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "Haşhaş ezmesi ekmeği (1 dilim)",
-          "kartResmi": "hashas_ezmesi_ekmegi.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/hashas_ezmesi_ekmegi.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "sulu et kızartması",
@@ -1154,10 +1154,13 @@
         "hafta",
         "pazartesi̇",
         "öğle",
-        "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
-        "1 dilim Keten Tohumu Ekmeği",
-        "Zeytin (10 adet)",
-        "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "Mantarlı Yumurta (100 gram mantar, 1 yemek kaşığı tereyağı, 1 adet yumurta, tuz ve baharatlar)",
+        "Tulum /kaşar peyniri (50 gram)",
+        "Haşhaş ezmesi ekmeği (1 dilim)",
+        "Fındık  (10 adet)",
+        "1/2 Avokado",
+        "zeytin (5 adet)",
+        "Mevsim Yeşillikleri (dereotu, roka, maydanoz, sirke, limon +1 tatlı kaşığı zeytinyağı ile)",
         "akşam",
         "Tavuk Izgara",
         "Semizotu Salatası",
@@ -1244,7 +1247,8 @@
       "pdfFile": {},
       "manuelKartlar": [],
       "eslesenTarifler": [
-        "1 dilim Keten Tohumu Ekmeği",
+        "Haşhaş ezmesi ekmeği (1 dilim)",
+        "keten tohumu ekmeği 2 dilim",
         "Tahin ekmeği",
         "Haşhaş ezmesi ekmeği (1 dilim)",
         "sulu et kızartması",
@@ -1262,9 +1266,12 @@
         "hafta",
         "pazartesi̇",
         "öğle",
-        "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
-        "Zeytin (10 adet)",
-        "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "Mantarlı Yumurta (100 gram mantar, 1 yemek kaşığı tereyağı, 1 adet yumurta, tuz ve baharatlar)",
+        "Tulum /kaşar peyniri (50 gram)",
+        "Fındık  (10 adet)",
+        "1/2 Avokado",
+        "zeytin (5 adet)",
+        "Mevsim Yeşillikleri (dereotu, roka, maydanoz, sirke, limon +1 tatlı kaşığı zeytinyağı ile)",
         "akşam",
         "Tavuk Izgara",
         "Semizotu Salatası",
@@ -1273,7 +1280,6 @@
         "sali",
         "öğle",
         "haşlanmış yumurta (2 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
-        "keten tohumu ekmeği 2 dilim",
         "zeytin (10 adet)",
         "yeşillikler (4 yaprak marul, 4-5 dal maydanoz + limon, sirke ve 1 yemek kaşığı zeytinyağı ile)",
         "akşam",
@@ -1300,6 +1306,7 @@
         "akşam",
         "Tavuk Güveç",
         "Semizotu Salatası",
+        "Haşhaş ezmesi ekmeği (1 dilim)",
         "Ceviz (3 adet)",
         "Bitter çikolata (2 kare)",
         "Kollajen (1 ölçek 10 gram)",
@@ -1344,7 +1351,7 @@
       ],
       "hastaIsmi": "ZEYNEP SENTURK",
       "tarihAraligi": "8-14 EYLUL",
-      "realizedAvgKcal": 1109,
+      "realizedAvgKcal": 1191,
       "kilitAcmaTarihi": "2025-09-23T18:36:06.684Z",
       "kilitlenmeTarihi": "2025-09-23T18:36:11.419Z",
       "_orijinalOgunler": {
@@ -1485,7 +1492,7 @@
         "target_meal_sali_öğle (": "2424c2a6-222b-4c74-8656-f3fa5281180e",
         "target_meal_sali_akşam": "be4ff70e-d5c5-423f-88cd-2b48a0b55b88",
         "sim_meal_sali_akşam": "399ffbab-ac44-485b-8560-ca8bdf7204b7",
-        "sim_meal_pazartesi_öğle": "0f03c139-c36f-444a-aa9d-37466252c1b6",
+        "sim_meal_pazartesi_öğle": "d54333d9-1fdf-47d5-8301-af33e2da2098",
         "sim_meal_pazartesi_akşam": "399ffbab-ac44-485b-8560-ca8bdf7204b7",
         "sim_meal_sali_öğle": "9c437f13-3fc7-4317-ac13-5e31413d9e42",
         "sim_meal_perşembe_öğle": "9c437f13-3fc7-4317-ac13-5e31413d9e42",
@@ -1652,7 +1659,7 @@
   ],
   "olusturmaTarihi": "2025-08-23T11:27:34.187Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-08T19:58:41.886Z",
+  "sonGuncelleme": "2025-10-25T20:07:43.281Z",
   "githubKaydedildi": true,
   "weeklyOverrides": {
     "2": {
