@@ -21,7 +21,7 @@
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
           "kartResmi": "hashas_ezmesi_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/hashas_ezmesi_ekmegi.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
+          "eslesmeTuru": "tam eşleşme"
         },
         {
           "tarifAdi": "köfte",
@@ -351,7 +351,7 @@
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
           "kartResmi": "hashas_ezmesi_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/hashas_ezmesi_ekmegi.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
+          "eslesmeTuru": "tam eşleşme"
         },
         {
           "tarifAdi": "kaşarlı kabak graten",
@@ -364,6 +364,24 @@
           "kartResmi": "karabugday_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/karabugday_ekmegi.jpg",
           "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "kıymalı kabak/ taze fasulye yemeği (100 gr kıyma ile)",
+          "kartResmi": "kiymali_kabak_yemegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/kiymali_kabak_yemegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kıymalı kabak/ taze fasulye yemeği (100 gr kıyma ile)",
+          "kartResmi": "kiymali_taze_fasulye.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/kiymali_taze_fasulye.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "urfa / adana kebap 150 gram ( 1 porsiyon)",
+          "kartResmi": "adana_urfa_kebap.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/adana_urfa_kebap.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "tavuk döner (100 gr)",
@@ -471,7 +489,9 @@
         "haşhaş ezmesi ekmeği (1 dilim)",
         "kaşarlı kabak graten",
         "karabuğday ekmeği 1 dilim 25 gr",
+        "kıymalı kabak/ taze fasulye yemeği (100 gr kıyma ile)",
         "karabuğday ekmeği 1 dilim 25 gr",
+        "urfa / adana kebap 150 gram ( 1 porsiyon)",
         "tavuk döner (100 gr)",
         "karabuğday ekmeği 1 dilim 25 gr",
         "karabuğday ekmeği 1 dilim 25 gr"
@@ -509,7 +529,6 @@
         "mevsim yeşillikleri (4-5 dal dereotu,4-5 dal roka,4-5 dal maydanoz + 1 dilim limon ile",
         "ceviz (5 adet)",
         "akşam (tercihen hava kararınca)",
-        "kıymalı kabak/ taze fasulye yemeği (100 gr kıyma ile)",
         "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
         "bitter çikolata (2 kare)",
         "kollajen (1 ölçek 10 gram)",
@@ -532,7 +551,6 @@
         "zeytin (5 adet)",
         "ceviz (3 adet)",
         "akşam (tercihen hava kararınca)",
-        "urfa / adana kebap 150 gram ( 1 porsiyon)",
         "mevsim yeşillikleri (dereotu, roka, maydanoz, marul vs. + 1 tatlı kaşığı zeytinyağı)",
         "kabak çekirdeği (1 avuç)",
         "bitter çikolata (2 kare)",
@@ -625,7 +643,7 @@
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
           "kartResmi": "hashas_ezmesi_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/hashas_ezmesi_ekmegi.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
+          "eslesmeTuru": "tam eşleşme"
         },
         {
           "tarifAdi": "köfte",
@@ -638,6 +656,12 @@
           "kartResmi": "kabak_sote.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/kabak_sote.jpg",
           "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuk güveç",
+          "kartResmi": "tavuk_guvec.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tavuk_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
         }
       ],
       "tarifler": [
@@ -739,7 +763,8 @@
         "Kabak Sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
         "haşhaş ezmesi ekmeği (1 dilim)",
         "köfte",
-        "haşhaş ezmesi ekmeği (1 dilim)"
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "tavuk güveç"
       ],
       "eslesmeyenTarifler": [
         "zeynep şentürk",
@@ -818,7 +843,6 @@
         "çiğ badem (10 adet)",
         "yeşillikler (dereotu, roka, maydanoz, turp, sirke ve limon ile)",
         "akşam (tercihen hava kararınca)",
-        "tavuk güveç",
         "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı",
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış",
         "günlük ortalama 5000 adım önerilir",
@@ -1119,7 +1143,7 @@
           "tarifAdi": "Haşhaş ezmesi ekmeği (1 dilim)",
           "kartResmi": "hashas_ezmesi_ekmegi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/hashas_ezmesi_ekmegi.jpg",
-          "eslesmeTuru": "manuel eşleştirme"
+          "eslesmeTuru": "tam eşleşme"
         },
         {
           "tarifAdi": "keten tohumu ekmeği 2 dilim",
@@ -1134,6 +1158,12 @@
           "eslesmeTuru": "tam eşleşme"
         },
         {
+          "tarifAdi": "Tavuk Güveç",
+          "kartResmi": "tavuk_guvec.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tavuk_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
           "tarifAdi": "sulu et kızartması",
           "kartResmi": "sulu_et_kizartmasi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/sulu_et_kizartmasi.jpg",
@@ -1141,9 +1171,15 @@
         },
         {
           "tarifAdi": "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+          "kartResmi": "lorlu_pogaca.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lorlu_pogaca.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
           "kartResmi": "lupin_unlu_pogaca.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lupin_unlu_pogaca.jpg",
-          "eslesmeTuru": "tam eşleşme"
+          "eslesmeTuru": "manuel eşleştirme"
         }
       ],
       "tarifler": [
@@ -1250,12 +1286,14 @@
         "Haşhaş ezmesi ekmeği (1 dilim)",
         "keten tohumu ekmeği 2 dilim",
         "Tahin ekmeği",
+        "Tavuk Güveç",
         "Haşhaş ezmesi ekmeği (1 dilim)",
         "sulu et kızartması",
         "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
         "sulu et kızartması",
         "Tahin ekmeği",
         "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+        "tavuk güveç",
         "haşhaş ezmesi ekmeği (1 dilim)"
       ],
       "eslesmeyenTarifler": [
@@ -1304,7 +1342,6 @@
         "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere,  limon ile)",
         "Bitter çikolata (2 kare)",
         "akşam",
-        "Tavuk Güveç",
         "Semizotu Salatası",
         "Haşhaş ezmesi ekmeği (1 dilim)",
         "Ceviz (3 adet)",
@@ -1351,7 +1388,7 @@
       ],
       "hastaIsmi": "ZEYNEP SENTURK",
       "tarihAraligi": "8-14 EYLUL",
-      "realizedAvgKcal": 1215,
+      "realizedAvgKcal": 1173,
       "kilitAcmaTarihi": "2025-09-23T18:36:06.684Z",
       "kilitlenmeTarihi": "2025-09-23T18:36:11.419Z",
       "_orijinalOgunler": {
@@ -1678,7 +1715,7 @@
   ],
   "olusturmaTarihi": "2025-08-23T11:27:34.187Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-25T20:09:02.103Z",
+  "sonGuncelleme": "2025-10-25T20:27:31.638Z",
   "githubKaydedildi": true,
   "weeklyOverrides": {
     "2": {
