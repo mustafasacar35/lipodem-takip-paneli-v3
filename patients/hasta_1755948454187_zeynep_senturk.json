@@ -1351,7 +1351,7 @@
       ],
       "hastaIsmi": "ZEYNEP SENTURK",
       "tarihAraligi": "8-14 EYLUL",
-      "realizedAvgKcal": 1202,
+      "realizedAvgKcal": 1201,
       "kilitAcmaTarihi": "2025-09-23T18:36:06.684Z",
       "kilitlenmeTarihi": "2025-09-23T18:36:11.419Z",
       "_orijinalOgunler": {
@@ -1521,11 +1521,12 @@
           ]
         },
         "10": {
-          "yemek": "*Haşhaş ezmesi ekmeği (1 dilim)",
+          "yemek": "*Lor ekmeği (1 dilim)",
           "kartlar": [
             {
-              "name": "hashas_ezmesi_ekmegi.jpg",
-              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/hashas_ezmesi_ekmegi.jpg"
+              "name": "lor_ekmegi.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lor_ekmegi.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lor_ekmegi.jpg"
             }
           ]
         },
@@ -1673,7 +1674,7 @@
   ],
   "olusturmaTarihi": "2025-08-23T11:27:34.187Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-25T20:08:40.680Z",
+  "sonGuncelleme": "2025-10-25T20:08:42.072Z",
   "githubKaydedildi": true,
   "weeklyOverrides": {
     "2": {
