@@ -1388,7 +1388,7 @@
       ],
       "hastaIsmi": "ZEYNEP SENTURK",
       "tarihAraligi": "8-14 EYLUL",
-      "realizedAvgKcal": 1173,
+      "realizedAvgKcal": 1175,
       "kilitAcmaTarihi": "2025-09-23T18:36:06.684Z",
       "kilitlenmeTarihi": "2025-09-23T18:36:11.419Z",
       "_orijinalOgunler": {
@@ -1577,6 +1577,10 @@
             }
           ]
         },
+        "12": {
+          "yemek": "1 adet elma veya 1 adet mandalina (100 gr)",
+          "kartlar": []
+        },
         "14": {
           "yemek": "İmam Bayıldı",
           "kartlar": [
@@ -1715,7 +1719,7 @@
   ],
   "olusturmaTarihi": "2025-08-23T11:27:34.187Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-25T20:27:31.747Z",
+  "sonGuncelleme": "2025-10-25T20:27:38.215Z",
   "githubKaydedildi": true,
   "weeklyOverrides": {
     "2": {
