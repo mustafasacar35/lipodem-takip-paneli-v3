@@ -45,7 +45,13 @@
           "tarifAdi": "kıymalı taze fasulye / kabak yemeği",
           "kartResmi": "kiymali_taze_fasulye.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/kiymali_taze_fasulye.jpg",
-          "eslesmeTuru": "tam eşleşme"
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kıymalı taze fasulye / kabak yemeği",
+          "kartResmi": "kiymali_kabak_yemegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/kiymali_kabak_yemegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "sulu et kızartması",
@@ -124,11 +130,11 @@
         "kollajen (1 ölçek 5 gram)",
         "cumartesi̇",
         "öğle (tercihen saat 12:00 civarında)",
-        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
-        "zeytin (10 adet)",
-        "tahin ekmeği (1 dilim)",
-        "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere, limon ile)",
-        "bitter çikolata (2 kare)",
+        "Sahanda Yumurta (2 adet)",
+        "Zeytin (10 adet)",
+        "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
+        "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere,  limon ile)",
+        "Bitter çikolata (2 kare)",
         "akşam (tercihen hava kararınca)",
         "sulu et kızartması",
         "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 tatlı kaşığı zeytinyağı)",
@@ -225,11 +231,11 @@
         "kollajen (1 ölçek 5 gram)",
         "cumartesi̇",
         "öğle (tercihen saat 12:00 civarında)",
-        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
-        "zeytin (10 adet)",
-        "tahin ekmeği (1 dilim)",
-        "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere, limon ile)",
-        "bitter çikolata (2 kare)",
+        "Sahanda Yumurta (2 adet)",
+        "Zeytin (10 adet)",
+        "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
+        "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere,  limon ile)",
+        "Bitter çikolata (2 kare)",
         "akşam (tercihen hava kararınca)",
         "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 tatlı kaşığı zeytinyağı)",
         "tahin ekmeği (1 dilim)",
@@ -254,7 +260,7 @@
       ],
       "hastaIsmi": "PAKIZE AKCAY",
       "tarihAraligi": "8-14 EYLUL",
-      "realizedAvgKcal": 1221,
+      "realizedAvgKcal": 1456,
       "_orijinalOgunler": {
         "orig_meal_pazartesi_akşam": {
           "createdAt": 1758568014160,
@@ -300,13 +306,26 @@
             "zeytin (5 adet)",
             "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon )"
           ]
+        },
+        "orig_meal_cumartesi_öğle": {
+          "createdAt": 1761423981954,
+          "gun": "cumartesi",
+          "ogun": "öğle",
+          "rows": [
+            "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+            "zeytin (10 adet)",
+            "tahin ekmeği (1 dilim)",
+            "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere, limon ile)",
+            "bitter çikolata (2 kare)"
+          ]
         }
       },
       "_uygulananOgunSablonlari": {
         "sim_meal_pazartesi_akşam": "05e75cd1-4336-4213-92f3-b9696025762c",
         "target_meal_sali_öğle (": "2424c2a6-222b-4c74-8656-f3fa5281180e",
         "target_meal_sali_akşam": "be4ff70e-d5c5-423f-88cd-2b48a0b55b88",
-        "sim_meal_pazartesi_öğle": "78cdba0b-b2a7-4259-a0aa-31e3327eddd9"
+        "sim_meal_pazartesi_öğle": "78cdba0b-b2a7-4259-a0aa-31e3327eddd9",
+        "sim_meal_cumartesi_öğle": "92bd8913-985d-4379-b3bb-44d35e17a871"
       },
       "haftaninTarifleriLive": false,
       "rowMatchedCards": {
@@ -325,6 +344,6 @@
   ],
   "olusturmaTarihi": "2025-08-28T06:06:09.098Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-01T08:32:34.613Z",
+  "sonGuncelleme": "2025-10-25T20:26:22.080Z",
   "githubKaydedildi": true
 }
