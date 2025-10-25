@@ -1351,7 +1351,7 @@
       ],
       "hastaIsmi": "ZEYNEP SENTURK",
       "tarihAraligi": "8-14 EYLUL",
-      "realizedAvgKcal": 1213,
+      "realizedAvgKcal": 1215,
       "kilitAcmaTarihi": "2025-09-23T18:36:06.684Z",
       "kilitlenmeTarihi": "2025-09-23T18:36:11.419Z",
       "_orijinalOgunler": {
@@ -1550,6 +1550,10 @@
             }
           ]
         },
+        "17": {
+          "yemek": "Beyaz Lahana Salatası",
+          "kartlar": []
+        },
         "20": {
           "yemek": "Yumurtalı ıspanak /pazı /semizotu   kavurma (2 adet yumurta, 100 gram Ispanak, 1 yemek kaşığı zeytinyağı, tercihen soğan",
           "kartlar": [
@@ -1674,7 +1678,7 @@
   ],
   "olusturmaTarihi": "2025-08-23T11:27:34.187Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-25T20:08:58.083Z",
+  "sonGuncelleme": "2025-10-25T20:09:01.988Z",
   "githubKaydedildi": true,
   "weeklyOverrides": {
     "2": {
