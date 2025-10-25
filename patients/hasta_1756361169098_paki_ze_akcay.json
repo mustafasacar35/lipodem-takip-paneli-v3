@@ -36,12 +36,6 @@
           "eslesmeTuru": "tam eşleşme"
         },
         {
-          "tarifAdi": "patlıcan musakka (150 gr kıyma ile)",
-          "kartResmi": "patlican_musakka.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/patlican_musakka.jpg",
-          "eslesmeTuru": "tam eşleşme"
-        },
-        {
           "tarifAdi": "kıymalı taze fasulye / kabak yemeği",
           "kartResmi": "kiymali_taze_fasulye.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/kiymali_taze_fasulye.jpg",
@@ -96,17 +90,16 @@
         "Semizotu Salatası",
         "Fındık  (10 adet)",
         "çarşamba",
-        "öğle (tercihen saat 12:00 civarında)",
-        "Sahanda Yumurta (2 adet)",
-        "zeytin (5 adet)",
-        "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
-        "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
-        "Fındık  (10 adet)",
-        "akşam (tercihen hava kararınca)",
-        "patlıcan musakka (150 gr kıyma ile)",
-        "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 tatlı",
-        "tahin ekmeği (1 dilim)",
-        "kollajen (1 ölçek 5 gram)",
+        "öğle",
+        "sebzeli omlet (2 yumurta, 5 adet mantar, 1 adet yeşil biber + 1 yemek kaşığı zeytinyağı)",
+        "tulum / kaşar peyniri / lor peyniri (50 gram)",
+        "zeytin (10 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "1/2 avokado",
+        "fındık (20 adet)",
+        "akşam",
+        "250 gram ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "Avokadolu Roka Salatası",
         "perşembe",
         "öğle (tercihen saat 12:00 civarında)",
         "sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
@@ -167,7 +160,6 @@
         "Tahin ekmeği",
         "köfte",
         "kabak sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
-        "patlıcan musakka (150 gr kıyma ile)",
         "kıymalı taze fasulye / kabak yemeği",
         "sulu et kızartması",
         "ton balığı salatası (100 gram ton balığı ile)"
@@ -199,16 +191,16 @@
         "Semizotu Salatası",
         "Fındık  (10 adet)",
         "çarşamba",
-        "öğle (tercihen saat 12:00 civarında)",
-        "Sahanda Yumurta (2 adet)",
-        "zeytin (5 adet)",
-        "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
-        "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
-        "Fındık  (10 adet)",
-        "akşam (tercihen hava kararınca)",
-        "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 tatlı",
-        "tahin ekmeği (1 dilim)",
-        "kollajen (1 ölçek 5 gram)",
+        "öğle",
+        "sebzeli omlet (2 yumurta, 5 adet mantar, 1 adet yeşil biber + 1 yemek kaşığı zeytinyağı)",
+        "tulum / kaşar peyniri / lor peyniri (50 gram)",
+        "zeytin (10 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "1/2 avokado",
+        "fındık (20 adet)",
+        "akşam",
+        "250 gram ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "Avokadolu Roka Salatası",
         "perşembe",
         "öğle (tercihen saat 12:00 civarında)",
         "sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
@@ -260,7 +252,7 @@
       ],
       "hastaIsmi": "PAKIZE AKCAY",
       "tarihAraligi": "8-14 EYLUL",
-      "realizedAvgKcal": 1456,
+      "realizedAvgKcal": 1410,
       "_orijinalOgunler": {
         "orig_meal_pazartesi_akşam": {
           "createdAt": 1758568014160,
@@ -330,6 +322,15 @@
             "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
             "fındık (10 adet)"
           ]
+        },
+        "orig_meal_çarşamba_akşam": {
+          "createdAt": 1761424022615,
+          "gun": "çarşamba",
+          "ogun": "akşam",
+          "rows": [
+            "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+            "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek"
+          ]
         }
       },
       "_uygulananOgunSablonlari": {
@@ -339,7 +340,8 @@
         "sim_meal_pazartesi_öğle": "78cdba0b-b2a7-4259-a0aa-31e3327eddd9",
         "sim_meal_cumartesi_öğle": "92bd8913-985d-4379-b3bb-44d35e17a871",
         "sim_meal_sali_akşam": "ca6273fa-ddef-461f-b34c-63791cae0be7",
-        "sim_meal_çarşamba_öğle": "c8c755bc-8166-42ee-9447-f3d2ad1aac9e"
+        "sim_meal_çarşamba_öğle": "c8c755bc-8166-42ee-9447-f3d2ad1aac9e",
+        "sim_meal_çarşamba_akşam": "efce4fb6-c247-40c1-98ab-7b14f8599779"
       },
       "haftaninTarifleriLive": false,
       "rowMatchedCards": {
@@ -353,11 +355,21 @@
             }
           ]
         }
+      },
+      "_uygulananGunSablonlari": {
+        "carsamba": {
+          "templateId": "day_1759953096843_mic9w1bjp",
+          "templateName": "15. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - CUMARTESI - TÜM GÜN - 2. hafta",
+          "source": "original",
+          "mode": "current",
+          "appliedAt": "2025-10-25T20:26:57.519Z",
+          "gunAdi": "ÇARŞAMBA"
+        }
       }
     }
   ],
   "olusturmaTarihi": "2025-08-28T06:06:09.098Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-25T20:26:48.919Z",
+  "sonGuncelleme": "2025-10-25T20:27:02.729Z",
   "githubKaydedildi": true
 }
