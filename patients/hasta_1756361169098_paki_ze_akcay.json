@@ -97,11 +97,11 @@
         "Fındık  (10 adet)",
         "çarşamba",
         "öğle (tercihen saat 12:00 civarında)",
-        "sahanda yumurta (2 adet + 1 tatlı kaşığı tereyağı ile)",
+        "Sahanda Yumurta (2 adet)",
         "zeytin (5 adet)",
-        "tahin ekmeği (2 dilim)",
-        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
-        "fındık (10 adet)",
+        "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
+        "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "Fındık  (10 adet)",
         "akşam (tercihen hava kararınca)",
         "patlıcan musakka (150 gr kıyma ile)",
         "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 tatlı",
@@ -200,11 +200,11 @@
         "Fındık  (10 adet)",
         "çarşamba",
         "öğle (tercihen saat 12:00 civarında)",
-        "sahanda yumurta (2 adet + 1 tatlı kaşığı tereyağı ile)",
+        "Sahanda Yumurta (2 adet)",
         "zeytin (5 adet)",
-        "tahin ekmeği (2 dilim)",
-        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
-        "fındık (10 adet)",
+        "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
+        "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "Fındık  (10 adet)",
         "akşam (tercihen hava kararınca)",
         "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 tatlı",
         "tahin ekmeği (1 dilim)",
@@ -318,6 +318,18 @@
             "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere, limon ile)",
             "bitter çikolata (2 kare)"
           ]
+        },
+        "orig_meal_çarşamba_öğle": {
+          "createdAt": 1761424008802,
+          "gun": "çarşamba",
+          "ogun": "öğle",
+          "rows": [
+            "sahanda yumurta (2 adet + 1 tatlı kaşığı tereyağı ile)",
+            "zeytin (5 adet)",
+            "tahin ekmeği (2 dilim)",
+            "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+            "fındık (10 adet)"
+          ]
         }
       },
       "_uygulananOgunSablonlari": {
@@ -326,7 +338,8 @@
         "target_meal_sali_akşam": "be4ff70e-d5c5-423f-88cd-2b48a0b55b88",
         "sim_meal_pazartesi_öğle": "78cdba0b-b2a7-4259-a0aa-31e3327eddd9",
         "sim_meal_cumartesi_öğle": "92bd8913-985d-4379-b3bb-44d35e17a871",
-        "sim_meal_sali_akşam": "ca6273fa-ddef-461f-b34c-63791cae0be7"
+        "sim_meal_sali_akşam": "ca6273fa-ddef-461f-b34c-63791cae0be7",
+        "sim_meal_çarşamba_öğle": "c8c755bc-8166-42ee-9447-f3d2ad1aac9e"
       },
       "haftaninTarifleriLive": false,
       "rowMatchedCards": {
@@ -345,6 +358,6 @@
   ],
   "olusturmaTarihi": "2025-08-28T06:06:09.098Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-25T20:26:45.752Z",
+  "sonGuncelleme": "2025-10-25T20:26:48.919Z",
   "githubKaydedildi": true
 }
