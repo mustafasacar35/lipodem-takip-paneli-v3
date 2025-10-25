@@ -1351,7 +1351,7 @@
       ],
       "hastaIsmi": "ZEYNEP SENTURK",
       "tarihAraligi": "8-14 EYLUL",
-      "realizedAvgKcal": 1201,
+      "realizedAvgKcal": 1202,
       "kilitAcmaTarihi": "2025-09-23T18:36:06.684Z",
       "kilitlenmeTarihi": "2025-09-23T18:36:11.419Z",
       "_orijinalOgunler": {
@@ -1521,8 +1521,13 @@
           ]
         },
         "10": {
-          "yemek": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere,  limon+1 yemek kaşığı zeytinyağı ile)",
-          "kartlar": []
+          "yemek": "*Haşhaş ezmesi ekmeği (1 dilim)",
+          "kartlar": [
+            {
+              "name": "hashas_ezmesi_ekmegi.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/hashas_ezmesi_ekmegi.jpg"
+            }
+          ]
         },
         "11": {
           "yemek": "1 dilim Lupin Unlu Ekmek",
@@ -1668,7 +1673,7 @@
   ],
   "olusturmaTarihi": "2025-08-23T11:27:34.187Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-25T20:08:39.420Z",
+  "sonGuncelleme": "2025-10-25T20:08:40.680Z",
   "githubKaydedildi": true,
   "weeklyOverrides": {
     "2": {
