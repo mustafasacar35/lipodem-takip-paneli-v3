@@ -1351,7 +1351,7 @@
       ],
       "hastaIsmi": "ZEYNEP SENTURK",
       "tarihAraligi": "8-14 EYLUL",
-      "realizedAvgKcal": 1191,
+      "realizedAvgKcal": 1201,
       "kilitAcmaTarihi": "2025-09-23T18:36:06.684Z",
       "kilitlenmeTarihi": "2025-09-23T18:36:11.419Z",
       "_orijinalOgunler": {
@@ -1597,7 +1597,7 @@
           ]
         }
       },
-      "haftaninTarifleriLive": false,
+      "haftaninTarifleriLive": true,
       "isPatientClone": true,
       "clonedFrom": 3,
       "quickPatientInfo": {
@@ -1659,7 +1659,7 @@
   ],
   "olusturmaTarihi": "2025-08-23T11:27:34.187Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-25T20:07:43.281Z",
+  "sonGuncelleme": "2025-10-25T20:07:56.548Z",
   "githubKaydedildi": true,
   "weeklyOverrides": {
     "2": {
