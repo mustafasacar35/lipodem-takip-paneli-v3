@@ -1351,7 +1351,7 @@
       ],
       "hastaIsmi": "ZEYNEP SENTURK",
       "tarihAraligi": "8-14 EYLUL",
-      "realizedAvgKcal": 1189,
+      "realizedAvgKcal": 1201,
       "kilitAcmaTarihi": "2025-09-23T18:36:06.684Z",
       "kilitlenmeTarihi": "2025-09-23T18:36:11.419Z",
       "_orijinalOgunler": {
@@ -1587,11 +1587,11 @@
           ]
         },
         "45": {
-          "yemek": "1 dilim Keten Tohumu Ekmeği",
+          "yemek": "Tahin ekmeği",
           "kartlar": [
             {
-              "name": "keten_tohumu_ekmegi.jpg",
-              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/keten_tohumu_ekmegi.jpg"
+              "name": "tahin_ekmegi.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tahin_ekmegi.jpg"
             }
           ]
         },
@@ -1668,7 +1668,7 @@
   ],
   "olusturmaTarihi": "2025-08-23T11:27:34.187Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-25T20:08:02.330Z",
+  "sonGuncelleme": "2025-10-25T20:08:07.032Z",
   "githubKaydedildi": true,
   "weeklyOverrides": {
     "2": {
