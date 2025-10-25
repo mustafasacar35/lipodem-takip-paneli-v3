@@ -1,0 +1,32 @@
+{
+  "weeklyOverrides": {
+    "3": {
+      "dietType": "keto",
+      "activityLevel": 5,
+      "goal": "maintain",
+      "goalPct": -31,
+      "weightKg": 77,
+      "targetWeightKg": 70,
+      "planWeeklyRateKg": 0.47,
+      "planWeeks": 15,
+      "planRecommendedWeeks": 19,
+      "perKg": {
+        "carbsPerKg": 0.3,
+        "proteinPerKg": 0.8,
+        "fatPerKg": 1.5
+      },
+      "mealDistribution": {
+        "kahvalti": 9,
+        "ogle": 38,
+        "aksam": 48,
+        "ara": 5
+      },
+      "tableColumns": {
+        "calorie": true,
+        "carb": true,
+        "protein": true,
+        "fat": true
+      }
+    }
+  }
+}

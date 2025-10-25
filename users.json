@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "version": 2,
+    "generatedAt": "2024-12-09T20:30:00Z",
+    "description": "Kapsamlı kullanıcı sistemi: ADMIN/DIETITIAN/PATIENT rolleri, permissions, authentication ve access limits"
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "passwordHash": "$2b$12$KIXWq7rJ8GKVJGxE9QXB3uyG8K6FQ4LZ3Wc7vHqN1mPzY4Td8Ea6K",
+      "role": "ADMIN",
+      "fullName": "Dr. Yönetici",
+      "email": "admin@lipodem.com",
+      "createdAt": "2024-01-01T00:00:00Z",
+      "lastLogin": null,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "isActive": true,
+      "permissions": ["ALL", "PATIENT_MANAGE", "DIETITIAN_MANAGE", "SYSTEM_ADMIN"],
+      "assignedPatients": "ALL"
+    },
+    {
+      "id": 2,
+      "username": "dyt.ayse",
+      "passwordHash": "$2b$12$VEQp8rG9FGxD2YXB5uyP7eLM4K8FQ4LZ3Wc7vHqN1mPzY4Td8Ea7Q",
+      "role": "DIETITIAN",
+      "fullName": "Dyt. Ayşe Kaya",
+      "email": "ayse@lipodem.com",
+      "createdAt": "2024-01-15T00:00:00Z",
+      "lastLogin": null,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "isActive": true,
+      "permissions": ["PATIENT_VIEW", "PATIENT_EDIT", "MEAL_MANAGE", "PROGRESS_VIEW"],
+      "assignedPatients": [1, 2, 3]
+    },
+    {
+      "id": 3,
+      "username": "hasta001",
+      "passwordHash": "$2b$12$XYZa9rH6MGxE3YXC7uyQ8fNP5K9GQ5MZ4Xd8wIrO2nQaZ5Ue9Fb8R",
+      "role": "PATIENT",
+      "fullName": "Ahmet Yılmaz",
+      "email": "ahmet@example.com",
+      "createdAt": "2024-02-01T00:00:00Z",
+      "lastLogin": null,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "isActive": true,
+      "permissions": ["SELF_VIEW", "SELF_EDIT", "MEAL_SELECT", "PDF_EXPORT"],
+      "patientId": 1,
+      "assignedDietitian": 2,
+      "accessLimits": {
+        "pdfExportsThisWeek": 0,
+        "pdfExportsThisMonth": 0,
+        "weeklyResetDate": "2024-12-16T00:00:00Z",
+        "monthlyResetDate": "2024-12-01T00:00:00Z",
+        "maxWeeksAccess": 52
+      }
+    },
+    {
+      "id": 4,
+      "username": "hasta002",
+      "passwordHash": "$2b$12$ABCb8sI7NHyF4ZYD8vzR9gOP6L0HR6NZ5Ye9xJsP3oRbA6Vf0Gc9S",
+      "role": "PATIENT",
+      "fullName": "Fatma Demir",
+      "email": "fatma@example.com",
+      "createdAt": "2024-02-15T00:00:00Z",
+      "lastLogin": null,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "isActive": true,
+      "permissions": ["SELF_VIEW", "SELF_EDIT", "MEAL_SELECT", "PDF_EXPORT"],
+      "patientId": 2,
+      "assignedDietitian": 2,
+      "accessLimits": {
+        "pdfExportsThisWeek": 1,
+        "pdfExportsThisMonth": 3,
+        "weeklyResetDate": "2024-12-16T00:00:00Z",
+        "monthlyResetDate": "2024-12-01T00:00:00Z",
+        "maxWeeksAccess": 52
+      }
+    },
+    {
+      "id": 5,
+      "username": "hasta003",
+      "passwordHash": "$2b$12$DEFc9tJ8OIzG5aZE9w0S0hPQ7M1IS7OA6Zf0yKtQ4pScB7Wg1Hd0T",
+      "role": "PATIENT",
+      "fullName": "Mehmet Özkan",
+      "email": "mehmet@example.com",
+      "createdAt": "2024-03-01T00:00:00Z",
+      "lastLogin": null,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "isActive": true,
+      "permissions": ["SELF_VIEW", "SELF_EDIT", "MEAL_SELECT", "PDF_EXPORT"],
+      "patientId": 3,
+      "assignedDietitian": 2,
+      "accessLimits": {
+        "pdfExportsThisWeek": 0,
+        "pdfExportsThisMonth": 1,
+        "weeklyResetDate": "2024-12-16T00:00:00Z",
+        "monthlyResetDate": "2024-12-01T00:00:00Z",
+        "maxWeeksAccess": 52
+      }
+    }
+  ],
+  "metadata": {
+    "totalUsers": 5,
+    "activeUsers": 5,
+    "roles": {
+      "ADMIN": 1,
+      "DIETITIAN": 1,
+      "PATIENT": 3
+    },
+    "lastUpdated": "2024-12-09T20:30:00Z"
+  },
+  "systemSettings": {
+    "auth": {
+      "sessionTimeout": 14400000,
+      "maxLoginAttempts": 5,
+      "lockoutDuration": 1800000,
+      "tokenExpiry": 86400000,
+      "saltRounds": 12
+    },
+    "patientLimits": {
+      "pdfExportsPerWeek": 2,
+      "pdfExportsPerMonth": 6,
+      "maxWeeksAccess": 52,
+      "maxConcurrentSessions": 2
+    }
+  },
+  "_notes": {
+    "passwordHash": "bcrypt hash - örnek hashlar production'da değiştirilecek",
+    "permissions": "Role-based permissions array - ADMIN hepsiyle access",
+    "patientId": "hasta kullanıcısının bağlı olduğu hasta profil ID'si (patients/ klasöründe)",
+    "assignedPatients": "Diyetisyene atanmış hasta ID'leri, ADMIN için 'ALL'",
+    "accessLimits": "Hasta kullanıcıları için kullanım sınırları ve reset tarihleri",
+    "phase2": "Authentication login/logout sistemi implement edilecek"
+  }
+}

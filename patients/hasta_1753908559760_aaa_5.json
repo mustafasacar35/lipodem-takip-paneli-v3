@@ -1,0 +1,29 @@
+{
+  "id": 1753908559760,
+  "isim": "AAA_5",
+  "not": "",
+  "arsiv": false,
+  "haftalar": [
+    {
+      "haftaNo": 3,
+      "baslangic": "2025-07-28",
+      "bitis": "2025-08-03",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": "ALEV KAYA 28 TEMMUZ -3 AĞUSTOS 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "ALEV KAYA 28 TEMMUZ -3 AĞUSTOS 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/ALEV KAYA 28 TEMMUZ -3 AĞUSTOS 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ALEV KAYA 28 TEMMUZ -3 AĞUSTOS 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ALEV KAYA 28 TEMMUZ -3 AĞUSTOS 3. HAFTA.pdf",
+      "kayitTarihi": "2025-07-30T20:49:35.730Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
+    }
+  ],
+  "olusturmaTarihi": "2025-07-30T20:49:19.761Z",
+  "yeniSistem": true,
+  "sonGuncelleme": "2025-07-30T20:49:35.730Z",
+  "githubKaydedildi": true
+}

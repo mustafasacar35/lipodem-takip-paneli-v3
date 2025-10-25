@@ -1,0 +1,149 @@
+{
+  "dietType": "lowcarb",
+  "activityLevel": 3,
+  "goal": "maintain",
+  "goalPct": 3,
+  "weightKg": 76,
+  "perKg": {
+    "carbsPerKg": 0.6,
+    "proteinPerKg": 0.8,
+    "fatPerKg": 1.3
+  },
+  "mealDistribution": {
+    "kahvalti": 9,
+    "ogle": 38,
+    "aksam": 48,
+    "ara": 5
+  },
+  "weight": 76,
+  "activity": 3,
+  "targetWeightKg": 60.3,
+  "targetWeight": 60.3,
+  "goalWeight": 60.3,
+  "tableColumns": {
+    "calorie": true,
+    "carb": true,
+    "protein": true,
+    "fat": true
+  },
+  "patientVisibility": {
+    "dietType": true,
+    "activity": true,
+    "goal": true,
+    "goalPct": true,
+    "weight": true,
+    "targetWeight": true,
+    "weightPlan": true,
+    "weightPlanDetail": true,
+    "perKg": true,
+    "macroTargets": true
+  },
+  "weeklyOverrides": {
+    "3": {
+      "dietType": "lowcarb",
+      "activityLevel": 3,
+      "goal": "maintain",
+      "goalPct": 0,
+      "weightKg": 63,
+      "perKg": {
+        "carbsPerKg": 0.6,
+        "proteinPerKg": 0.8,
+        "fatPerKg": 1
+      },
+      "mealDistribution": {
+        "kahvalti": 9,
+        "ogle": 38,
+        "aksam": 48,
+        "ara": 5
+      }
+    },
+    "10": {
+      "dietType": "keto",
+      "activityLevel": 3,
+      "goal": "maintain",
+      "goalPct": 0,
+      "weightKg": 75,
+      "perKg": {
+        "carbsPerKg": 0.3,
+        "proteinPerKg": 0.8,
+        "fatPerKg": 1.2
+      },
+      "mealDistribution": {
+        "kahvalti": 9,
+        "ogle": 38,
+        "aksam": 48,
+        "ara": 5
+      },
+      "tableColumns": {
+        "calorie": false,
+        "carb": false,
+        "protein": false,
+        "fat": false
+      },
+      "targetWeightKg": 61
+    },
+    "11": {
+      "dietType": "lowcarb",
+      "activityLevel": 3,
+      "goal": "maintain",
+      "goalPct": 3,
+      "weightKg": 76,
+      "perKg": {
+        "carbsPerKg": 0.6,
+        "proteinPerKg": 0.8,
+        "fatPerKg": 1.3
+      },
+      "mealDistribution": {
+        "kahvalti": 9,
+        "ogle": 38,
+        "aksam": 48,
+        "ara": 5
+      },
+      "tableColumns": {
+        "calorie": true,
+        "carb": true,
+        "protein": true,
+        "fat": true
+      },
+      "patientVisibility": {
+        "dietType": true,
+        "activity": true,
+        "goal": true,
+        "goalPct": true,
+        "weight": true,
+        "targetWeight": true,
+        "weightPlan": true,
+        "weightPlanDetail": true,
+        "perKg": true,
+        "macroTargets": true
+      },
+      "targetWeightKg": 60.3,
+      "activity": 3,
+      "weight": 76,
+      "targetWeight": 60.3,
+      "goalWeight": 60.3
+    },
+    "12": {
+      "weightKg": 64,
+      "activityLevel": 2
+    },
+    "13": {
+      "dietType": "lowcarb",
+      "activityLevel": 3,
+      "goal": "maintain",
+      "goalPct": -20,
+      "weightKg": 61.7,
+      "perKg": {
+        "carbsPerKg": 0.6,
+        "proteinPerKg": 0.8,
+        "fatPerKg": 1
+      },
+      "mealDistribution": {
+        "kahvalti": 9,
+        "ogle": 38,
+        "aksam": 48,
+        "ara": 5
+      }
+    }
+  }
+}

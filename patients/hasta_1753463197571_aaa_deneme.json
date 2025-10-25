@@ -1,0 +1,84 @@
+{
+  "id": 1753463197571,
+  "isim": "AAA___deneme",
+  "not": "",
+  "arsiv": false,
+  "haftalar": [
+    {
+      "haftaNo": 20,
+      "baslangic": "2025-07-28",
+      "bitis": "2025-08-03",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": "DERYA BAYINDIR 11-17 AĞUSTOS 20. HAFTA.pdf",
+      "tarifKartlar": [
+        {
+          "name": "hindistancevizi_unlu_ispanakli_muffin.jpg",
+          "data": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/hindistancevizi_unlu_ispanakli_muffin.jpg"
+        },
+        {
+          "name": "mantarli_tatli_patates.jpg",
+          "data": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/mantarli_tatli_patates.jpg"
+        },
+        {
+          "name": "karabugday_ekmegi.jpg",
+          "data": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/karabugday_ekmegi.jpg"
+        },
+        {
+          "name": "firinda_sebzeli_peynirli_guvec.jpg",
+          "data": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/firinda_sebzeli_peynirli_guvec.jpg"
+        },
+        {
+          "name": "susamli_omlet.jpg",
+          "data": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/susamli_omlet.jpg"
+        },
+        {
+          "name": "tavuklu_bamya.jpg",
+          "data": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tavuklu_bamya.jpg"
+        },
+        {
+          "name": "yogurtlu_kabak_mezesi.jpg",
+          "data": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/yogurtlu_kabak_mezesi.jpg"
+        },
+        {
+          "name": "urfa_adana_kebap.jpg",
+          "data": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/urfa_adana_kebap.jpg"
+        },
+        {
+          "name": "cevizli_browni_kek.jpg",
+          "data": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/cevizli_browni_kek.jpg"
+        },
+        {
+          "name": "ispanakli_muffin.jpg",
+          "data": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/ispanakli_muffin.jpg"
+        },
+        {
+          "name": "kuzu_guvec.jpg",
+          "data": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kuzu_guvec.jpg"
+        },
+        {
+          "name": "tavuk_guvec.jpg",
+          "data": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tavuk_guvec.jpg"
+        },
+        {
+          "name": "imam_bayildi.jpg",
+          "data": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/imam_bayildi.jpg"
+        },
+        {
+          "name": "borani_yogurtlu_ispanak.jpg",
+          "data": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/borani_yogurtlu_ispanak.jpg"
+        }
+      ],
+      "gptMesaj": "",
+      "kayitTarihi": "2025-07-31T06:37:41.530Z",
+      "tarifler": [],
+      "pdfOrijinalIsim": "DERYA BAYINDIR 11-17 AĞUSTOS 20. HAFTA.pdf",
+      "pdfYolu": "pdfs/DERYA BAYINDIR 11-17 AĞUSTOS 20. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/DERYA BAYINDIR 11-17 AĞUSTOS 20. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/DERYA BAYINDIR 11-17 AĞUSTOS 20. HAFTA.pdf",
+      "pdfFile": {}
+    }
+  ],
+  "sonGuncelleme": "2025-07-31T06:37:41.531Z",
+  "githubKaydedildi": true
+}

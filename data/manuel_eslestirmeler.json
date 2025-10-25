@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "sonGuncelleme": "2025-08-22T08:20:33.249Z",
+  "eslestirmeler": {
+    "kofte": {
+      "orijinalMetin": "köfte",
+      "kartlar": [
+        "keto_kofte.jpg"
+      ],
+      "eklemeTarihi": "2025-08-09T09:09:00.826Z"
+    },
+    "yogurtlu kirmizi pancar salatasi": {
+      "orijinalMetin": "yoğurtlu kırmızı pancar salatası",
+      "kartlar": [
+        "yogurtlu_pancar_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-08-16T08:39:40.118Z"
+    },
+    "kiymali karnabahar lahana yemegi 150 gram kiyma ile": {
+      "orijinalMetin": "kıymalı karnabahar / lahana yemeği (150 gram kıyma ile)",
+      "kartlar": [
+        "kiymali_karnabahar_yemegi.jpg",
+        "kiymali_lahana_yemegi.jpg"
+      ],
+      "eklemeTarihi": "2025-08-16T08:40:01.950Z"
+    },
+    "hashas ezmesi ekmegi 1 dilim": {
+      "orijinalMetin": "haşhaş ezmesi ekmeği (1 dilim)",
+      "kartlar": [
+        "hashas_ezmesi_ekmegi.jpg"
+      ],
+      "eklemeTarihi": "2025-08-16T08:40:22.910Z"
+    },
+    "brokoli corbasi": {
+      "orijinalMetin": "brokoli çorbası",
+      "kartlar": [
+        "ketojenik_brokoli_corbasi.jpg"
+      ],
+      "eklemeTarihi": "2025-08-16T08:40:36.702Z"
+    }
+  }
+}

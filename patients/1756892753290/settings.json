@@ -1,0 +1,32 @@
+{
+  "weeklyOverrides": {
+    "2": {
+      "dietType": "lowcarb",
+      "activityLevel": 3,
+      "goal": "maintain",
+      "goalPct": -17,
+      "weightKg": 70,
+      "targetWeightKg": 67,
+      "planWeeklyRateKg": 0.7,
+      "planWeeks": 19,
+      "planRecommendedWeeks": 5,
+      "perKg": {
+        "carbsPerKg": 0.6,
+        "proteinPerKg": 0.8,
+        "fatPerKg": 1
+      },
+      "mealDistribution": {
+        "kahvalti": 9,
+        "ogle": 38,
+        "aksam": 48,
+        "ara": 5
+      },
+      "tableColumns": {
+        "calorie": true,
+        "carb": true,
+        "protein": true,
+        "fat": true
+      }
+    }
+  }
+}

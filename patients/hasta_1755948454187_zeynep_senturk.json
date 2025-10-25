@@ -1,0 +1,2321 @@
+{
+  "id": 1755948454187,
+  "isim": "ZEYNEP ŞENTÜRK",
+  "not": "",
+  "arsiv": false,
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2025-08-25",
+      "bitis": "2025-08-31",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": "ZEYNEP ŞENTÜRK 25-31 AĞUSTOS 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "ZEYNEP ŞENTÜRK  25-31 AĞUSTOS 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/ZEYNEP ŞENTÜRK 25-31 AĞUSTOS 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ZEYNEP ŞENTÜRK 25-31 AĞUSTOS 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ZEYNEP ŞENTÜRK 25-31 AĞUSTOS 1. HAFTA.pdf",
+      "kayitTarihi": null,
+      "tarifKartlar": [
+        {
+          "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
+          "kartResmi": "hashas_ezmesi_ekmegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/hashas_ezmesi_ekmegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "köfte",
+          "kartResmi": "keto_kofte.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/keto_kofte.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "Tahin ekmeği",
+          "kartResmi": "tahin_ekmegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tahin_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "kabak sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
+          "kartResmi": "kabak_sote.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/kabak_sote.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
+      "tarifler": [
+        "zeynep şentürk",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "ya da yarım avokado",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "köfte",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "ceviz (3 adet)",
+        "turşu (organik, ev yapımı)",
+        "sali",
+        "öğle",
+        "1 yumurta, 1 çorba kaşığı badem unu ile krep (1 çay kaşığı zeytinyağı tavayı yağlamak için)yumurta ve badem ununu çırpın, istediğiniz baharatları ekleyin kısık ateşli tavayı yağlayarak arkalı önlü pişirin",
+        "pastırma ya da 2 dilim hindi füme",
+        "Zeytin (10 adet)",
+        "Yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "Çiğ badem  (20 adet)",
+        "akşam",
+        "250 gram ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "Yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "Bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "Kollajen",
+        "çarşamba",
+        "öğle",
+        "Mantarlı Yumurta (100 gram mantar, 1 yemek kaşığı tereyağı, 1 adet yumurta, tuz ve baharatlar)",
+        "zeytin (5 adet)",
+        "Tahin ekmeği",
+        "Ceviz (3 adet)",
+        "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "akşam",
+        "köfte",
+        "kabak sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "toz kollajen 1 ölçek",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, marul, turp vs. + sirke ve limon+1 tatlı kaşığı zeytinyağı ile)",
+        "orta boy domates",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "ceviz (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "köfte",
+        "yeşillikler (dereotu, roka, maydanoz, marul, çeyrek soğan vs. + 1 tatlı kaşığı zeytinyağı)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "badem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın. i̇stediğiniz baharatları ekleyin1 tatlı kaşığı zeytinyağı",
+        "kısık ateşte arkalı önlü pişirin.)",
+        "ceviz (3 adet)",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + orta boy domates + 4-5 yaprak marul",
+        "akşam (tercihen hava kararınca)",
+        "izgara biftek ya da tavuk (150 gram)",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 tatlı kaşığı zeytinyağı)",
+        "turşu (organik, ev yapımı)",
+        "çiğ badem (10 adet)",
+        "cumartesi̇",
+        "öğle",
+        "Sahanda Yumurta (2 adet)",
+        "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+        "Tahin ekmeği",
+        "Ceviz (5 adet)",
+        "akşam",
+        "hindi ya da tavuk ızgara tava",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı",
+        "fındık (10 adet)",
+        "pazar",
+        "öğle",
+        "Sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
+        "Zeytin (10 adet)",
+        "Yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke ve limon ile)",
+        "akşam",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "kollajen (1 ölçek 5 gram)"
+      ],
+      "gptMesaj": "Zeynep Hanım merhaba,\n\nBirinci haftaya başlarken listenizde kahvaltıda kahve yer almıyor; bu nedenle sabahları farklı içeceklerle ilerliyoruz. Kahvaltıların en önemli parçası olan yumurtayı bu süreçte bolca kullanacağız. Yumurta; protein, B12 vitamini, kolin, demir ve çinko gibi birçok mikro besini içeriyor. Bu özellikleri sayesinde hem kas kütlesini korumaya, hem de uzun süreli tokluk sağlamaya yardımcı olur. Aynı zamanda içerdiği sağlıklı yağlarla hormon dengenizi de destekleyecektir.\n\nİlk iki hafta boyunca süt ürünlerini tamamen çıkarmış olacağız. Bunun nedeni bağırsak florasının yeniden yapılanmasına destek olmaktır. Böylece ilerleyen haftalarda süt ürünlerini kontrollü şekilde tekrar eklediğimizde sindirim ve bağışıklık açısından çok daha iyi tolere edilecektir.\n\nTakviyelere başlamış olmanız bu dönemde süreci destekleyecek önemli bir adım. Özellikle ilk iki haftanın biraz zorlayıcı olabileceğini bilmekte fayda var. Bu süreden sonra liste çok daha esnek hale gelecek.\n\nListelerdeki öğünler hem ketojenik beslenmenin temelini oluşturuyor hem de lipödem açısından inflamasyonu azaltıcı özellikler taşıyor. Yeme düzeninde sabırlı olmak, öğünleri atlamamak ve sıvı alımına dikkat etmek bu dönemde çok önemlidir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Bu ilk haftanın sizde nasıl geçtiğini, öğünlere uyumunuzu ve hislerinizi merak ediyorum.",
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": [],
+      "eslesenTarifler": [
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "köfte",
+        "Tahin ekmeği",
+        "köfte",
+        "kabak sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "köfte",
+        "Tahin ekmeği"
+      ],
+      "eslesmeyenTarifler": [
+        "zeynep şentürk",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "ya da yarım avokado",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "ceviz (3 adet)",
+        "turşu (organik, ev yapımı)",
+        "sali",
+        "öğle",
+        "1 yumurta, 1 çorba kaşığı badem unu ile krep (1 çay kaşığı zeytinyağı tavayı yağlamak için)yumurta ve badem ununu çırpın, istediğiniz baharatları ekleyin kısık ateşli tavayı yağlayarak arkalı önlü pişirin",
+        "pastırma ya da 2 dilim hindi füme",
+        "Zeytin (10 adet)",
+        "Yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "Çiğ badem  (20 adet)",
+        "akşam",
+        "250 gram ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "Yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "Bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "Kollajen",
+        "çarşamba",
+        "öğle",
+        "Mantarlı Yumurta (100 gram mantar, 1 yemek kaşığı tereyağı, 1 adet yumurta, tuz ve baharatlar)",
+        "zeytin (5 adet)",
+        "Ceviz (3 adet)",
+        "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "akşam",
+        "köfte",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "toz kollajen 1 ölçek",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, marul, turp vs. + sirke ve limon+1 tatlı kaşığı zeytinyağı ile)",
+        "orta boy domates",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "ceviz (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "köfte",
+        "yeşillikler (dereotu, roka, maydanoz, marul, çeyrek soğan vs. + 1 tatlı kaşığı zeytinyağı)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "badem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın. i̇stediğiniz baharatları ekleyin1 tatlı kaşığı zeytinyağı",
+        "kısık ateşte arkalı önlü pişirin.)",
+        "ceviz (3 adet)",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + orta boy domates + 4-5 yaprak marul",
+        "akşam (tercihen hava kararınca)",
+        "izgara biftek ya da tavuk (150 gram)",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 tatlı kaşığı zeytinyağı)",
+        "turşu (organik, ev yapımı)",
+        "çiğ badem (10 adet)",
+        "cumartesi̇",
+        "öğle",
+        "Sahanda Yumurta (2 adet)",
+        "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+        "Tahin ekmeği",
+        "Ceviz (5 adet)",
+        "akşam",
+        "hindi ya da tavuk ızgara tava",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı",
+        "fındık (10 adet)",
+        "pazar",
+        "öğle",
+        "Sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
+        "Zeytin (10 adet)",
+        "Yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke ve limon ile)",
+        "akşam",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "kollajen (1 ölçek 5 gram)"
+      ],
+      "hastaIsmi": "ZEYNEP SENTURK",
+      "tarihAraligi": "25-31 AGUSTOS",
+      "realizedAvgKcal": 1051,
+      "rowMatchedCards": {
+        "8": {
+          "yemek": "sahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)",
+          "kartlar": []
+        },
+        "14": {
+          "yemek": "İmam Bayıldı",
+          "kartlar": [
+            {
+              "name": "imam_bayildi.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/imam_bayildi.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/imam_bayildi.jpg"
+            }
+          ]
+        },
+        "36": {
+          "yemek": "Lahana Mücver",
+          "kartlar": [
+            {
+              "name": "lahana_mucver.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lahana_mucver.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lahana_mucver.jpg"
+            },
+            {
+              "name": "mucver.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/mucver.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/mucver.jpg"
+            }
+          ]
+        },
+        "81": {
+          "yemek": "Kırmızı et ya da tavuklu bamya yemeği (100 gram et ile)",
+          "kartlar": [
+            {
+              "name": "tavuklu_bamya.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tavuklu_bamya.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tavuklu_bamya.jpg"
+            }
+          ]
+        }
+      },
+      "haftaninTarifleriLive": false,
+      "_orijinalOgunler": {
+        "orig_meal_pazar_öğle": {
+          "createdAt": 1759245242249,
+          "gun": "pazar",
+          "ogun": "öğle",
+          "rows": [
+            "sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
+            "zeytin (10 adet)",
+            "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke ve limon ile)"
+          ]
+        },
+        "orig_meal_cumartesi_öğle": {
+          "createdAt": 1759245261035,
+          "gun": "cumartesi",
+          "ogun": "öğle",
+          "rows": [
+            "mantarlı omlet (2 adet yumurta,5 adet mantar,1 tatlı kaşığı tereyağı)",
+            "zeytin (5 adet)",
+            "tahin ekmeği (1 dilim)",
+            "ceviz (3 adet)",
+            "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)"
+          ]
+        },
+        "orig_meal_çarşamba_öğle": {
+          "createdAt": 1759245281709,
+          "gun": "çarşamba",
+          "ogun": "öğle",
+          "rows": [
+            "sahanda yumurta (2 yumurta - 1 tatlı kaşığı tereyağı)",
+            "pastırma ya da 2 dilim hindi füme",
+            "tahin ekmeği (1 dilim)",
+            "zeytin (5 adet)",
+            "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon )"
+          ]
+        },
+        "orig_meal_sali_öğle": {
+          "createdAt": 1759245304456,
+          "gun": "sali",
+          "ogun": "öğle",
+          "rows": [
+            "sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
+            "zeytin (10 adet)",
+            "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke ve limon ile)"
+          ]
+        },
+        "orig_meal_sali_akşam": {
+          "createdAt": 1759245308101,
+          "gun": "sali",
+          "ogun": "akşam",
+          "rows": [
+            "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+            "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+            "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+            "kollajen (1 ölçek 5 gram)"
+          ]
+        }
+      },
+      "_uygulananOgunSablonlari": {
+        "sim_meal_pazar_öğle": "e24753ba-6cb6-4385-a636-ace9da274a41",
+        "sim_meal_cumartesi_öğle": "dbb21908-ba40-487a-991c-b7aadf96593b",
+        "sim_meal_çarşamba_öğle": "78cdba0b-b2a7-4259-a0aa-31e3327eddd9",
+        "sim_meal_sali_öğle": "42aea5f5-0efa-4b63-8fba-b8048b6126fe",
+        "sim_meal_sali_akşam": "480a5237-7ad8-46b8-b8cb-5ef2c50518b0"
+      }
+    },
+    {
+      "haftaNo": 2,
+      "baslangic": "2025-09-01",
+      "bitis": "2025-09-07",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": "ZEYNEP ŞENTÜRK 1-7 EYLÜL 2. HAFTA (3).pdf",
+      "pdfOrijinalIsim": "ZEYNEP ŞENTÜRK 1-7 EYLÜL 2. HAFTA (3).pdf",
+      "pdfYolu": "pdfs/ZEYNEP ŞENTÜRK 1-7 EYLÜL 2. HAFTA (3).pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ZEYNEP ŞENTÜRK 1-7 EYLÜL 2. HAFTA (3).pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ZEYNEP ŞENTÜRK 1-7 EYLÜL 2. HAFTA (3).pdf",
+      "kayitTarihi": "2025-08-29T06:03:06.411Z",
+      "tarifKartlar": [
+        {
+          "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
+          "kartResmi": "hashas_ezmesi_ekmegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/hashas_ezmesi_ekmegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kaşarlı kabak graten",
+          "kartResmi": "kasarli_kabak_graten.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/kasarli_kabak_graten.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "karabuğday ekmeği 1 dilim 25 gr",
+          "kartResmi": "karabugday_ekmegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/karabugday_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuk döner (100 gr)",
+          "kartResmi": "tavuk_doner.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tavuk_doner.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
+      "tarifler": [
+        "zeynep şentürk / 1-7 eylül 2025",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)",
+        "hafta",
+        "pazartesi̇",
+        "öğle",
+        "sahanda yumurta (1 yumurta – 1 yemek kaşığı tereyağı)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon ve 1 yemek kaşığı zeytinyağı ile)",
+        "tulum / kaşar peyniri (50 gram)",
+        "zeytin (10 adet)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "cherry domates (3 adet)",
+        "akşam",
+        "tavuk ya da et pirzola",
+        "kaşarlı kabak graten",
+        "turşu (organik, ev yapımı)",
+        "sali",
+        "öğle (",
+        "sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke ve limon ile)",
+        "akşam",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "kollajen (1 ölçek 5 gram)",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "fırında domates soslu sebze kızartması (1 kabak, 3 yeşil biber, 1 adet orta boy patlıcan + üzerine 1 adet domates ve 1 diş",
+        "zeytin (10 adet)",
+        "mevsim yeşillikleri (4-5 dal dereotu,4-5 dal roka,4-5 dal maydanoz + 1 dilim limon ile",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "ceviz (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "kıymalı kabak/ taze fasulye yemeği (100 gr kıyma ile)",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
+        "bitter çikolata (2 kare)",
+        "kollajen (1 ölçek 10 gram)",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "zeytin (10 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "ceviz (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "tavuk sote (150 gr tavuk fleto, 1adet orta boy domates,1 adet yeşil biber, 5 adet mantar, 1 yemek kaşığı zeytinyağı)",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "çiğ badem (10 adet)",
+        "kollajen (1 ölçek 10 gram)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yumurta salatası (2 adet haşlanmış yumurta, 5 dal maydanoz, 5 dal dereotu, 1 dilim limon ve 1 tatlı kaşığı zeytinyağı",
+        "cherry domates (2 adet)",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "zeytin (5 adet)",
+        "ceviz (3 adet)",
+        "akşam (tercihen hava kararınca)",
+        "urfa / adana kebap 150 gram ( 1 porsiyon)",
+        "mevsim yeşillikleri (dereotu, roka, maydanoz, marul vs. + 1 tatlı kaşığı zeytinyağı)",
+        "kabak çekirdeği (1 avuç)",
+        "bitter çikolata (2 kare)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sebzeli omlet (1 yumurta, 5 adet mantar, 5 yaprak ıspanak, 1 tatlı kaşığı tereyağı)",
+        "zeytin (10 adet)",
+        "mevsim yeşillikleri (4-5 dal dereotu,4-5 dal roka,4-5 dal maydanoz + 1 adet küçük salatalık + 1 dilim limon +1 tatlı kaşığı",
+        "ceviz (3 adet)",
+        "akşam (tercihen hava kararınca)",
+        "tavuk döner (100 gr)",
+        "yeşil salata + 1 yemek kaşığı zeytinyağı ile",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "çilek",
+        "kollajen (1 ölçek 10 gram)",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (2 adet)",
+        "kasap sucuk (30 gram)",
+        "zeytin (10 adet)",
+        "cherry domates (2 adet)",
+        "mevsim yeşillikleri (4-5 dal dereotu,4-5 dal roka,4-5 dal maydanoz + 1 adet küçük salatalık + 1 dilim limon +1 tatlı kaşığı",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "akşam (tercihen hava kararınca)",
+        "ispanaklı ve kıymalı yumurta (1 yumurta, 200 gram ıspanak, 100 gram kıyma)",
+        "yeşil salata + 1 yemek kaşığı zeytinyağı ile",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
+        "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
+      ],
+      "gptMesaj": "Merhaba Zeynep Hanım,\n\nİkinci haftaya başlıyoruz. İlk haftada süt ürünlerini tamamen çıkarmıştık, bu hafta da eliminasyon sürecine devam ediyoruz. Amacımız bağırsak sisteminizi dinlendirmek, inflamasyonu azaltmak ve ilerleyen haftalarda daha sağlam bir zemin hazırlamak.\n\nListelerinizde dikkat çeken noktalardan biri yumurtanın farklı formlarda öğlen öğünlerine yerleştirilmiş olması. Yumurta; D vitamini, B12, kolin ve selenyum açısından zengin olduğu için lipödemde hem bağışıklık hem de hücre onarımı açısından kritik bir besin. Yanına eklenen avokado, sağlıklı yağlarıyla uzun süreli tokluk sağlıyor ve kan şekeri dengesini koruyor. Avokadoyu sevdiğinizi biliyorum, bu süreci daha keyifli hale getirecek.\n\nAkşam öğünlerinde patlıcan musakka, tavuk güveç, kıymalı kabak gibi seçenekler öne çıkıyor. Bu yemekler hem liften hem de protein kaynaklarından zengin; ödemin çözülmesi ve dokuların toparlanması için önemli. Özellikle semizotu, ıspanak ve roka gibi yeşillikler yüksek miktarda magnezyum ve C vitamini içeriyor. Bu ikili, kollajen sentezine destek olarak bağ dokusunun sıkılaşmasını kolaylaştırıyor. Kollajen desteğini de akşam öğününden sonra almanız bu süreci daha da pekiştirecek.\n\nÇikolata sevdiğinizi biliyoruz, listede ölçülü şekilde bitter çikolataya yer verilmesi hem tatlı isteğinizi yönetmek için hem de flavonoid içeriği sayesinde damar sağlığınızı desteklemek için planlandı. Hindi füme gibi bazı seçenekleri henüz bilmiyorsunuz; uygun olduğunda denemeniz için bilgi vereceğiz.\n\nÖğünlerde kırmızı et tüketimini biraz artırmanız faydalı olabilir çünkü demir ve B12 kaynağıdır; lipödemde doku oksijenlenmesini destekler. Bu dönemde su tüketiminizi 2 litrenin üzerinde tutmanız ve günlük ortalama 5000 adım hedefinizi mümkün olduğunca yakalamanız önemli. Güne sabah limonlu ve sirkeli ılık su ile başlamanız bağırsak hareketliliğine yardımcı olur, olası kabızlık riskini azaltır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
+      "pdfFile": {},
+      "manuelKartlar": [],
+      "eslesenTarifler": [
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "kaşarlı kabak graten",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "tavuk döner (100 gr)",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "karabuğday ekmeği 1 dilim 25 gr"
+      ],
+      "eslesmeyenTarifler": [
+        "zeynep şentürk / 1-7 eylül 2025",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)",
+        "hafta",
+        "pazartesi̇",
+        "öğle",
+        "sahanda yumurta (1 yumurta – 1 yemek kaşığı tereyağı)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon ve 1 yemek kaşığı zeytinyağı ile)",
+        "tulum / kaşar peyniri (50 gram)",
+        "zeytin (10 adet)",
+        "cherry domates (3 adet)",
+        "akşam",
+        "tavuk ya da et pirzola",
+        "turşu (organik, ev yapımı)",
+        "sali",
+        "öğle (",
+        "sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke ve limon ile)",
+        "akşam",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "kollajen (1 ölçek 5 gram)",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "fırında domates soslu sebze kızartması (1 kabak, 3 yeşil biber, 1 adet orta boy patlıcan + üzerine 1 adet domates ve 1 diş",
+        "zeytin (10 adet)",
+        "mevsim yeşillikleri (4-5 dal dereotu,4-5 dal roka,4-5 dal maydanoz + 1 dilim limon ile",
+        "ceviz (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "kıymalı kabak/ taze fasulye yemeği (100 gr kıyma ile)",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
+        "bitter çikolata (2 kare)",
+        "kollajen (1 ölçek 10 gram)",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "zeytin (10 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "ceviz (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "tavuk sote (150 gr tavuk fleto, 1adet orta boy domates,1 adet yeşil biber, 5 adet mantar, 1 yemek kaşığı zeytinyağı)",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "çiğ badem (10 adet)",
+        "kollajen (1 ölçek 10 gram)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yumurta salatası (2 adet haşlanmış yumurta, 5 dal maydanoz, 5 dal dereotu, 1 dilim limon ve 1 tatlı kaşığı zeytinyağı",
+        "cherry domates (2 adet)",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "zeytin (5 adet)",
+        "ceviz (3 adet)",
+        "akşam (tercihen hava kararınca)",
+        "urfa / adana kebap 150 gram ( 1 porsiyon)",
+        "mevsim yeşillikleri (dereotu, roka, maydanoz, marul vs. + 1 tatlı kaşığı zeytinyağı)",
+        "kabak çekirdeği (1 avuç)",
+        "bitter çikolata (2 kare)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sebzeli omlet (1 yumurta, 5 adet mantar, 5 yaprak ıspanak, 1 tatlı kaşığı tereyağı)",
+        "zeytin (10 adet)",
+        "mevsim yeşillikleri (4-5 dal dereotu,4-5 dal roka,4-5 dal maydanoz + 1 adet küçük salatalık + 1 dilim limon +1 tatlı kaşığı",
+        "ceviz (3 adet)",
+        "akşam (tercihen hava kararınca)",
+        "yeşil salata + 1 yemek kaşığı zeytinyağı ile",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "çilek",
+        "kollajen (1 ölçek 10 gram)",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (2 adet)",
+        "kasap sucuk (30 gram)",
+        "zeytin (10 adet)",
+        "cherry domates (2 adet)",
+        "mevsim yeşillikleri (4-5 dal dereotu,4-5 dal roka,4-5 dal maydanoz + 1 adet küçük salatalık + 1 dilim limon +1 tatlı kaşığı",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "akşam (tercihen hava kararınca)",
+        "ispanaklı ve kıymalı yumurta (1 yumurta, 200 gram ıspanak, 100 gram kıyma)",
+        "yeşil salata + 1 yemek kaşığı zeytinyağı ile",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
+        "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
+      ],
+      "hastaIsmi": "ZEYNEP SENTURK",
+      "tarihAraligi": "1-7 EYLUL",
+      "realizedAvgKcal": 1069,
+      "rowMatchedCards": {
+        "13": {
+          "yemek": "Kıymalı biber dolması (2 adet)",
+          "kartlar": []
+        },
+        "15": {
+          "yemek": "Kıymalı - Yumurtalı Ispanak Kavurma",
+          "kartlar": [
+            {
+              "name": "yumurtali_ispanak.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/yumurtali_ispanak.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/yumurtali_ispanak.jpg"
+            }
+          ]
+        },
+        "23": {
+          "yemek": "250 gram ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+          "kartlar": []
+        },
+        "47": {
+          "yemek": "Kırmızı et ya da tavuklu bamya yemeği (100 gram et ile)",
+          "kartlar": [
+            {
+              "name": "tavuklu_bamya.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tavuklu_bamya.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tavuklu_bamya.jpg"
+            }
+          ]
+        },
+        "56": {
+          "yemek": "Kırmızı et ya da tavuklu bamya yemeği (100 gram et ile)",
+          "kartlar": [
+            {
+              "name": "tavuklu_bamya.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tavuklu_bamya.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tavuklu_bamya.jpg"
+            }
+          ]
+        }
+      },
+      "haftaninTarifleriLive": false
+    },
+    {
+      "haftaNo": 3,
+      "baslangic": "2025-09-08",
+      "bitis": "2025-09-14",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": "ZEYNEP ŞENTÜRK 8-14 EYLÜL 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "ZEYNEP ŞENTÜRK 8-14 EYLÜL 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/ZEYNEP ŞENTÜRK 8-14 EYLÜL 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ZEYNEP ŞENTÜRK 8-14 EYLÜL 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ZEYNEP ŞENTÜRK 8-14 EYLÜL 3. HAFTA.pdf",
+      "kayitTarihi": "2025-09-03T18:54:47.818Z",
+      "tarifKartlar": [
+        {
+          "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
+          "kartResmi": "hashas_ezmesi_ekmegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/hashas_ezmesi_ekmegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "köfte",
+          "kartResmi": "keto_kofte.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/keto_kofte.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "Kabak Sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
+          "kartResmi": "kabak_sote.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/kabak_sote.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
+      "tarifler": [
+        "zeynep şentürk",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "ya da yarım avokado",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "köfte",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "ceviz (3 adet)",
+        "turşu (organik, ev yapımı)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "menemen (2 yumurta ile)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "mevsim yeşillikleri (dereotu, roka, maydanoz, marul vs. + sirke, limon ve 1 tatlı kaşığı zeytinyağı ile )",
+        "zeytin (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "Köfte",
+        "Kabak Sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
+        "Yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "Toz kollajen 1 ölçek",
+        "çarşamba",
+        "öğle (",
+        "sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke ve limon ile)",
+        "akşam",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "kollajen (1 ölçek 5 gram)",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, marul, turp vs. + sirke ve limon+1 tatlı kaşığı zeytinyağı ile)",
+        "orta boy domates",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "ceviz (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "köfte",
+        "yeşillikler (dereotu, roka, maydanoz, marul, çeyrek soğan vs. + 1 tatlı kaşığı zeytinyağı)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "badem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın. i̇stediğiniz baharatları ekleyin1 tatlı kaşığı zeytinyağı",
+        "kısık ateşte arkalı önlü pişirin.)",
+        "ceviz (3 adet)",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + orta boy domates + 4-5 yaprak marul",
+        "akşam (tercihen hava kararınca)",
+        "izgara biftek ya da tavuk (150 gram)",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 tatlı kaşığı zeytinyağı)",
+        "turşu (organik, ev yapımı)",
+        "çiğ badem (10 adet)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "mantarlı omlet (1 yumurta, 2 mantar, 1 biber, 1 tatlı kaşığı tereyağı, tuz, baharatlar)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. sirke, limon ve 1 yemek kaşığı zeytinyağı ile",
+        "çiğ badem (20 adet)",
+        "akşam (tercihen hava kararınca)",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "roka salatası (yarım bağ roka, 5 adet fındık turp, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı",
+        "ceviz (3 adet)",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sucuklu yumurta (60 gram kasap sucuk + 1 yumurta ile)",
+        "zeytin (5 adet)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "çiğ badem (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, turp, sirke ve limon ile)",
+        "akşam (tercihen hava kararınca)",
+        "tavuk güveç",
+        "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
+        "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
+      ],
+      "gptMesaj": "Merhaba Zeynep Hanım,\n\nÜçüncü haftaya başladık. Bu hafta programda süt ürünlerini yeniden ve kontrollü şekilde ekliyoruz. Özellikle tulum ve kaşar peyniri ile lor, hem kalsiyum hem de probiyotik etkileri sayesinde bağırsak florasını destekleyecek. Böylece hem sindirim sisteminizin dengesi güçlenecek hem de tatlı isteğinizin azalmasına katkı sağlayacak.\n\nYulaf unu ile yaptığınız ekmeği beğenmiş olmanız çok güzel. Ketojenikfırın’ın farklı karışım unları ve ekmeklerini de değerlendirebilirsiniz; böylece hem çeşitlilik sağlanır hem de lezzet açısından sıkılmadan devam edebilirsiniz. Lupin bulguru için gönderdiğimiz link sayesinde de bulgur isteğinizi sağlıklı bir şekilde karşılamanız mümkün. Burada önemli olan her seçimin makrolara uygun olması. Lezzeti kendi damak tadınıza göre uyarlayabilirsiniz, ancak temel kurallara uymanız, kalıcı bir değişim için kritik.\n\nBu haftaki listede dikkat çekenlerden biri avokado, semizotu, ıspanak ve roka gibi yeşilliklerin düzenli olarak yer alması. Bunlar magnezyum, C vitamini ve folat açısından zengin, yani hem ödem çözülmesine hem de bağ dokusunun güçlenmesine destek sağlıyor. Balık, tavuk, kıyma gibi farklı protein kaynaklarıyla çeşitlilik sağladık; bunlar kas ve bağ dokusunu besleyerek incelme sürecine katkı veriyor. Kollajen desteğiniz de bu süreci tamamlıyor.\n\nÖnümüzdeki haftalarda beslenme planı daha da esneyecek. Onuncu haftadan itibaren baklagiller ve mevsim meyvelerini kontrollü şekilde ekleyerek daha geniş bir yelpazeye geçeceğiz. Ama özellikle bacaklardaki incelmenin kalıcı olması için bu ilk haftalarda disiplinli ilerlemek çok önemli. Beslenme ne kadar kritikse, 2 hafta sonra başlayacağımız manuel lenf drenaj masajları da o kadar belirleyici olacak. Masajın nasıl yapılacağına dair detaylı bilgileri zamanında paylaşacağız.\n\nLipödem kronik bir tablo, bu nedenle sabır ve istikrarla ilerlemek gerekiyor. Sizden gelen sorular ve denemeleriniz, süreci öğrenerek kalıcı bir yaşam tarzına dönüştürmek istediğinizi gösteriyor. Küçük uyarlamalarla süreci daha keyifli hale getirebilirsiniz; bu, motivasyonu korumanın en güçlü yollarından biri.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
+      "pdfFile": {},
+      "manuelKartlar": [],
+      "eslesenTarifler": [
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "köfte",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "Köfte",
+        "Kabak Sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "köfte",
+        "haşhaş ezmesi ekmeği (1 dilim)"
+      ],
+      "eslesmeyenTarifler": [
+        "zeynep şentürk",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "ya da yarım avokado",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "ceviz (3 adet)",
+        "turşu (organik, ev yapımı)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "menemen (2 yumurta ile)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "mevsim yeşillikleri (dereotu, roka, maydanoz, marul vs. + sirke, limon ve 1 tatlı kaşığı zeytinyağı ile )",
+        "zeytin (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "Köfte",
+        "Yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "Toz kollajen 1 ölçek",
+        "çarşamba",
+        "öğle (",
+        "sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke ve limon ile)",
+        "akşam",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "kollajen (1 ölçek 5 gram)",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, marul, turp vs. + sirke ve limon+1 tatlı kaşığı zeytinyağı ile)",
+        "orta boy domates",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "ceviz (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "köfte",
+        "yeşillikler (dereotu, roka, maydanoz, marul, çeyrek soğan vs. + 1 tatlı kaşığı zeytinyağı)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "badem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın. i̇stediğiniz baharatları ekleyin1 tatlı kaşığı zeytinyağı",
+        "kısık ateşte arkalı önlü pişirin.)",
+        "ceviz (3 adet)",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + orta boy domates + 4-5 yaprak marul",
+        "akşam (tercihen hava kararınca)",
+        "izgara biftek ya da tavuk (150 gram)",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 tatlı kaşığı zeytinyağı)",
+        "turşu (organik, ev yapımı)",
+        "çiğ badem (10 adet)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "mantarlı omlet (1 yumurta, 2 mantar, 1 biber, 1 tatlı kaşığı tereyağı, tuz, baharatlar)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. sirke, limon ve 1 yemek kaşığı zeytinyağı ile",
+        "çiğ badem (20 adet)",
+        "akşam (tercihen hava kararınca)",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "roka salatası (yarım bağ roka, 5 adet fındık turp, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı",
+        "ceviz (3 adet)",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sucuklu yumurta (60 gram kasap sucuk + 1 yumurta ile)",
+        "zeytin (5 adet)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "çiğ badem (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, turp, sirke ve limon ile)",
+        "akşam (tercihen hava kararınca)",
+        "tavuk güveç",
+        "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
+        "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
+      ],
+      "hastaIsmi": "ZEYNEP SENTURK",
+      "tarihAraligi": "8-14 EYLUL",
+      "realizedAvgKcal": 979,
+      "kilitAcmaTarihi": "2025-09-23T18:36:06.684Z",
+      "kilitlenmeTarihi": "2025-09-23T18:36:11.419Z",
+      "_orijinalOgunler": {
+        "orig_meal_sali_öğle (": {
+          "createdAt": 1758653931707,
+          "gun": "sali",
+          "ogun": "öğle (",
+          "rows": [
+            "lor peynirli avokado salatası",
+            "salatalık (orta boy) ,cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber",
+            "zeytin (5 adet)",
+            "karabuğday ekmeği 1 dilim 25 gr",
+            "ceviz (3 adet)"
+          ]
+        },
+        "orig_meal_sali_akşam": {
+          "createdAt": 1758701176766,
+          "gun": "sali",
+          "ogun": "akşam",
+          "rows": [
+            "ispanaklı tavuk dolması",
+            "mevsim salata (1 yemek kaşığı zeytinyağı ile)",
+            "çiğ badem (10 adet)",
+            "kollajen (1 ölçek 10 gram)"
+          ]
+        }
+      },
+      "_uygulananOgunSablonlari": {
+        "target_meal_sali_öğle (": "2424c2a6-222b-4c74-8656-f3fa5281180e",
+        "target_meal_sali_akşam": "be4ff70e-d5c5-423f-88cd-2b48a0b55b88",
+        "sim_meal_sali_akşam": "be4ff70e-d5c5-423f-88cd-2b48a0b55b88"
+      },
+      "rowMatchedCards": {
+        "8": {
+          "yemek": "sahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)",
+          "kartlar": []
+        },
+        "10": {
+          "yemek": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere,  limon+1 yemek kaşığı zeytinyağı ile)",
+          "kartlar": []
+        },
+        "11": {
+          "yemek": "1 dilim Lupin Unlu Ekmek",
+          "kartlar": [
+            {
+              "name": "lupin_unlu_ekmek.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lupin_unlu_ekmek.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lupin_unlu_ekmek.jpg"
+            }
+          ]
+        },
+        "12": {
+          "yemek": "Fındık (10 adet)",
+          "kartlar": []
+        },
+        "14": {
+          "yemek": "İmam Bayıldı",
+          "kartlar": [
+            {
+              "name": "imam_bayildi.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/imam_bayildi.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/imam_bayildi.jpg"
+            }
+          ]
+        },
+        "20": {
+          "yemek": "Yumurtalı ıspanak /pazı /semizotu   kavurma (2 adet yumurta, 100 gram Ispanak, 1 yemek kaşığı zeytinyağı, tercihen soğan",
+          "kartlar": [
+            {
+              "name": "yumurtali_ispanak.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/yumurtali_ispanak.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/yumurtali_ispanak.jpg"
+            }
+          ]
+        },
+        "25": {
+          "yemek": "Fırında Cevizli Peynirli Mantar Dolması (1 porsiyon)",
+          "kartlar": [
+            {
+              "name": "firinda_cevizli_peynirli_mantar_dolmasi.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/firinda_cevizli_peynirli_mantar_dolmasi.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/firinda_cevizli_peynirli_mantar_dolmasi.jpg"
+            }
+          ]
+        },
+        "27": {
+          "yemek": "Beyaz Lahana Salatası",
+          "kartlar": []
+        },
+        "31": {
+          "yemek": "sebzeli omlet (2 adet yumurta, 2 dilim hindi füme, 5 adet mantar, 5 yaprak ıspanak, 1 yemek kaşığı zeytinyağı)",
+          "kartlar": []
+        },
+        "35": {
+          "yemek": "200 gram Somon Fileto (tavada veya ızgarada)",
+          "kartlar": []
+        },
+        "36": {
+          "yemek": "Kırmızı et ya da tavuklu bamya yemeği (100 gram et ile)",
+          "kartlar": [
+            {
+              "name": "tavuklu_bamya.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tavuklu_bamya.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tavuklu_bamya.jpg"
+            }
+          ]
+        },
+        "59": {
+          "yemek": "Kaşarlı Kabak Graten (1 porsiyon)",
+          "kartlar": [
+            {
+              "name": "kasarli_kabak_graten.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/kasarli_kabak_graten.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/kasarli_kabak_graten.jpg"
+            }
+          ]
+        }
+      },
+      "haftaninTarifleriLive": false
+    },
+    {
+      "haftaNo": 9,
+      "baslangic": "2025-01-13",
+      "bitis": "2025-01-19",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": "GÜLSÜM TUNÇ 16-22 HAZİRAN 9. HAFTA.pdf",
+      "pdfOrijinalIsim": "GÜLSÜM TUNÇ  16-22 HAZİRAN 9. HAFTA.pdf",
+      "pdfYolu": "pdfs/GÜLSÜM TUNÇ 16-22 HAZİRAN 9. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli-3/blob/main/pdfs/GÜLSÜM TUNÇ 16-22 HAZİRAN 9. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli-3/main/pdfs/GÜLSÜM TUNÇ 16-22 HAZİRAN 9. HAFTA.pdf",
+      "kayitTarihi": "2025-09-25T19:30:11.377Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": [],
+      "hastaIsmi": "ZEYNEP NUR ÖZKAYA",
+      "tarihAraligi": "11-17 AĞUSTOS",
+      "eslesenTarifler": [
+        "fırında kabaklı börek 1 dilim",
+        "tavuklu kabak makarna",
+        "lupin unlu ekmek (1 dilim için)",
+        "lupin unlu ekmek (1 dilim için)",
+        "patlıcan yatağında tavuk sote",
+        "yoğurtlu salatalık mezesi",
+        "avokadolu omlet",
+        "fırında cevizli peynirli mantar dolması",
+        "fırında kabaklı börek 1 dilim",
+        "lupin unlu ekmek (1 dilim için)",
+        "lupin unlu ekmek (1 dilim için)",
+        "kabak lazanya",
+        "yoğurtlu kırmızı biber mezesi",
+        "domatesli kabak çorbası",
+        "lupin unlu ekmek (1 dilim için)",
+        "domatesli kabak çorbası",
+        "köfte",
+        "lupin unlu ekmek (1 dilim için)"
+      ],
+      "eslesmeyenTarifler": [
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "tulum / kaşar peyniri (50 gram)",
+        "zeytin (5 adet)",
+        "yeşillikler (dereotu, roka, maydanoz,marul + sirke ve limon+1 tatlı kaşığı zeytinyağı ile)",
+        "ceviz (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "yoğurt (2 yemek kaşığı ev yoğurdu)",
+        "kabak çekirdeği (1 avuç)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (2 adet)",
+        "tulum / kaşar peyniri (30 gram)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber + 1 yemek kaşığı zeytinyağı ile",
+        "lupin unlu ekmek (1 dilim için)",
+        "zeytin (10 adet)",
+        "fındık (20 adet)",
+        "akşam (tercihen hava kararınca)",
+        "kabak çekirdeği (1 avuç)",
+        "turşu (organik, ev yapımı)",
+        "toz kollajen 1 ölçek",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "tulum peyniri veya kaşar peyniri (30 gram)",
+        "yeşillikler (dereotu, roka, maydanoz, marul, sirke ve limon+1 yemek kaşığı zeytinyağı ile)",
+        "fındık (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "tavuk pirzola ya da kanat",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "fırında kabaklı börek 1 dilim",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "tulum peyniri veya kaşar peyniri (30 gram)",
+        "zeytin (10 adet)",
+        "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon, sirke ve 1 yemek kaşığı zeytinyağı ile)",
+        "2 küçük kare bitter çikolata",
+        "akşam (tercihen hava kararınca)",
+        "urfa / adana kebap 150 gram",
+        "lupin unlu ekmek (1 dilim için)",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
+        "kabak çekirdeği (1 avuç)",
+        "toz kollajen 1 ölçek",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yumurta salatası (2 adet haşlanmış yumurta, 5 dal maydanoz, 5 dal dereotu, 1 dilim limon ve 1 tatlı kaşığı zeytinyağı",
+        "tulum peyniri veya kaşar peyniri (50 gram)",
+        "zeytin (10 adet)",
+        "lupin unlu ekmek (1 dilim için)",
+        "ceviz (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "turşu (organik, ev yapımı)",
+        "toz kollajen 1 ölçek",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "biberli peynir ( 3 adet yeşil biber, 30 gr lor peyniri, 1 tatlı kaşığı zeytinyağı, biraz tuz ve istenilen baharatlar. biberleri zeytinyağında",
+        "lupin unlu ekmek (2 dilim için)",
+        "zeytin (10 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber + 1 yemek kaşığı zeytinyağı ile",
+        "akşam (tercihen hava kararınca)",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "2 avuç yeşil salata + bir yemek kaşığı zeytin yağı",
+        "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi, 1 çay kaşığı stevia ve hafif tarçın serpin)",
+        "kabak çekirdeği (1 avuç)",
+        "pazar",
+        "menemen (2 yumurta ile)",
+        "tulum peyniri veya kaşar peyniri (30 gram)",
+        "yeşillikler (dereotu, roka, maydanoz,marul,sirke,limon ve 1 tatlı kaşığı zeytinyağı ile)",
+        "zeytin (10 adet)",
+        "lupin unlu ekmek (1 dilim için)",
+        "ceviz (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "domatesli kabak çorbası",
+        "köz patlıcan(1 yemek kaşığı zeytinyağı ve tuz ile soteleyin. soğuyunca 2 kaşık yoğurt ekleyip karıştırın.üzerine köfteleri koyun.",
+        "ev yoğurdu",
+        "lupin unlu ekmek (1 dilim için)",
+        "turşu (organik, ev yapımı)",
+        "toz kollajen 1 ölçek",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
+        "lupin unlu ekmek yerine 1 adet yumurta, 10 adet çiğ badem ya da çeyrek avokado tüketebilirsiniz."
+      ],
+      "realizedAvgKcal": 1080,
+      "rowMatchedCards": {
+        "23": {
+          "yemek": "Yeşil Salata (marul, dereotu, roka, kırmızı lahana, 1 tatlı kaşığı zeytinyağı)",
+          "kartlar": []
+        },
+        "29": {
+          "yemek": "avokado",
+          "kartlar": []
+        },
+        "30": {
+          "yemek": "1 Kase Sote Edilmiş Ispanak + 1 tatlı kaşığı zeytinyağı",
+          "kartlar": []
+        },
+        "38": {
+          "yemek": "1 dilim Ispanaklı Kabak Böreği",
+          "kartlar": [
+            {
+              "name": "ispanakli_kabak_boregi.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/ispanakli_kabak_boregi.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/ispanakli_kabak_boregi.jpg"
+            }
+          ]
+        },
+        "58": {
+          "yemek": "200 gram Somon Fileto (tavada veya ızgarada)",
+          "kartlar": []
+        }
+      },
+      "haftaninTarifleriLive": true
+    },
+    {
+      "haftaNo": 10,
+      "baslangic": "2025-01-20",
+      "bitis": "2025-01-26",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": "ZEYNEP ŞENTÜRK 8-14 EYLÜL 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "ZEYNEP ŞENTÜRK 8-14 EYLÜL 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/ZEYNEP ŞENTÜRK 8-14 EYLÜL 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ZEYNEP ŞENTÜRK 8-14 EYLÜL 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ZEYNEP ŞENTÜRK 8-14 EYLÜL 3. HAFTA.pdf",
+      "kayitTarihi": "2025-09-03T18:54:47.818Z",
+      "tarifKartlar": [
+        {
+          "tarifAdi": "1 dilim Keten Tohumu Ekmeği",
+          "kartResmi": "keten_tohumu_ekmegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/keten_tohumu_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "Tahin ekmeği",
+          "kartResmi": "tahin_ekmegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tahin_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "Haşhaş ezmesi ekmeği (1 dilim)",
+          "kartResmi": "hashas_ezmesi_ekmegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/hashas_ezmesi_ekmegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "sulu et kızartması",
+          "kartResmi": "sulu_et_kizartmasi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/sulu_et_kizartmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+          "kartResmi": "lupin_unlu_pogaca.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lupin_unlu_pogaca.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
+      "tarifler": [
+        "zeynep şentürk",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "ya da yarım avokado",
+        "hafta",
+        "pazartesi̇",
+        "öğle",
+        "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "1 dilim Keten Tohumu Ekmeği",
+        "Zeytin (10 adet)",
+        "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "akşam",
+        "Tavuk Izgara",
+        "Semizotu Salatası",
+        "5 Adet Çilek",
+        "Toz kollajen 1 ölçek",
+        "sali",
+        "öğle",
+        "haşlanmış yumurta (2 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "keten tohumu ekmeği 2 dilim",
+        "zeytin (10 adet)",
+        "yeşillikler (4 yaprak marul, 4-5 dal maydanoz + limon, sirke ve 1 yemek kaşığı zeytinyağı ile)",
+        "akşam",
+        "Tavuk Izgara",
+        "Semizotu Salatası",
+        "5 Adet Çilek",
+        "Toz kollajen 1 ölçek",
+        "çarşamba",
+        "öğle",
+        "sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke ve limon ile)",
+        "akşam",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "kollajen (1 ölçek 5 gram)",
+        "perşembe",
+        "öğle",
+        "Sahanda Yumurta (2 adet)",
+        "Zeytin (10 adet)",
+        "Tahin ekmeği",
+        "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere,  limon ile)",
+        "Bitter çikolata (2 kare)",
+        "akşam",
+        "Tavuk Güveç",
+        "Semizotu Salatası",
+        "Haşhaş ezmesi ekmeği (1 dilim)",
+        "Ceviz (3 adet)",
+        "Bitter çikolata (2 kare)",
+        "Kollajen (1 ölçek 10 gram)",
+        "cuma",
+        "öğle",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "zeytin (10 adet)",
+        "tahin ekmeği (1 dilim)",
+        "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere, limon ile)",
+        "bitter çikolata (2 kare)",
+        "akşam",
+        "sulu et kızartması",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 tatlı kaşığı zeytinyağı)",
+        "tahin ekmeği (1 dilim)",
+        "fındık (20 adet)",
+        "kollajen (1 ölçek 5 gram)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+        "zeytin (5 adet)",
+        "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "Tulum /kaşar peyniri (50 gram)",
+        "Fındık  (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "sulu et kızartması",
+        "Semizotu Salatası",
+        "Tahin ekmeği",
+        "Fındık (20 adet)",
+        "Kollajen",
+        "pazar",
+        "öğle",
+        "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+        "Zeytin (5 adet)",
+        "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "Tulum /kaşar peyniri (50 gram)",
+        "Fındık  (10 adet)",
+        "akşam",
+        "tavuk güveç",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "ceviz (3 adet)",
+        "bitter çikolata (2 kare)",
+        "kollajen (1 ölçek 10 gram)"
+      ],
+      "gptMesaj": "Merhaba Zeynep Hanım,\n\nÜçüncü haftaya başladık. Bu hafta programda süt ürünlerini yeniden ve kontrollü şekilde ekliyoruz. Özellikle tulum ve kaşar peyniri ile lor, hem kalsiyum hem de probiyotik etkileri sayesinde bağırsak florasını destekleyecek. Böylece hem sindirim sisteminizin dengesi güçlenecek hem de tatlı isteğinizin azalmasına katkı sağlayacak.\n\nYulaf unu ile yaptığınız ekmeği beğenmiş olmanız çok güzel. Ketojenikfırın’ın farklı karışım unları ve ekmeklerini de değerlendirebilirsiniz; böylece hem çeşitlilik sağlanır hem de lezzet açısından sıkılmadan devam edebilirsiniz. Lupin bulguru için gönderdiğimiz link sayesinde de bulgur isteğinizi sağlıklı bir şekilde karşılamanız mümkün. Burada önemli olan her seçimin makrolara uygun olması. Lezzeti kendi damak tadınıza göre uyarlayabilirsiniz, ancak temel kurallara uymanız, kalıcı bir değişim için kritik.\n\nBu haftaki listede dikkat çekenlerden biri avokado, semizotu, ıspanak ve roka gibi yeşilliklerin düzenli olarak yer alması. Bunlar magnezyum, C vitamini ve folat açısından zengin, yani hem ödem çözülmesine hem de bağ dokusunun güçlenmesine destek sağlıyor. Balık, tavuk, kıyma gibi farklı protein kaynaklarıyla çeşitlilik sağladık; bunlar kas ve bağ dokusunu besleyerek incelme sürecine katkı veriyor. Kollajen desteğiniz de bu süreci tamamlıyor.\n\nÖnümüzdeki haftalarda beslenme planı daha da esneyecek. Onuncu haftadan itibaren baklagiller ve mevsim meyvelerini kontrollü şekilde ekleyerek daha geniş bir yelpazeye geçeceğiz. Ama özellikle bacaklardaki incelmenin kalıcı olması için bu ilk haftalarda disiplinli ilerlemek çok önemli. Beslenme ne kadar kritikse, 2 hafta sonra başlayacağımız manuel lenf drenaj masajları da o kadar belirleyici olacak. Masajın nasıl yapılacağına dair detaylı bilgileri zamanında paylaşacağız.\n\nLipödem kronik bir tablo, bu nedenle sabır ve istikrarla ilerlemek gerekiyor. Sizden gelen sorular ve denemeleriniz, süreci öğrenerek kalıcı bir yaşam tarzına dönüştürmek istediğinizi gösteriyor. Küçük uyarlamalarla süreci daha keyifli hale getirebilirsiniz; bu, motivasyonu korumanın en güçlü yollarından biri.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": [],
+      "eslesenTarifler": [
+        "1 dilim Keten Tohumu Ekmeği",
+        "Tahin ekmeği",
+        "Haşhaş ezmesi ekmeği (1 dilim)",
+        "sulu et kızartması",
+        "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+        "sulu et kızartması",
+        "Tahin ekmeği",
+        "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+        "haşhaş ezmesi ekmeği (1 dilim)"
+      ],
+      "eslesmeyenTarifler": [
+        "zeynep şentürk",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "ya da yarım avokado",
+        "hafta",
+        "pazartesi̇",
+        "öğle",
+        "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "Zeytin (10 adet)",
+        "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "akşam",
+        "Tavuk Izgara",
+        "Semizotu Salatası",
+        "5 Adet Çilek",
+        "Toz kollajen 1 ölçek",
+        "sali",
+        "öğle",
+        "haşlanmış yumurta (2 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "keten tohumu ekmeği 2 dilim",
+        "zeytin (10 adet)",
+        "yeşillikler (4 yaprak marul, 4-5 dal maydanoz + limon, sirke ve 1 yemek kaşığı zeytinyağı ile)",
+        "akşam",
+        "Tavuk Izgara",
+        "Semizotu Salatası",
+        "5 Adet Çilek",
+        "Toz kollajen 1 ölçek",
+        "çarşamba",
+        "öğle",
+        "sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke ve limon ile)",
+        "akşam",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "kollajen (1 ölçek 5 gram)",
+        "perşembe",
+        "öğle",
+        "Sahanda Yumurta (2 adet)",
+        "Zeytin (10 adet)",
+        "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere,  limon ile)",
+        "Bitter çikolata (2 kare)",
+        "akşam",
+        "Tavuk Güveç",
+        "Semizotu Salatası",
+        "Ceviz (3 adet)",
+        "Bitter çikolata (2 kare)",
+        "Kollajen (1 ölçek 10 gram)",
+        "cuma",
+        "öğle",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "zeytin (10 adet)",
+        "tahin ekmeği (1 dilim)",
+        "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere, limon ile)",
+        "bitter çikolata (2 kare)",
+        "akşam",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 tatlı kaşığı zeytinyağı)",
+        "tahin ekmeği (1 dilim)",
+        "fındık (20 adet)",
+        "kollajen (1 ölçek 5 gram)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "zeytin (5 adet)",
+        "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "Tulum /kaşar peyniri (50 gram)",
+        "Fındık  (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "sulu et kızartması",
+        "Semizotu Salatası",
+        "Tahin ekmeği",
+        "Fındık (20 adet)",
+        "Kollajen",
+        "pazar",
+        "öğle",
+        "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+        "Zeytin (5 adet)",
+        "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "Tulum /kaşar peyniri (50 gram)",
+        "Fındık  (10 adet)",
+        "akşam",
+        "tavuk güveç",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "ceviz (3 adet)",
+        "bitter çikolata (2 kare)",
+        "kollajen (1 ölçek 10 gram)"
+      ],
+      "hastaIsmi": "ZEYNEP SENTURK",
+      "tarihAraligi": "8-14 EYLUL",
+      "realizedAvgKcal": 1109,
+      "kilitAcmaTarihi": "2025-09-23T18:36:06.684Z",
+      "kilitlenmeTarihi": "2025-09-23T18:36:11.419Z",
+      "_orijinalOgunler": {
+        "orig_meal_sali_öğle (": {
+          "createdAt": 1758653931707,
+          "gun": "sali",
+          "ogun": "öğle (",
+          "rows": [
+            "lor peynirli avokado salatası",
+            "salatalık (orta boy) ,cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber",
+            "zeytin (5 adet)",
+            "karabuğday ekmeği 1 dilim 25 gr",
+            "ceviz (3 adet)"
+          ]
+        },
+        "orig_meal_sali_akşam": {
+          "createdAt": 1758701176766,
+          "gun": "sali",
+          "ogun": "akşam",
+          "rows": [
+            "ispanaklı tavuk dolması",
+            "mevsim salata (1 yemek kaşığı zeytinyağı ile)",
+            "çiğ badem (10 adet)",
+            "kollajen (1 ölçek 10 gram)"
+          ]
+        },
+        "orig_meal_pazartesi_öğle": {
+          "createdAt": 1759953291142,
+          "gun": "pazartesi",
+          "ogun": "öğle",
+          "rows": [
+            "haşlanmış yumurta (2 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+            "keten tohumu ekmeği 2 dilim",
+            "zeytin (10 adet)",
+            "yeşillikler (4 yaprak marul, 4-5 dal maydanoz + limon, sirke ve 1 yemek kaşığı zeytinyağı ile)"
+          ]
+        },
+        "orig_meal_pazartesi_akşam": {
+          "createdAt": 1759953295565,
+          "gun": "pazartesi",
+          "ogun": "akşam",
+          "rows": [
+            "ızgara tavuk göğsü (1 yemek kaşığı zeytinyağı ve istenilen baharatlarla ile marine edilmiş)",
+            "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
+            "çilek",
+            "toz kollajen 1 ölçek"
+          ]
+        },
+        "orig_meal_sali_öğle": {
+          "createdAt": 1759953300997,
+          "gun": "sali",
+          "ogun": "öğle",
+          "rows": [
+            "menemen (2 yumurta ile)",
+            "haşhaş ezmesi ekmeği (1 dilim)",
+            "mevsim yeşillikleri (dereotu, roka, maydanoz, marul vs. + sirke, limon ve 1 tatlı kaşığı zeytinyağı ile )",
+            "zeytin (10 adet)"
+          ]
+        },
+        "orig_meal_perşembe_öğle": {
+          "createdAt": 1759953316049,
+          "gun": "perşembe",
+          "ogun": "öğle",
+          "rows": [
+            "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+            "Zeytin (5 adet)",
+            "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+            "Tulum /kaşar peyniri (50 gram)",
+            "Fındık  (10 adet)"
+          ]
+        },
+        "orig_meal_perşembe_akşam": {
+          "createdAt": 1759953318187,
+          "gun": "perşembe",
+          "ogun": "akşam",
+          "rows": [
+            "tavuk güveç",
+            "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
+            "haşhaş ezmesi ekmeği (1 dilim)",
+            "ceviz (3 adet)",
+            "bitter çikolata (2 kare)",
+            "kollajen (1 ölçek 10 gram)"
+          ]
+        },
+        "orig_meal_cuma_öğle": {
+          "createdAt": 1759953320411,
+          "gun": "cuma",
+          "ogun": "öğle",
+          "rows": [
+            "badem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın. i̇stediğiniz baharatları ekleyin1 tatlı kaşığı zeytinyağı",
+            "kısık ateşte arkalı önlü pişirin.)",
+            "ceviz (3 adet)",
+            "zeytin (5 adet)",
+            "salatalık (orta boy) + orta boy domates + 4-5 yaprak marul"
+          ]
+        },
+        "orig_meal_cuma_akşam": {
+          "createdAt": 1759953324288,
+          "gun": "cuma",
+          "ogun": "akşam",
+          "rows": [
+            "hindi ya da tavuk ızgara tava",
+            "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı",
+            "fındık (10 adet)"
+          ]
+        },
+        "orig_meal_cumartesi_akşam": {
+          "createdAt": 1759953345788,
+          "gun": "cumartesi",
+          "ogun": "akşam",
+          "rows": [
+            "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+            "roka salatası (yarım bağ roka, 5 adet fındık turp, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı",
+            "ceviz (3 adet)"
+          ]
+        },
+        "orig_meal_pazar_akşam": {
+          "createdAt": 1759953348271,
+          "gun": "pazar",
+          "ogun": "akşam",
+          "rows": [
+            "tavuk güveç",
+            "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı"
+          ]
+        },
+        "orig_meal_cumartesi_öğle": {
+          "createdAt": 1759953482527,
+          "gun": "cumartesi",
+          "ogun": "öğle",
+          "rows": [
+            "mantarlı omlet (1 yumurta, 2 mantar, 1 biber, 1 tatlı kaşığı tereyağı, tuz, baharatlar)",
+            "yeşillikler (dereotu, roka, maydanoz, marul vs. sirke, limon ve 1 yemek kaşığı zeytinyağı ile",
+            "çiğ badem (20 adet)"
+          ]
+        }
+      },
+      "_uygulananOgunSablonlari": {
+        "target_meal_sali_öğle (": "2424c2a6-222b-4c74-8656-f3fa5281180e",
+        "target_meal_sali_akşam": "be4ff70e-d5c5-423f-88cd-2b48a0b55b88",
+        "sim_meal_sali_akşam": "399ffbab-ac44-485b-8560-ca8bdf7204b7",
+        "sim_meal_pazartesi_öğle": "0f03c139-c36f-444a-aa9d-37466252c1b6",
+        "sim_meal_pazartesi_akşam": "399ffbab-ac44-485b-8560-ca8bdf7204b7",
+        "sim_meal_sali_öğle": "9c437f13-3fc7-4317-ac13-5e31413d9e42",
+        "sim_meal_perşembe_öğle": "9c437f13-3fc7-4317-ac13-5e31413d9e42",
+        "sim_meal_perşembe_akşam": "102ba2f8-43ed-4681-bfb5-21385e8064fc",
+        "sim_meal_cuma_öğle": "7582113b-a4b9-4e91-b525-7388e93d459d",
+        "sim_meal_cuma_akşam": "399ffbab-ac44-485b-8560-ca8bdf7204b7",
+        "target_meal_cuma_akşam": "102ba2f8-43ed-4681-bfb5-21385e8064fc",
+        "target_meal_cumartesi_akşam": "d6a91332-09da-427d-b955-89b2c36a8c8f",
+        "target_meal_pazar_akşam": "8fb44ac2-05b9-4c9d-b598-17e04290ab68",
+        "sim_meal_cumartesi_öğle": "9c437f13-3fc7-4317-ac13-5e31413d9e42",
+        "target_meal_perşembe_öğle": "f8032751-ac99-4885-bb96-0e4f0eaec50f"
+      },
+      "rowMatchedCards": {
+        "8": {
+          "yemek": "sahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)",
+          "kartlar": []
+        },
+        "9": {
+          "yemek": "Badem Unlu Ekmek (1 dilim)",
+          "kartlar": [
+            {
+              "name": "badem_unlu_ekmek.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/badem_unlu_ekmek.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/badem_unlu_ekmek.jpg"
+            }
+          ]
+        },
+        "10": {
+          "yemek": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere,  limon+1 yemek kaşığı zeytinyağı ile)",
+          "kartlar": []
+        },
+        "11": {
+          "yemek": "1 dilim Lupin Unlu Ekmek",
+          "kartlar": [
+            {
+              "name": "lupin_unlu_ekmek.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lupin_unlu_ekmek.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lupin_unlu_ekmek.jpg"
+            }
+          ]
+        },
+        "14": {
+          "yemek": "İmam Bayıldı",
+          "kartlar": [
+            {
+              "name": "imam_bayildi.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/imam_bayildi.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/imam_bayildi.jpg"
+            }
+          ]
+        },
+        "20": {
+          "yemek": "Yumurtalı ıspanak /pazı /semizotu   kavurma (2 adet yumurta, 100 gram Ispanak, 1 yemek kaşığı zeytinyağı, tercihen soğan",
+          "kartlar": [
+            {
+              "name": "yumurtali_ispanak.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/yumurtali_ispanak.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/yumurtali_ispanak.jpg"
+            }
+          ]
+        },
+        "25": {
+          "yemek": "Fırında Cevizli Peynirli Mantar Dolması (1 porsiyon)",
+          "kartlar": [
+            {
+              "name": "firinda_cevizli_peynirli_mantar_dolmasi.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/firinda_cevizli_peynirli_mantar_dolmasi.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/firinda_cevizli_peynirli_mantar_dolmasi.jpg"
+            }
+          ]
+        },
+        "27": {
+          "yemek": "Beyaz Lahana Salatası",
+          "kartlar": []
+        },
+        "31": {
+          "yemek": "sebzeli omlet (2 adet yumurta, 2 dilim hindi füme, 5 adet mantar, 5 yaprak ıspanak, 1 yemek kaşığı zeytinyağı)",
+          "kartlar": []
+        },
+        "35": {
+          "yemek": "200 gram Somon Fileto (tavada veya ızgarada)",
+          "kartlar": []
+        },
+        "36": {
+          "yemek": "Kırmızı et ya da tavuklu bamya yemeği (100 gram et ile)",
+          "kartlar": [
+            {
+              "name": "tavuklu_bamya.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tavuklu_bamya.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/tavuklu_bamya.jpg"
+            }
+          ]
+        },
+        "48": {
+          "yemek": "*Lor ekmeği (1 dilim)",
+          "kartlar": [
+            {
+              "name": "lor_ekmegi.jpg",
+              "data": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lor_ekmegi.jpg",
+              "url": "https://mustafasacar35.github.io/lipodem-takip-paneli-3/tarifler/lor_ekmegi.jpg"
+            }
+          ]
+        }
+      },
+      "haftaninTarifleriLive": false,
+      "isPatientClone": true,
+      "clonedFrom": 3,
+      "quickPatientInfo": {
+        "weightKg": 93,
+        "activityLevel": 3,
+        "targetWeightKg": 81.5
+      },
+      "_uygulananGunSablonlari": {
+        "pazartesi": {
+          "templateId": "day_1759953132160_m4g3vhx1v",
+          "templateName": "17. 📋 AYŞEGÜL FAROOQ - 22-28 EYLÜL - PERŞEMBE - TÜM GÜN - 3. hafta",
+          "source": "original",
+          "mode": "best-current",
+          "appliedAt": "2025-10-08T19:54:46.726Z",
+          "gunAdi": "PAZARTESI"
+        },
+        "sali": {
+          "templateId": "day_1759953132160_m4g3vhx1v",
+          "templateName": "17. 📋 AYŞEGÜL FAROOQ - 22-28 EYLÜL - PERŞEMBE - TÜM GÜN - 3. hafta",
+          "source": "original",
+          "mode": "best-current",
+          "appliedAt": "2025-10-08T19:55:05.448Z",
+          "gunAdi": "SALI"
+        },
+        "carsamba": {
+          "templateId": "day_1759090832607_4ib79xzcv",
+          "templateName": "4. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - PERŞEMBE - TÜM GÜN - 1. hafta",
+          "source": "original",
+          "mode": "best-current",
+          "appliedAt": "2025-10-08T19:55:11.526Z",
+          "gunAdi": "ÇARŞAMBA"
+        },
+        "persembe": {
+          "templateId": "day_1759953145112_bjfh2uc5b",
+          "templateName": "18. 📋 AYŞEGÜL FAROOQ - 22-28 EYLÜL - CUMA - TÜM GÜN - 3. hafta",
+          "source": "original",
+          "mode": "best-current",
+          "appliedAt": "2025-10-08T19:55:14.828Z",
+          "gunAdi": "PERŞEMBE"
+        },
+        "cuma": {
+          "templateId": "day_1759090879864_3zbby9dh8",
+          "templateName": "6. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - CUMARTESI - TÜM GÜN - 1. hafta (v3)",
+          "source": "target",
+          "mode": "best-target",
+          "appliedAt": "2025-10-08T19:58:34.125Z",
+          "gunAdi": "CUMA"
+        },
+        "pazar": {
+          "templateId": "day_1759953145112_bjfh2uc5b",
+          "templateName": "18. 📋 AYŞEGÜL FAROOQ - 22-28 EYLÜL - CUMA - TÜM GÜN - 3. hafta",
+          "source": "original",
+          "mode": "best-current",
+          "appliedAt": "2025-10-08T19:58:10.693Z",
+          "gunAdi": "PAZAR"
+        }
+      }
+    }
+  ],
+  "olusturmaTarihi": "2025-08-23T11:27:34.187Z",
+  "yeniSistem": true,
+  "sonGuncelleme": "2025-10-08T19:58:41.886Z",
+  "githubKaydedildi": true,
+  "weeklyOverrides": {
+    "2": {
+      "dietType": "lowcarb",
+      "goal": "maintain",
+      "goalPct": 3,
+      "activityLevel": 3,
+      "activity": 3,
+      "weightKg": 76,
+      "weight": 76,
+      "targetWeightKg": 60.4,
+      "targetWeight": 60.4,
+      "goalWeight": 60.4,
+      "perKg": {
+        "carbsPerKg": 0.6,
+        "proteinPerKg": 0.8,
+        "fatPerKg": 1.2
+      },
+      "mealDistribution": {
+        "kahvalti": 9,
+        "ogle": 38,
+        "aksam": 48,
+        "ara": 5
+      },
+      "tableColumns": {
+        "calorie": true,
+        "carb": true,
+        "protein": true,
+        "fat": true
+      },
+      "patientVisibility": {
+        "dietType": true,
+        "activity": true,
+        "goal": true,
+        "goalPct": true,
+        "weight": true,
+        "targetWeight": true,
+        "weightPlan": true,
+        "weightPlanDetail": false,
+        "perKg": true,
+        "macroTargets": true
+      }
+    },
+    "3": {
+      "dietType": "lowcarb",
+      "activityLevel": 3,
+      "goal": "maintain",
+      "goalPct": 0,
+      "weightKg": 63,
+      "perKg": {
+        "carbsPerKg": 0.6,
+        "proteinPerKg": 0.8,
+        "fatPerKg": 1
+      },
+      "mealDistribution": {
+        "kahvalti": 9,
+        "ogle": 38,
+        "aksam": 48,
+        "ara": 5
+      }
+    },
+    "10": {
+      "weightKg": 93,
+      "activityLevel": 3,
+      "targetWeightKg": 81.5,
+      "dietType": "keto",
+      "goal": "maintain",
+      "goalPct": 0,
+      "activity": 3,
+      "weight": 93,
+      "targetWeight": 81.5,
+      "goalWeight": 81.5,
+      "perKg": {
+        "carbsPerKg": 0.3,
+        "proteinPerKg": 0.8,
+        "fatPerKg": 1.2
+      },
+      "mealDistribution": {
+        "kahvalti": 9,
+        "ogle": 38,
+        "aksam": 48,
+        "ara": 5
+      },
+      "tableColumns": {
+        "calorie": false,
+        "carb": false,
+        "protein": false,
+        "fat": false
+      },
+      "patientVisibility": {
+        "dietType": true,
+        "activity": true,
+        "goal": true,
+        "goalPct": true,
+        "weight": true,
+        "targetWeight": true,
+        "weightPlan": true,
+        "weightPlanDetail": false,
+        "perKg": true,
+        "macroTargets": false
+      }
+    },
+    "11": {
+      "dietType": "lowcarb",
+      "activityLevel": 3,
+      "goal": "maintain",
+      "goalPct": 3,
+      "weightKg": 76,
+      "perKg": {
+        "carbsPerKg": 0.6,
+        "proteinPerKg": 0.8,
+        "fatPerKg": 1.2
+      },
+      "mealDistribution": {
+        "kahvalti": 9,
+        "ogle": 38,
+        "aksam": 48,
+        "ara": 5
+      },
+      "tableColumns": {
+        "calorie": true,
+        "carb": true,
+        "protein": true,
+        "fat": true
+      },
+      "patientVisibility": {
+        "dietType": true,
+        "activity": true,
+        "goal": true,
+        "goalPct": true,
+        "weight": true,
+        "targetWeight": true,
+        "weightPlan": true,
+        "weightPlanDetail": false,
+        "perKg": true,
+        "macroTargets": false
+      },
+      "targetWeightKg": 60.3,
+      "activity": 3,
+      "weight": 76,
+      "targetWeight": 60.3,
+      "goalWeight": 60.3
+    },
+    "12": {
+      "weightKg": 64,
+      "activityLevel": 2
+    },
+    "13": {
+      "dietType": "keto",
+      "activityLevel": 3,
+      "goal": "maintain",
+      "goalPct": 0,
+      "weightKg": 93,
+      "perKg": {
+        "carbsPerKg": 0.3,
+        "proteinPerKg": 0.8,
+        "fatPerKg": 1.2
+      },
+      "mealDistribution": {
+        "kahvalti": 9,
+        "ogle": 38,
+        "aksam": 48,
+        "ara": 5
+      },
+      "activity": 3,
+      "weight": 93,
+      "targetWeightKg": 87.1,
+      "targetWeight": 87.1,
+      "goalWeight": 87.1,
+      "tableColumns": {
+        "calorie": true,
+        "carb": true,
+        "protein": true,
+        "fat": true
+      },
+      "patientVisibility": {
+        "dietType": true,
+        "activity": true,
+        "goal": true,
+        "goalPct": true,
+        "weight": true,
+        "targetWeight": true,
+        "weightPlan": true,
+        "weightPlanDetail": false,
+        "perKg": true,
+        "macroTargets": false
+      }
+    }
+  },
+  "ayarlar": {
+    "weight": 93,
+    "weightKg": 93,
+    "activity": 3,
+    "activityLevel": 3,
+    "targetWeight": 81.5,
+    "targetWeightKg": 81.5,
+    "goalWeight": 81.5,
+    "dietType": "keto",
+    "goal": "maintain",
+    "goalPct": 0,
+    "perKg": {
+      "carbsPerKg": 0.3,
+      "proteinPerKg": 0.8,
+      "fatPerKg": 1.2
+    },
+    "mealDistribution": {
+      "kahvalti": 9,
+      "ogle": 38,
+      "aksam": 48,
+      "ara": 5
+    },
+    "tableColumns": {
+      "calorie": false,
+      "carb": false,
+      "protein": false,
+      "fat": false
+    },
+    "patientVisibility": {
+      "dietType": true,
+      "activity": true,
+      "goal": true,
+      "goalPct": true,
+      "weight": true,
+      "targetWeight": true,
+      "weightPlan": true,
+      "weightPlanDetail": false,
+      "perKg": true,
+      "macroTargets": false
+    },
+    "weeklyOverrides": {
+      "2": {
+        "dietType": "lowcarb",
+        "goal": "maintain",
+        "goalPct": 3,
+        "activityLevel": 3,
+        "activity": 3,
+        "weightKg": 76,
+        "weight": 76,
+        "targetWeightKg": 60.4,
+        "targetWeight": 60.4,
+        "goalWeight": 60.4,
+        "perKg": {
+          "carbsPerKg": 0.6,
+          "proteinPerKg": 0.8,
+          "fatPerKg": 1.2
+        },
+        "mealDistribution": {
+          "kahvalti": 9,
+          "ogle": 38,
+          "aksam": 48,
+          "ara": 5
+        },
+        "tableColumns": {
+          "calorie": true,
+          "carb": true,
+          "protein": true,
+          "fat": true
+        },
+        "patientVisibility": {
+          "dietType": true,
+          "activity": true,
+          "goal": true,
+          "goalPct": true,
+          "weight": true,
+          "targetWeight": true,
+          "weightPlan": true,
+          "weightPlanDetail": false,
+          "perKg": true,
+          "macroTargets": true
+        }
+      },
+      "3": {
+        "dietType": "lowcarb",
+        "activityLevel": 3,
+        "goal": "maintain",
+        "goalPct": 0,
+        "weightKg": 63,
+        "perKg": {
+          "carbsPerKg": 0.6,
+          "proteinPerKg": 0.8,
+          "fatPerKg": 1
+        },
+        "mealDistribution": {
+          "kahvalti": 9,
+          "ogle": 38,
+          "aksam": 48,
+          "ara": 5
+        }
+      },
+      "10": {
+        "weightKg": 93,
+        "activityLevel": 3,
+        "targetWeightKg": 81.5,
+        "dietType": "keto",
+        "goal": "maintain",
+        "goalPct": 0,
+        "activity": 3,
+        "weight": 93,
+        "targetWeight": 81.5,
+        "goalWeight": 81.5,
+        "perKg": {
+          "carbsPerKg": 0.3,
+          "proteinPerKg": 0.8,
+          "fatPerKg": 1.2
+        },
+        "mealDistribution": {
+          "kahvalti": 9,
+          "ogle": 38,
+          "aksam": 48,
+          "ara": 5
+        },
+        "tableColumns": {
+          "calorie": false,
+          "carb": false,
+          "protein": false,
+          "fat": false
+        },
+        "patientVisibility": {
+          "dietType": true,
+          "activity": true,
+          "goal": true,
+          "goalPct": true,
+          "weight": true,
+          "targetWeight": true,
+          "weightPlan": true,
+          "weightPlanDetail": false,
+          "perKg": true,
+          "macroTargets": false
+        }
+      },
+      "11": {
+        "dietType": "lowcarb",
+        "activityLevel": 3,
+        "goal": "maintain",
+        "goalPct": 3,
+        "weightKg": 76,
+        "perKg": {
+          "carbsPerKg": 0.6,
+          "proteinPerKg": 0.8,
+          "fatPerKg": 1.2
+        },
+        "mealDistribution": {
+          "kahvalti": 9,
+          "ogle": 38,
+          "aksam": 48,
+          "ara": 5
+        },
+        "tableColumns": {
+          "calorie": true,
+          "carb": true,
+          "protein": true,
+          "fat": true
+        },
+        "patientVisibility": {
+          "dietType": true,
+          "activity": true,
+          "goal": true,
+          "goalPct": true,
+          "weight": true,
+          "targetWeight": true,
+          "weightPlan": true,
+          "weightPlanDetail": false,
+          "perKg": true,
+          "macroTargets": false
+        },
+        "targetWeightKg": 60.3,
+        "activity": 3,
+        "weight": 76,
+        "targetWeight": 60.3,
+        "goalWeight": 60.3
+      },
+      "12": {
+        "weightKg": 64,
+        "activityLevel": 2
+      },
+      "13": {
+        "dietType": "keto",
+        "activityLevel": 3,
+        "goal": "maintain",
+        "goalPct": 0,
+        "weightKg": 93,
+        "perKg": {
+          "carbsPerKg": 0.3,
+          "proteinPerKg": 0.8,
+          "fatPerKg": 1.2
+        },
+        "mealDistribution": {
+          "kahvalti": 9,
+          "ogle": 38,
+          "aksam": 48,
+          "ara": 5
+        },
+        "activity": 3,
+        "weight": 93,
+        "targetWeightKg": 87.1,
+        "targetWeight": 87.1,
+        "goalWeight": 87.1,
+        "tableColumns": {
+          "calorie": true,
+          "carb": true,
+          "protein": true,
+          "fat": true
+        },
+        "patientVisibility": {
+          "dietType": true,
+          "activity": true,
+          "goal": true,
+          "goalPct": true,
+          "weight": true,
+          "targetWeight": true,
+          "weightPlan": true,
+          "weightPlanDetail": false,
+          "perKg": true,
+          "macroTargets": false
+        }
+      }
+    }
+  },
+  "name": "ZEYNEP ŞENTÜRK",
+  "settings": {
+    "weight": 93,
+    "weightKg": 93,
+    "activity": 3,
+    "activityLevel": 3,
+    "targetWeight": 81.5,
+    "targetWeightKg": 81.5,
+    "goalWeight": 81.5,
+    "dietType": "keto",
+    "goal": "maintain",
+    "goalPct": 0,
+    "perKg": {
+      "carbsPerKg": 0.3,
+      "proteinPerKg": 0.8,
+      "fatPerKg": 1.2
+    },
+    "mealDistribution": {
+      "kahvalti": 9,
+      "ogle": 38,
+      "aksam": 48,
+      "ara": 5
+    },
+    "tableColumns": {
+      "calorie": false,
+      "carb": false,
+      "protein": false,
+      "fat": false
+    },
+    "patientVisibility": {
+      "dietType": true,
+      "activity": true,
+      "goal": true,
+      "goalPct": true,
+      "weight": true,
+      "targetWeight": true,
+      "weightPlan": true,
+      "weightPlanDetail": false,
+      "perKg": true,
+      "macroTargets": false
+    },
+    "weeklyOverrides": {
+      "2": {
+        "dietType": "lowcarb",
+        "goal": "maintain",
+        "goalPct": 3,
+        "activityLevel": 3,
+        "activity": 3,
+        "weightKg": 76,
+        "weight": 76,
+        "targetWeightKg": 60.4,
+        "targetWeight": 60.4,
+        "goalWeight": 60.4,
+        "perKg": {
+          "carbsPerKg": 0.6,
+          "proteinPerKg": 0.8,
+          "fatPerKg": 1.2
+        },
+        "mealDistribution": {
+          "kahvalti": 9,
+          "ogle": 38,
+          "aksam": 48,
+          "ara": 5
+        },
+        "tableColumns": {
+          "calorie": true,
+          "carb": true,
+          "protein": true,
+          "fat": true
+        },
+        "patientVisibility": {
+          "dietType": true,
+          "activity": true,
+          "goal": true,
+          "goalPct": true,
+          "weight": true,
+          "targetWeight": true,
+          "weightPlan": true,
+          "weightPlanDetail": false,
+          "perKg": true,
+          "macroTargets": true
+        }
+      },
+      "3": {
+        "dietType": "lowcarb",
+        "activityLevel": 3,
+        "goal": "maintain",
+        "goalPct": 0,
+        "weightKg": 63,
+        "perKg": {
+          "carbsPerKg": 0.6,
+          "proteinPerKg": 0.8,
+          "fatPerKg": 1
+        },
+        "mealDistribution": {
+          "kahvalti": 9,
+          "ogle": 38,
+          "aksam": 48,
+          "ara": 5
+        }
+      },
+      "10": {
+        "weightKg": 93,
+        "activityLevel": 3,
+        "targetWeightKg": 81.5,
+        "dietType": "keto",
+        "goal": "maintain",
+        "goalPct": 0,
+        "activity": 3,
+        "weight": 93,
+        "targetWeight": 81.5,
+        "goalWeight": 81.5,
+        "perKg": {
+          "carbsPerKg": 0.3,
+          "proteinPerKg": 0.8,
+          "fatPerKg": 1.2
+        },
+        "mealDistribution": {
+          "kahvalti": 9,
+          "ogle": 38,
+          "aksam": 48,
+          "ara": 5
+        },
+        "tableColumns": {
+          "calorie": false,
+          "carb": false,
+          "protein": false,
+          "fat": false
+        },
+        "patientVisibility": {
+          "dietType": true,
+          "activity": true,
+          "goal": true,
+          "goalPct": true,
+          "weight": true,
+          "targetWeight": true,
+          "weightPlan": true,
+          "weightPlanDetail": false,
+          "perKg": true,
+          "macroTargets": false
+        }
+      },
+      "11": {
+        "dietType": "lowcarb",
+        "activityLevel": 3,
+        "goal": "maintain",
+        "goalPct": 3,
+        "weightKg": 76,
+        "perKg": {
+          "carbsPerKg": 0.6,
+          "proteinPerKg": 0.8,
+          "fatPerKg": 1.2
+        },
+        "mealDistribution": {
+          "kahvalti": 9,
+          "ogle": 38,
+          "aksam": 48,
+          "ara": 5
+        },
+        "tableColumns": {
+          "calorie": true,
+          "carb": true,
+          "protein": true,
+          "fat": true
+        },
+        "patientVisibility": {
+          "dietType": true,
+          "activity": true,
+          "goal": true,
+          "goalPct": true,
+          "weight": true,
+          "targetWeight": true,
+          "weightPlan": true,
+          "weightPlanDetail": false,
+          "perKg": true,
+          "macroTargets": false
+        },
+        "targetWeightKg": 60.3,
+        "activity": 3,
+        "weight": 76,
+        "targetWeight": 60.3,
+        "goalWeight": 60.3
+      },
+      "12": {
+        "weightKg": 64,
+        "activityLevel": 2
+      },
+      "13": {
+        "dietType": "keto",
+        "activityLevel": 3,
+        "goal": "maintain",
+        "goalPct": 0,
+        "weightKg": 93,
+        "perKg": {
+          "carbsPerKg": 0.3,
+          "proteinPerKg": 0.8,
+          "fatPerKg": 1.2
+        },
+        "mealDistribution": {
+          "kahvalti": 9,
+          "ogle": 38,
+          "aksam": 48,
+          "ara": 5
+        },
+        "activity": 3,
+        "weight": 93,
+        "targetWeightKg": 87.1,
+        "targetWeight": 87.1,
+        "goalWeight": 87.1,
+        "tableColumns": {
+          "calorie": true,
+          "carb": true,
+          "protein": true,
+          "fat": true
+        },
+        "patientVisibility": {
+          "dietType": true,
+          "activity": true,
+          "goal": true,
+          "goalPct": true,
+          "weight": true,
+          "targetWeight": true,
+          "weightPlan": true,
+          "weightPlanDetail": false,
+          "perKg": true,
+          "macroTargets": false
+        }
+      }
+    }
+  },
+  "settingsVersion": 1,
+  "meta": {
+    "lastSettingsUpdateAt": "2025-10-01T20:11:17.551Z",
+    "lastSettingsCommit": "feat(settings): update patient 1755948454187 settings"
+  },
+  "patientVisibility": {
+    "dietType": true,
+    "activity": true,
+    "goal": true,
+    "goalPct": true,
+    "weight": true,
+    "targetWeight": true,
+    "weightPlan": true,
+    "weightPlanDetail": false,
+    "perKg": true,
+    "macroTargets": false
+  }
+}

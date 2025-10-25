@@ -1,0 +1,59 @@
+{
+  "dietType": "keto",
+  "activityLevel": 3,
+  "goal": "deficit",
+  "goalPct": -4,
+  "weightKg": 66.8,
+  "perKg": {
+    "carbsPerKg": 0.3,
+    "proteinPerKg": 0.8,
+    "fatPerKg": 1.2
+  },
+  "mealDistribution": {
+    "kahvalti": 9,
+    "ogle": 38,
+    "aksam": 48,
+    "ara": 5
+  },
+  "weeklyOverrides": {
+    "1": {
+      "weightKg": 69
+    },
+    "2": {
+      "dietType": "keto",
+      "activityLevel": 3,
+      "goal": "deficit",
+      "goalPct": -8,
+      "weightKg": 66.8,
+      "perKg": {
+        "carbsPerKg": 0.3,
+        "proteinPerKg": 0.8,
+        "fatPerKg": 1.2
+      },
+      "mealDistribution": {
+        "kahvalti": 9,
+        "ogle": 38,
+        "aksam": 48,
+        "ara": 5
+      }
+    },
+    "3": {
+      "dietType": "keto",
+      "activityLevel": 3,
+      "goal": "deficit",
+      "goalPct": -2,
+      "weightKg": 67.3,
+      "perKg": {
+        "carbsPerKg": 0.3,
+        "proteinPerKg": 0.8,
+        "fatPerKg": 1.2
+      },
+      "mealDistribution": {
+        "kahvalti": 9,
+        "ogle": 38,
+        "aksam": 48,
+        "ara": 5
+      }
+    }
+  }
+}

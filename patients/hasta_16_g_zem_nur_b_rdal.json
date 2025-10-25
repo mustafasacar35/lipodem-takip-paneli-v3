@@ -1,0 +1,22 @@
+{
+  "id": 16,
+  "isim": "GZEM NUR BRDAL",
+  "not": "",
+  "arsiv": true,
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2025-07-21",
+      "bitis": "2025-07-27",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "tarifKartlar": [],
+      "gptMesaj": "",
+      "kayitTarihi": "2025-07-22T18:14:06.106Z"
+    }
+  ],
+  "ad": "GÂZEM NUR BÂRDAL",
+  "sonGuncelleme": "2025-07-30T21:55:41.002Z",
+  "githubKaydedildi": true
+}

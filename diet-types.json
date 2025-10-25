@@ -1,0 +1,89 @@
+[
+  {
+    "id": "ketojenik",
+    "name": "Ketojenik",
+    "ad": "Ketojenik",
+    "aciklama": "Çok düşük karbonhidrat, yüksek yağ diyeti",
+    "karbOrani": 5,
+    "proteinOrani": 25,
+    "yagOrani": 70,
+    "makroOranlari": {
+      "karbonhidrat": 5,
+      "protein": 25,
+      "yag": 70
+    },
+    "yasakliKelimeler": [
+      "ekmek",
+      "pilav",
+      "makarna",
+      "şeker",
+      "meyve",
+      "patates"
+    ],
+    "zorunluOzellikler": {
+      "ketojenik": true,
+      "glutensiz": false,
+      "vegan": false,
+      "vegetarian": false,
+      "dusukKalori": false,
+      "yuksekProtein": false
+    },
+    "olusturmaTarihi": "2025-01-01"
+  },
+  {
+    "id": "dusuk_karb",
+    "name": "Düşük Karbonhidrat",
+    "ad": "Düşük Karbonhidrat",
+    "aciklama": "Orta düzeyde karbonhidrat kısıtlaması",
+    "karbOrani": 20,
+    "proteinOrani": 30,
+    "yagOrani": 50,
+    "makroOranlari": {
+      "karbonhidrat": 20,
+      "protein": 30,
+      "yag": 50
+    },
+    "yasakliKelimeler": [
+      "şeker",
+      "tatlı",
+      "makarna"
+    ],
+    "zorunluOzellikler": {
+      "ketojenik": false,
+      "glutensiz": false,
+      "vegan": false,
+      "vegetarian": false,
+      "dusukKalori": true,
+      "yuksekProtein": true
+    },
+    "olusturmaTarihi": "2025-01-01"
+  },
+  {
+    "id": "akdeniz",
+    "name": "Akdeniz Diyeti",
+    "ad": "Akdeniz Diyeti",
+    "aciklama": "Geleneksel Akdeniz beslenme modeli",
+    "karbOrani": 50,
+    "proteinOrani": 20,
+    "yagOrani": 30,
+    "makroOranlari": {
+      "karbonhidrat": 50,
+      "protein": 20,
+      "yag": 30
+    },
+    "yasakliKelimeler": [
+      "işlenmiş et",
+      "şeker",
+      "trans yağ"
+    ],
+    "zorunluOzellikler": {
+      "ketojenik": false,
+      "glutensiz": false,
+      "vegan": false,
+      "vegetarian": false,
+      "dusukKalori": false,
+      "yuksekProtein": false
+    },
+    "olusturmaTarihi": "2025-01-01"
+  }
+]

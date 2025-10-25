@@ -1,0 +1,2707 @@
+[
+  {
+    "id": "7582113b-a4b9-4e91-b525-7388e93d459d",
+    "name": "Ö2. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - PAZARTESI - öğle - 1. hafta",
+    "type": "öğle",
+    "createdDate": "2025-09-28",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 502,
+      "protein": 25,
+      "karb": 6,
+      "yag": 42
+    },
+    "foods": [
+      {
+        "foodName": "Sahanda Yumurta (2 adet)",
+        "originalText": "sahanda yumurta (2 yumurta - 1 tatlı kaşığı tereyağı)",
+        "calories": 205,
+        "protein": 12,
+        "carbs": 1,
+        "fat": 17,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "pastırma ya da 2 dilim hindi füme",
+        "originalText": "pastırma ya da 2 dilim hindi füme",
+        "calories": 50,
+        "protein": 6,
+        "carbs": 2,
+        "fat": 2,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tahin ekmeği",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 124,
+        "protein": 3,
+        "carbs": 1,
+        "fat": 12,
+        "category": "OGLE",
+        "tags": [],
+        "name": "fındık (10 adet)",
+        "minQuantity": 0.5,
+        "maxQuantity": 1,
+        "step": 0.5,
+        "multiplier": 1,
+        "role": "mainDish",
+        "mealType": [],
+        "dietTypes": [],
+        "keto": false,
+        "lowcarb": false,
+        "portionFixed": false,
+        "ketojenik": false,
+        "dusukkarb": false,
+        "akdeniz": false,
+        "fixedportion": false,
+        "fillerLunch": false,
+        "fillerDinner": false,
+        "compatibilityTags": [],
+        "incompatibilityTags": [],
+        "seasonRange": "[1,12]",
+        "isReversedSeason": false
+      },
+      {
+        "foodName": "zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)",
+        "calories": 40,
+        "protein": 1,
+        "carbs": 0,
+        "fat": 4,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon )",
+        "calories": 83,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 7,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "PAZARTESI",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    },
+    "displayName": "Ö1. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - PAZARTESI - öğle - 1. hafta"
+  },
+  {
+    "id": "d2be4839-f503-4707-8018-b13d5df236f5",
+    "name": "Ö3. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - PAZARTESI - akşam - 1. hafta",
+    "type": "akşam",
+    "createdDate": "2025-09-28",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 543,
+      "protein": 24,
+      "karb": 6,
+      "yag": 47
+    },
+    "foods": [
+      {
+        "foodName": "Köfte",
+        "originalText": "köfte",
+        "calories": 242,
+        "protein": 20,
+        "carbs": 0,
+        "fat": 18,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kabak Sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
+        "originalText": "kabak sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
+        "calories": 155,
+        "protein": 1,
+        "carbs": 4,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "calories": 146,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Toz kollajen 1 ölçek",
+        "originalText": "toz kollajen 1 ölçek",
+        "calories": 0,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "PAZARTESI",
+      "mealName": "akşam (tercihen hava kararınca)"
+    },
+    "displayName": "Ö2. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - PAZARTESI - akşam - 1. hafta"
+  },
+  {
+    "id": "78cdba0b-b2a7-4259-a0aa-31e3327eddd9",
+    "name": "Ö3. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - SALI - öğle - 1. hafta",
+    "type": "öğle",
+    "createdDate": "2025-09-28",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 551,
+      "protein": 22,
+      "karb": 10,
+      "yag": 47
+    },
+    "foods": [
+      {
+        "foodName": "Mantarlı Yumurta (100 gram mantar, 1 yemek kaşığı tereyağı, 1 adet yumurta, tuz ve baharatlar)",
+        "originalText": "mantarlı omlet (2 adet yumurta,5 adet mantar,1 tatlı kaşığı tereyağı)",
+        "calories": 160,
+        "protein": 9,
+        "carbs": 4,
+        "fat": 12,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)",
+        "calories": 40,
+        "protein": 1,
+        "carbs": 0,
+        "fat": 4,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tahin ekmeği",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 175,
+        "protein": 7,
+        "carbs": 3,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Ceviz (3 adet)",
+        "originalText": "ceviz (3 adet)",
+        "calories": 93,
+        "protein": 2,
+        "carbs": 1,
+        "fat": 9,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "calories": 83,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 7,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "SALI",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    },
+    "displayName": "Ö3. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - SALI - öğle - 1. hafta"
+  },
+  {
+    "id": "ca6273fa-ddef-461f-b34c-63791cae0be7",
+    "name": "Ö4. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - SALI - akşam - 1. hafta",
+    "type": "akşam",
+    "createdDate": "2025-09-28",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 323,
+      "protein": 34,
+      "karb": 5,
+      "yag": 17.5
+    },
+    "foods": [
+      {
+        "foodName": "Tavuk Izgara",
+        "originalText": "hindi ya da tavuk ızgara tava",
+        "calories": 165,
+        "protein": 31,
+        "carbs": 0,
+        "fat": 3.5,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Semizotu Salatası",
+        "originalText": "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı",
+        "calories": 158,
+        "protein": 3,
+        "carbs": 5,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Fındık  (10 adet)",
+        "originalText": "fındık (10 adet)",
+        "calories": 0,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "SALI",
+      "mealName": "akşam (tercihen hava kararınca)"
+    },
+    "displayName": "Ö4. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - SALI - akşam - 1. hafta"
+  },
+  {
+    "id": "c8c755bc-8166-42ee-9447-f3d2ad1aac9e",
+    "name": "Ö5. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - ÇARŞAMBA - öğle - 1. hafta",
+    "type": "öğle",
+    "createdDate": "2025-09-28",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 684,
+      "protein": 35,
+      "karb": 10,
+      "yag": 56
+    },
+    "foods": [
+      {
+        "foodName": "Sahanda Yumurta (2 adet)",
+        "originalText": "sahanda yumurta (2 adet + 1 tatlı kaşığı tereyağı ile)",
+        "calories": 205,
+        "protein": 12,
+        "carbs": 1,
+        "fat": 17,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)",
+        "calories": 40,
+        "protein": 1,
+        "carbs": 0,
+        "fat": 4,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
+        "originalText": "tahin ekmeği (2 dilim)",
+        "calories": 410,
+        "protein": 20,
+        "carbs": 6,
+        "fat": 34,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "originalText": "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "calories": 29,
+        "protein": 2,
+        "carbs": 3,
+        "fat": 1,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Fındık  (10 adet)",
+        "originalText": "fındık (10 adet)",
+        "calories": 0,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "ÇARŞAMBA",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    },
+    "displayName": "Ö5. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - ÇARŞAMBA - öğle - 1. hafta"
+  },
+  {
+    "id": "0e509a89-c74c-4e80-8ddb-f21b9ff899df",
+    "name": "Ö6. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - ÇARŞAMBA - akşam - 1. hafta",
+    "type": "akşam",
+    "createdDate": "2025-09-28",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 677,
+      "protein": 38,
+      "karb": 12,
+      "yag": 53
+    },
+    "foods": [
+      {
+        "foodName": "Patlıcan Musakka",
+        "originalText": "patlıcan musakka (150 gr kıyma ile)",
+        "calories": 213,
+        "protein": 18,
+        "carbs": 6,
+        "fat": 13,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Avokadolu Roka Salatası",
+        "originalText": "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 tatlı",
+        "calories": 249,
+        "protein": 3,
+        "carbs": 3,
+        "fat": 25,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tahin ekmeği",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 175,
+        "protein": 7,
+        "carbs": 3,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kollajen",
+        "originalText": "kollajen (1 ölçek 5 gram)",
+        "calories": 40,
+        "protein": 10,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "ÇARŞAMBA",
+      "mealName": "akşam (tercihen hava kararınca)"
+    },
+    "displayName": "Ö6. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - ÇARŞAMBA - akşam - 1. hafta"
+  },
+  {
+    "id": "e24753ba-6cb6-4385-a636-ace9da274a41",
+    "name": "Ö7. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - PERŞEMBE - öğle - 1. hafta",
+    "type": "öğle",
+    "createdDate": "2025-09-28",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 419,
+      "protein": 18,
+      "karb": 8,
+      "yag": 35
+    },
+    "foods": [
+      {
+        "foodName": "Sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
+        "calories": 319,
+        "protein": 14,
+        "carbs": 5,
+        "fat": 27,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Zeytin (10 adet)",
+        "originalText": "zeytin (10 adet)",
+        "calories": 80,
+        "protein": 1,
+        "carbs": 1,
+        "fat": 8,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke ve limon ile)",
+        "originalText": "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke ve limon ile)",
+        "calories": 20,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "PERŞEMBE",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    },
+    "displayName": "Ö7. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - PERŞEMBE - öğle - 1. hafta"
+  },
+  {
+    "id": "480a5237-7ad8-46b8-b8cb-5ef2c50518b0",
+    "name": "Ö8. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - PERŞEMBE - akşam - 1. hafta",
+    "type": "akşam",
+    "createdDate": "2025-09-28",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 600,
+      "protein": 62,
+      "karb": 7,
+      "yag": 36
+    },
+    "foods": [
+      {
+        "foodName": "250 gram ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "originalText": "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "calories": 278,
+        "protein": 45,
+        "carbs": 2,
+        "fat": 10,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "originalText": "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "calories": 155,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "originalText": "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "calories": 127,
+        "protein": 4,
+        "carbs": 3,
+        "fat": 11,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kollajen",
+        "originalText": "kollajen (1 ölçek 5 gram)",
+        "calories": 40,
+        "protein": 10,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "PERŞEMBE",
+      "mealName": "akşam (tercihen hava kararınca)"
+    },
+    "displayName": "Ö8. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - PERŞEMBE - akşam - 1. hafta"
+  },
+  {
+    "id": "dbb21908-ba40-487a-991c-b7aadf96593b",
+    "name": "Ö9. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - CUMA - öğle - 1. hafta",
+    "type": "öğle",
+    "createdDate": "2025-09-28",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 676,
+      "protein": 25,
+      "karb": 9,
+      "yag": 60
+    },
+    "foods": [
+      {
+        "foodName": "Sahanda Yumurta (2 adet)",
+        "originalText": "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "calories": 205,
+        "protein": 12,
+        "carbs": 1,
+        "fat": 17,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "salatalık (orta boy) + cherry domates (2 adet)",
+        "calories": 150,
+        "protein": 2,
+        "carbs": 4,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tahin ekmeği",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 175,
+        "protein": 7,
+        "carbs": 3,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Ceviz (5 adet)",
+        "originalText": "ceviz (5 adet)",
+        "calories": 146,
+        "protein": 4,
+        "carbs": 1,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "CUMA",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    },
+    "displayName": "Ö9. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - CUMA - öğle - 1. hafta"
+  },
+  {
+    "id": "8fb44ac2-05b9-4c9d-b598-17e04290ab68",
+    "name": "Ö10. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - CUMA - akşam - 1. hafta",
+    "type": "akşam",
+    "createdDate": "2025-09-28",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 735,
+      "protein": 50,
+      "karb": 10,
+      "yag": 55
+    },
+    "foods": [
+      {
+        "foodName": "kıymalı taze fasulye / kabak yemeği",
+        "originalText": "kıymalı taze fasulye / kabak yemeği",
+        "calories": 365,
+        "protein": 30,
+        "carbs": 5,
+        "fat": 25,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Mevsim salata (marul, dereotu, roka, kırmızı lahana, turp + 1 yemek kaşığı zeytinyağı)",
+        "originalText": "mevsim salata (marul, dereotu, roka, maydanoz, 1 adet küçük salatalık, 1 adet küçük domates + 1 tatlı kaşığı",
+        "calories": 155,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tahin ekmeği",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 175,
+        "protein": 7,
+        "carbs": 3,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kollajen",
+        "originalText": "kollajen (1 ölçek 5 gram)",
+        "calories": 40,
+        "protein": 10,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "CUMA",
+      "mealName": "akşam (tercihen hava kararınca)"
+    },
+    "displayName": "Ö10. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - CUMA - akşam - 1. hafta"
+  },
+  {
+    "id": "f8032751-ac99-4885-bb96-0e4f0eaec50f",
+    "name": "Ö11. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - CUMARTESI - öğle - 1. hafta",
+    "type": "öğle",
+    "createdDate": "2025-09-28",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 519,
+      "protein": 24,
+      "karb": 9,
+      "yag": 43
+    },
+    "foods": [
+      {
+        "foodName": "Sahanda Yumurta (2 adet)",
+        "originalText": "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "calories": 205,
+        "protein": 12,
+        "carbs": 1,
+        "fat": 17,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Zeytin (10 adet)",
+        "originalText": "zeytin (10 adet)",
+        "calories": 80,
+        "protein": 1,
+        "carbs": 1,
+        "fat": 8,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tahin ekmeği",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 175,
+        "protein": 7,
+        "carbs": 3,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere,  limon ile)",
+        "originalText": "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere, limon ile)",
+        "calories": 20,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Bitter çikolata (2 kare)",
+        "originalText": "bitter çikolata (2 kare)",
+        "calories": 39,
+        "protein": 1,
+        "carbs": 2,
+        "fat": 3,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "CUMARTESI",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    },
+    "displayName": "Ö11. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - CUMARTESI - öğle - 1. hafta"
+  },
+  {
+    "id": "d6a91332-09da-427d-b955-89b2c36a8c8f",
+    "name": "Ö12. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - CUMARTESI - akşam - 1. hafta",
+    "type": "akşam",
+    "createdDate": "2025-09-28",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 841,
+      "protein": 59,
+      "karb": 14,
+      "yag": 61
+    },
+    "foods": [
+      {
+        "foodName": "sulu et kızartması",
+        "originalText": "sulu et kızartması",
+        "calories": 340,
+        "protein": 36,
+        "carbs": 4,
+        "fat": 20,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Semizotu Salatası",
+        "originalText": "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 tatlı kaşığı zeytinyağı)",
+        "calories": 158,
+        "protein": 3,
+        "carbs": 5,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tahin ekmeği",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 175,
+        "protein": 7,
+        "carbs": 3,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Fındık (20 adet)",
+        "originalText": "fındık (20 adet)",
+        "calories": 128,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 12,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kollajen",
+        "originalText": "kollajen (1 ölçek 5 gram)",
+        "calories": 40,
+        "protein": 10,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "CUMARTESI",
+      "mealName": "akşam (tercihen hava kararınca)"
+    },
+    "displayName": "Ö12. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - CUMARTESI - akşam - 1. hafta"
+  },
+  {
+    "id": "42aea5f5-0efa-4b63-8fba-b8048b6126fe",
+    "name": "Ö13. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - PAZAR - öğle - 1. hafta",
+    "type": "öğle",
+    "createdDate": "2025-09-28",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 785,
+      "protein": 39,
+      "karb": 11,
+      "yag": 65
+    },
+    "foods": [
+      {
+        "foodName": "1 yumurta, 1 çorba kaşığı badem unu ile krep (1 çay kaşığı zeytinyağı tavayı yağlamak için)yumurta ve badem ununu çırpın, istediğiniz baharatları ekleyin kısık ateşli tavayı yağlayarak arkalı önlü pişirin",
+        "originalText": "badem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın. i̇stediğiniz baharatları ekleyin1 tatlı kaşığı",
+        "calories": 350,
+        "protein": 24,
+        "carbs": 5,
+        "fat": 26,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "pastırma ya da 2 dilim hindi füme",
+        "originalText": "hindi füme (2 dilim)",
+        "calories": 50,
+        "protein": 6,
+        "carbs": 2,
+        "fat": 2,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Zeytin (10 adet)",
+        "originalText": "zeytin (10 adet)",
+        "calories": 80,
+        "protein": 1,
+        "carbs": 1,
+        "fat": 8,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "originalText": "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "calories": 155,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Çiğ badem  (20 adet)",
+        "originalText": "çiğ badem (20 adet)",
+        "calories": 150,
+        "protein": 5,
+        "carbs": 1,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "PAZAR",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    },
+    "displayName": "Ö13. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - PAZAR - öğle - 1. hafta"
+  },
+  {
+    "id": "02d7e450-39e3-47b4-87f3-fb24ddb092f5",
+    "name": "Ö14. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - PAZAR - akşam - 1. hafta",
+    "type": "akşam",
+    "createdDate": "2025-09-28",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 641,
+      "protein": 53,
+      "karb": 6,
+      "yag": 45
+    },
+    "foods": [
+      {
+        "foodName": "ton balığı salatası (160 gram ton balığı ile)",
+        "originalText": "ton balığı salatası (100 gram ton balığı ile)",
+        "calories": 348,
+        "protein": 40,
+        "carbs": 2,
+        "fat": 20,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tahin ekmeği",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 175,
+        "protein": 7,
+        "carbs": 3,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kabak Çekirdeği (1 avuç)",
+        "originalText": "kabak çekirdeği (1 avuç)",
+        "calories": 118,
+        "protein": 6,
+        "carbs": 1,
+        "fat": 10,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "PAZAR",
+      "mealName": "akşam (tercihen hava kararmadan önce)"
+    },
+    "displayName": "Ö14. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - PAZAR - akşam - 1. hafta"
+  },
+  {
+    "id": "9c437f13-3fc7-4317-ac13-5e31413d9e42",
+    "name": "Ö15. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - PAZARTESI - öğle - 2. hafta",
+    "type": "öğle",
+    "createdDate": "2025-09-30",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 415,
+      "protein": 26,
+      "karb": 8,
+      "yag": 31
+    },
+    "foods": [
+      {
+        "foodName": "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+        "originalText": "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+        "calories": 208,
+        "protein": 13,
+        "carbs": 3,
+        "fat": 16,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "zeytin (5 adet)",
+        "originalText": "Zeytin (5 adet)",
+        "calories": 40,
+        "protein": 1,
+        "carbs": 0,
+        "fat": 4,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "originalText": "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "calories": 29,
+        "protein": 2,
+        "carbs": 3,
+        "fat": 1,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tulum /kaşar peyniri (50 gram)",
+        "originalText": "Tulum /kaşar peyniri (50 gram)",
+        "calories": 138,
+        "protein": 10,
+        "carbs": 2,
+        "fat": 10,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Fındık  (10 adet)",
+        "originalText": "Fındık  (10 adet)",
+        "calories": 0,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "BEYZA MUTLUBAŞ",
+      "dateRange": "15-21 EYLÜL",
+      "weekNumber": 2,
+      "dayName": "PAZARTESI",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    }
+  },
+  {
+    "id": "674bb150-40f2-4627-89f6-bc0e12cba846",
+    "name": "Ö16. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - PAZARTESI - akşam - 2. hafta",
+    "type": "akşam",
+    "createdDate": "2025-09-30",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 556,
+      "protein": 36,
+      "karb": 4,
+      "yag": 44
+    },
+    "foods": [
+      {
+        "foodName": "Köfte",
+        "originalText": "köfte",
+        "calories": 242,
+        "protein": 20,
+        "carbs": 0,
+        "fat": 18,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "calories": 146,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "fındık (20 adet)",
+        "originalText": "fındık (20 adet)",
+        "calories": 128,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 12,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kollajen (1 ölçek 10 gram)",
+        "originalText": "kollajen (1 ölçek 10 gram)",
+        "calories": 40,
+        "protein": 10,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "BEYZA MUTLUBAŞ",
+      "dateRange": "15-21 EYLÜL",
+      "weekNumber": 2,
+      "dayName": "PAZARTESI",
+      "mealName": "akşam (tercihen hava kararınca)"
+    }
+  },
+  {
+    "id": "d54333d9-1fdf-47d5-8301-af33e2da2098",
+    "name": "Ö17. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - SALI - öğle - 2. hafta",
+    "type": "öğle",
+    "createdDate": "2025-09-30",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 607,
+      "protein": 27,
+      "karb": 10,
+      "yag": 51
+    },
+    "foods": [
+      {
+        "foodName": "Mantarlı Yumurta (100 gram mantar, 1 yemek kaşığı tereyağı, 1 adet yumurta, tuz ve baharatlar)",
+        "originalText": "mantarlı omlet (2 adet yumurta, 5 adet mantar, 1 tatlı kaşığı tereyağı)",
+        "calories": 160,
+        "protein": 9,
+        "carbs": 4,
+        "fat": 12,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tulum /kaşar peyniri (50 gram)",
+        "originalText": "tulum / kaşar peyniri / lor peyniri (50 gram)",
+        "calories": 138,
+        "protein": 10,
+        "carbs": 2,
+        "fat": 10,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Haşhaş ezmesi ekmeği (1 dilim)",
+        "originalText": "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem",
+        "calories": 43,
+        "protein": 3,
+        "carbs": 1,
+        "fat": 3,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Fındık  (10 adet)",
+        "originalText": "fındık (10 adet)",
+        "calories": 0,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "1/2 Avokado",
+        "originalText": "1/2 avokado",
+        "calories": 155,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)",
+        "calories": 40,
+        "protein": 1,
+        "carbs": 0,
+        "fat": 4,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Mevsim Yeşillikleri (dereotu, roka, maydanoz, sirke, limon +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "mevsim yeşillikleri (dereotu, roka, maydanoz, sirke, limon+1 yemek kaşığı zeytinyağı ile)",
+        "calories": 71,
+        "protein": 1,
+        "carbs": 1,
+        "fat": 7,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "BEYZA MUTLUBAŞ",
+      "dateRange": "15-21 EYLÜL",
+      "weekNumber": 2,
+      "dayName": "SALI",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    }
+  },
+  {
+    "id": "35d73e83-2826-494a-a257-3ef98111b6da",
+    "name": "Ö18. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - SALI - öğle - 1. hafta",
+    "type": "öğle",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 786,
+      "protein": 35,
+      "karb": 13,
+      "yag": 66
+    },
+    "foods": [
+      {
+        "foodName": "Mantarlı Yumurta (100 gram mantar, 1 yemek kaşığı tereyağı, 1 adet yumurta, tuz ve baharatlar)",
+        "originalText": "mantarlı omlet (2 adet yumurta,5 adet mantar,1 tatlı kaşığı tereyağı)",
+        "calories": 160,
+        "protein": 9,
+        "carbs": 4,
+        "fat": 12,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)",
+        "calories": 40,
+        "protein": 1,
+        "carbs": 0,
+        "fat": 4,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 410,
+        "protein": 20,
+        "carbs": 6,
+        "fat": 34,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Ceviz (3 adet)",
+        "originalText": "ceviz (3 adet)",
+        "calories": 93,
+        "protein": 2,
+        "carbs": 1,
+        "fat": 9,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "calories": 83,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 7,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "SALI",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    }
+  },
+  {
+    "id": "d7d61d17-f839-43dc-b027-383fb0cefb0a",
+    "name": "Ö19. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - ÇARŞAMBA - akşam - 1. hafta",
+    "type": "akşam",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 912,
+      "protein": 51,
+      "karb": 15,
+      "yag": 72
+    },
+    "foods": [
+      {
+        "foodName": "Patlıcan Musakka",
+        "originalText": "patlıcan musakka (150 gr kıyma ile)",
+        "calories": 213,
+        "protein": 18,
+        "carbs": 6,
+        "fat": 13,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Avokadolu Roka Salatası",
+        "originalText": "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 tatlı",
+        "calories": 249,
+        "protein": 3,
+        "carbs": 3,
+        "fat": 25,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 410,
+        "protein": 20,
+        "carbs": 6,
+        "fat": 34,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kollajen",
+        "originalText": "kollajen (1 ölçek 5 gram)",
+        "calories": 40,
+        "protein": 10,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "ÇARŞAMBA",
+      "mealName": "akşam (tercihen hava kararınca)"
+    }
+  },
+  {
+    "id": "29adcdd6-411e-4659-838d-5b5c56e83aa9",
+    "name": "Ö20. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - CUMA - öğle - 1. hafta",
+    "type": "öğle",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 911,
+      "protein": 38,
+      "karb": 12,
+      "yag": 79
+    },
+    "foods": [
+      {
+        "foodName": "Sahanda Yumurta (2 adet)",
+        "originalText": "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "calories": 205,
+        "protein": 12,
+        "carbs": 1,
+        "fat": 17,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "salatalık (orta boy) + cherry domates (2 adet)",
+        "calories": 150,
+        "protein": 2,
+        "carbs": 4,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 410,
+        "protein": 20,
+        "carbs": 6,
+        "fat": 34,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Ceviz (5 adet)",
+        "originalText": "ceviz (5 adet)",
+        "calories": 146,
+        "protein": 4,
+        "carbs": 1,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "CUMA",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    }
+  },
+  {
+    "id": "449971a7-5d1f-4ed1-ab7d-7f4e9b962bce",
+    "name": "Ö21. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - CUMA - akşam - 1. hafta",
+    "type": "akşam",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 970,
+      "protein": 63,
+      "karb": 13,
+      "yag": 74
+    },
+    "foods": [
+      {
+        "foodName": "kıymalı taze fasulye / kabak yemeği",
+        "originalText": "kıymalı taze fasulye / kabak yemeği",
+        "calories": 365,
+        "protein": 30,
+        "carbs": 5,
+        "fat": 25,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Mevsim salata (marul, dereotu, roka, kırmızı lahana, turp + 1 yemek kaşığı zeytinyağı)",
+        "originalText": "mevsim salata (marul, dereotu, roka, maydanoz, 1 adet küçük salatalık, 1 adet küçük domates + 1 tatlı kaşığı",
+        "calories": 155,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 410,
+        "protein": 20,
+        "carbs": 6,
+        "fat": 34,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kollajen",
+        "originalText": "kollajen (1 ölçek 5 gram)",
+        "calories": 40,
+        "protein": 10,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "CUMA",
+      "mealName": "akşam (tercihen hava kararınca)"
+    }
+  },
+  {
+    "id": "92bd8913-985d-4379-b3bb-44d35e17a871",
+    "name": "Ö22. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - CUMARTESI - öğle - 1. hafta",
+    "type": "öğle",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 754,
+      "protein": 37,
+      "karb": 12,
+      "yag": 62
+    },
+    "foods": [
+      {
+        "foodName": "Sahanda Yumurta (2 adet)",
+        "originalText": "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "calories": 205,
+        "protein": 12,
+        "carbs": 1,
+        "fat": 17,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Zeytin (10 adet)",
+        "originalText": "zeytin (10 adet)",
+        "calories": 80,
+        "protein": 1,
+        "carbs": 1,
+        "fat": 8,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 410,
+        "protein": 20,
+        "carbs": 6,
+        "fat": 34,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere,  limon ile)",
+        "originalText": "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere, limon ile)",
+        "calories": 20,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Bitter çikolata (2 kare)",
+        "originalText": "bitter çikolata (2 kare)",
+        "calories": 39,
+        "protein": 1,
+        "carbs": 2,
+        "fat": 3,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "CUMARTESI",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    }
+  },
+  {
+    "id": "d7ee43fc-bf76-4034-8c70-2cf188c53e14",
+    "name": "Ö23. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - CUMARTESI - akşam - 1. hafta",
+    "type": "akşam",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 1076,
+      "protein": 72,
+      "karb": 17,
+      "yag": 80
+    },
+    "foods": [
+      {
+        "foodName": "sulu et kızartması",
+        "originalText": "sulu et kızartması",
+        "calories": 340,
+        "protein": 36,
+        "carbs": 4,
+        "fat": 20,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Semizotu Salatası",
+        "originalText": "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 tatlı kaşığı zeytinyağı)",
+        "calories": 158,
+        "protein": 3,
+        "carbs": 5,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 410,
+        "protein": 20,
+        "carbs": 6,
+        "fat": 34,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "fındık (20 adet)",
+        "originalText": "fındık (20 adet)",
+        "calories": 128,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 12,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kollajen",
+        "originalText": "kollajen (1 ölçek 5 gram)",
+        "calories": 40,
+        "protein": 10,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "CUMARTESI",
+      "mealName": "akşam (tercihen hava kararınca)"
+    }
+  },
+  {
+    "id": "53dd4a7b-24aa-4bf4-8323-94931723350c",
+    "name": "Ö24. 📋 PAKİZE AKÇAY - 8-14 EYLÜL - PAZAR - akşam - 1. hafta",
+    "type": "akşam",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 876,
+      "protein": 66,
+      "karb": 9,
+      "yag": 64
+    },
+    "foods": [
+      {
+        "foodName": "ton balığı salatası (160 gram ton balığı ile)",
+        "originalText": "ton balığı salatası (100 gram ton balığı ile)",
+        "calories": 348,
+        "protein": 40,
+        "carbs": 2,
+        "fat": 20,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
+        "originalText": "tahin ekmeği (1 dilim)",
+        "calories": 410,
+        "protein": 20,
+        "carbs": 6,
+        "fat": 34,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kabak Çekirdeği (1 avuç)",
+        "originalText": "kabak çekirdeği (1 avuç)",
+        "calories": 118,
+        "protein": 6,
+        "carbs": 1,
+        "fat": 10,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "PAKİZE AKÇAY",
+      "dateRange": "8-14 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "PAZAR",
+      "mealName": "akşam (tercihen hava kararmadan önce)"
+    }
+  },
+  {
+    "id": "ea60e482-bccf-4881-9e48-780ad0f2e714",
+    "name": "Ö25. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - SALI - akşam - 2. hafta",
+    "type": "akşam",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 476,
+      "protein": 38,
+      "karb": 9,
+      "yag": 32
+    },
+    "foods": [
+      {
+        "foodName": "*Tavuklu Mantar Sote (150 gr tavuk ile)",
+        "originalText": "tavuklu mantar sote (150 gr tavuk ile)",
+        "calories": 321,
+        "protein": 35,
+        "carbs": 7,
+        "fat": 17,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Mevsim salata (marul, dereotu, roka, kırmızı lahana, turp + 1 yemek kaşığı zeytinyağı)",
+        "originalText": "mevsim salata (1 yemek kaşığı zeytinyağı ile)",
+        "calories": 155,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "BEYZA MUTLUBAŞ",
+      "dateRange": "15-21 EYLÜL",
+      "weekNumber": 2,
+      "dayName": "SALI",
+      "mealName": "akşam (tercihen hava kararınca)"
+    }
+  },
+  {
+    "id": "6bbd493f-f1b4-4bda-9b45-c03d05cba146",
+    "name": "Ö26. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - ÇARŞAMBA - öğle - 2. hafta",
+    "type": "öğle",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 545,
+      "protein": 24,
+      "karb": 11,
+      "yag": 45
+    },
+    "foods": [
+      {
+        "foodName": "Tereyağlı Kabak",
+        "originalText": "tereyağlı kabak",
+        "calories": 95,
+        "protein": 3,
+        "carbs": 5,
+        "fat": 7,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tulum /kaşar peyniri (50 gram)",
+        "originalText": "tulum / kaşar peyniri / lor peyniri (50 gram)",
+        "calories": 138,
+        "protein": 10,
+        "carbs": 2,
+        "fat": 10,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 adet küçük salatalık, limon ve sirke +1 yemek kaşığı zeytinyağı ile)",
+        "calories": 83,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 7,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Haşhaş ezmesi ekmeği (1 dilim)",
+        "originalText": "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem",
+        "calories": 43,
+        "protein": 3,
+        "carbs": 1,
+        "fat": 3,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)",
+        "calories": 40,
+        "protein": 1,
+        "carbs": 0,
+        "fat": 4,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Ceviz (5 adet)",
+        "originalText": "ceviz (5 adet)",
+        "calories": 146,
+        "protein": 4,
+        "carbs": 1,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "BEYZA MUTLUBAŞ",
+      "dateRange": "15-21 EYLÜL",
+      "weekNumber": 2,
+      "dayName": "ÇARŞAMBA",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    }
+  },
+  {
+    "id": "821f2257-978f-4940-8253-601f7f70a563",
+    "name": "Ö27. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - ÇARŞAMBA - akşam - 2. hafta",
+    "type": "akşam",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 639,
+      "protein": 47,
+      "karb": 7,
+      "yag": 47
+    },
+    "foods": [
+      {
+        "foodName": "kıymalı taze fasulye / kabak yemeği",
+        "originalText": "kıymalı kabak / patlıcan / taze fasulye yemeği(150 gr kıyma)",
+        "calories": 365,
+        "protein": 30,
+        "carbs": 5,
+        "fat": 25,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Avokado (yarım)",
+        "originalText": "avokado ve rokalı salata",
+        "calories": 116,
+        "protein": 1,
+        "carbs": 1,
+        "fat": 12,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kabak Çekirdeği (1 avuç)",
+        "originalText": "kabak çekirdeği (1 avuç)",
+        "calories": 118,
+        "protein": 6,
+        "carbs": 1,
+        "fat": 10,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kollajen (1 ölçek 10 gram)",
+        "originalText": "kollajen (1 ölçek 10 gram)",
+        "calories": 40,
+        "protein": 10,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "BEYZA MUTLUBAŞ",
+      "dateRange": "15-21 EYLÜL",
+      "weekNumber": 2,
+      "dayName": "ÇARŞAMBA",
+      "mealName": "akşam (tercihen hava kararınca)"
+    }
+  },
+  {
+    "id": "e75fb040-4118-42e3-ae3a-bd09f7342af1",
+    "name": "Ö28. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - PERŞEMBE - öğle - 2. hafta",
+    "type": "öğle",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 248,
+      "protein": 12,
+      "karb": 5,
+      "yag": 20
+    },
+    "foods": [
+      {
+        "foodName": "Yumurtalı ıspanak kavurma (2 yumurta, 100 gr. Ispanak, 1 yk zeytinyağı, soğan",
+        "originalText": "yumurtalı ıspanak /pazı /semizotu",
+        "calories": 0,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tulum /kaşar peyniri (50 gram)",
+        "originalText": "tulum / kaşar peyniri / lor peyniri (50 gram)",
+        "calories": 138,
+        "protein": 10,
+        "carbs": 2,
+        "fat": 10,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Mevsim Yeşillikleri (dereotu, roka, maydanoz, sirke, limon +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "mevsim yeşillikleri (dereotu, roka, maydanoz, sirke, limon ve 1 tatlı kaşığı zeytinyağı ile)",
+        "calories": 71,
+        "protein": 1,
+        "carbs": 1,
+        "fat": 7,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Bitter çikolata (2 kare)",
+        "originalText": "bitter çikolata (2 kare)",
+        "calories": 39,
+        "protein": 1,
+        "carbs": 2,
+        "fat": 3,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "BEYZA MUTLUBAŞ",
+      "dateRange": "15-21 EYLÜL",
+      "weekNumber": 2,
+      "dayName": "PERŞEMBE",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    }
+  },
+  {
+    "id": "ecea1c68-a398-40fb-8925-d3ad9d2f12e4",
+    "name": "Ö29. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - PERŞEMBE - akşam - 2. hafta",
+    "type": "akşam",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 274,
+      "protein": 6,
+      "karb": 4,
+      "yag": 26
+    },
+    "foods": [
+      {
+        "foodName": "200 gram ızgara ya da tavada kırmızı et",
+        "originalText": "ızgara ya da tavada kırmızı et",
+        "calories": 0,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "calories": 146,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "fındık (20 adet)",
+        "originalText": "fındık (20 adet)",
+        "calories": 128,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 12,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "BEYZA MUTLUBAŞ",
+      "dateRange": "15-21 EYLÜL",
+      "weekNumber": 2,
+      "dayName": "PERŞEMBE",
+      "mealName": "akşam (tercihen hava kararınca)"
+    }
+  },
+  {
+    "id": "30793d9e-3fe8-47d1-b246-4e781ae64693",
+    "name": "Ö30. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - CUMA - öğle - 2. hafta",
+    "type": "öğle",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 592,
+      "protein": 27,
+      "karb": 13,
+      "yag": 48
+    },
+    "foods": [
+      {
+        "foodName": "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+        "originalText": "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+        "calories": 208,
+        "protein": 13,
+        "carbs": 3,
+        "fat": 16,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Zeytin (10 adet)",
+        "originalText": "Zeytin (10 adet)",
+        "calories": 80,
+        "protein": 1,
+        "carbs": 1,
+        "fat": 8,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+        "calories": 150,
+        "protein": 2,
+        "carbs": 4,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Közlenmiş Kapya Biber",
+        "originalText": "Közlenmiş Kapya Biber",
+        "calories": 16,
+        "protein": 1,
+        "carbs": 3,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tulum /kaşar peyniri (50 gram)",
+        "originalText": "Tulum /kaşar peyniri (50 gram)",
+        "calories": 138,
+        "protein": 10,
+        "carbs": 2,
+        "fat": 10,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "BEYZA MUTLUBAŞ",
+      "dateRange": "15-21 EYLÜL",
+      "weekNumber": 2,
+      "dayName": "CUMA",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    }
+  },
+  {
+    "id": "ce797d33-acd5-49de-8dde-9ca6e6b37c58",
+    "name": "Ö31. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - CUMA - akşam - 2. hafta",
+    "type": "akşam",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 554,
+      "protein": 31,
+      "karb": 13,
+      "yag": 42
+    },
+    "foods": [
+      {
+        "foodName": "150 gram tavuk pirzola ya da kanat",
+        "originalText": "tavuk pirzola ya da kanat",
+        "calories": 258,
+        "protein": 21,
+        "carbs": 3,
+        "fat": 18,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Közlenmiş patlıcan salatası",
+        "originalText": "közlenmiş patlıcan salatası",
+        "calories": 178,
+        "protein": 4,
+        "carbs": 9,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kabak Çekirdeği (1 avuç)",
+        "originalText": "kabak çekirdeği (1 avuç)",
+        "calories": 118,
+        "protein": 6,
+        "carbs": 1,
+        "fat": 10,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "BEYZA MUTLUBAŞ",
+      "dateRange": "15-21 EYLÜL",
+      "weekNumber": 2,
+      "dayName": "CUMA",
+      "mealName": "akşam (tercihen hava kararınca)"
+    }
+  },
+  {
+    "id": "f7bb08e9-9b76-40d1-bdd6-2f824021f8cd",
+    "name": "Ö32. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - CUMARTESI - öğle - 2. hafta",
+    "type": "öğle",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 746,
+      "protein": 35,
+      "karb": 12,
+      "yag": 62
+    },
+    "foods": [
+      {
+        "foodName": "Sebzeli omlet (2 adet yumurta, 5 adet mantar, 5 yaprak ıspanak, 1 tatlı kaşığı tereyağı)",
+        "originalText": "sebzeli omlet (2 yumurta, 5 adet mantar, 1 adet yeşil biber + 1 yemek kaşığı zeytinyağı)",
+        "calories": 216,
+        "protein": 16,
+        "carbs": 2,
+        "fat": 16,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tulum /kaşar peyniri (50 gram)",
+        "originalText": "tulum / kaşar peyniri / lor peyniri (50 gram)",
+        "calories": 138,
+        "protein": 10,
+        "carbs": 2,
+        "fat": 10,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Zeytin (10 adet)",
+        "originalText": "zeytin (10 adet)",
+        "calories": 80,
+        "protein": 1,
+        "carbs": 1,
+        "fat": 8,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "originalText": "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "calories": 29,
+        "protein": 2,
+        "carbs": 3,
+        "fat": 1,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "1/2 Avokado",
+        "originalText": "1/2 avokado",
+        "calories": 155,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "fındık (20 adet)",
+        "originalText": "fındık (20 adet)",
+        "calories": 128,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 12,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "BEYZA MUTLUBAŞ",
+      "dateRange": "15-21 EYLÜL",
+      "weekNumber": 2,
+      "dayName": "CUMARTESI",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    }
+  },
+  {
+    "id": "efce4fb6-c247-40c1-98ab-7b14f8599779",
+    "name": "Ö33. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - CUMARTESI - akşam - 2. hafta",
+    "type": "akşam",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 527,
+      "protein": 48,
+      "karb": 5,
+      "yag": 35
+    },
+    "foods": [
+      {
+        "foodName": "250 gram ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "originalText": "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "calories": 278,
+        "protein": 45,
+        "carbs": 2,
+        "fat": 10,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Avokadolu Roka Salatası",
+        "originalText": "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek",
+        "calories": 249,
+        "protein": 3,
+        "carbs": 3,
+        "fat": 25,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "BEYZA MUTLUBAŞ",
+      "dateRange": "15-21 EYLÜL",
+      "weekNumber": 2,
+      "dayName": "CUMARTESI",
+      "mealName": "akşam (tercihen hava kararınca)"
+    }
+  },
+  {
+    "id": "33542d6d-044b-466c-bc9f-6c0c028f8719",
+    "name": "Ö34. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - PAZAR - öğle - 2. hafta",
+    "type": "öğle",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 718,
+      "protein": 32,
+      "karb": 8,
+      "yag": 62
+    },
+    "foods": [
+      {
+        "foodName": "Yumurta Salatası",
+        "originalText": "yumurta salatası (2 adet haşlanmış yumurta, 5 dal maydanoz, 5 dal dereotu, 1 dilim limon ve 1 yemek kaşığı",
+        "calories": 280,
+        "protein": 13,
+        "carbs": 3,
+        "fat": 24,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tulum /kaşar peyniri (50 gram)",
+        "originalText": "tulum / kaşar peyniri / lor peyniri (50 gram)",
+        "calories": 138,
+        "protein": 10,
+        "carbs": 2,
+        "fat": 10,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "zeytin (5 adet)",
+        "originalText": "zeytin (5 adet)",
+        "calories": 40,
+        "protein": 1,
+        "carbs": 0,
+        "fat": 4,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Mevsim Yeşillikleri (dereotu, roka, maydanoz, sirke, limon +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "mevsim yeşillikleri (dereotu, roka, maydanoz, sirke, limon +1 tatlı kaşığı zeytinyağı ile)",
+        "calories": 71,
+        "protein": 1,
+        "carbs": 1,
+        "fat": 7,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Haşhaş ezmesi ekmeği (1 dilim)",
+        "originalText": "haşhaş ezmesi ekmeği (1 dilim)",
+        "calories": 43,
+        "protein": 3,
+        "carbs": 1,
+        "fat": 3,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Ceviz (5 adet)",
+        "originalText": "ceviz (5 adet )",
+        "calories": 146,
+        "protein": 4,
+        "carbs": 1,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "BEYZA MUTLUBAŞ",
+      "dateRange": "15-21 EYLÜL",
+      "weekNumber": 2,
+      "dayName": "PAZAR",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    }
+  },
+  {
+    "id": "a4c8884c-6c4a-4574-b3c8-35c65a2f656a",
+    "name": "Ö35. 📋 BEYZA MUTLUBAŞ - 15-21 EYLÜL - PAZAR - akşam - 2. hafta",
+    "type": "akşam",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 499,
+      "protein": 36,
+      "karb": 10,
+      "yag": 35
+    },
+    "foods": [
+      {
+        "foodName": "Köfte",
+        "originalText": "köfte",
+        "calories": 242,
+        "protein": 20,
+        "carbs": 0,
+        "fat": 18,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Semizotu Salatası",
+        "originalText": "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı",
+        "calories": 158,
+        "protein": 3,
+        "carbs": 5,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Haşhaş ezmesi ekmeği (1 dilim)",
+        "originalText": "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem",
+        "calories": 43,
+        "protein": 3,
+        "carbs": 1,
+        "fat": 3,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "10 adet yaban mersini ya da 5 adet çilek",
+        "originalText": "yaban mersini ya da 5 adet çilek",
+        "calories": 16,
+        "protein": 0,
+        "carbs": 4,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kollajen (1 ölçek 10 gram)",
+        "originalText": "kollajen (1 ölçek 10 gram)",
+        "calories": 40,
+        "protein": 10,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "BEYZA MUTLUBAŞ",
+      "dateRange": "15-21 EYLÜL",
+      "weekNumber": 2,
+      "dayName": "PAZAR",
+      "mealName": "akşam (tercihen hava kararınca)"
+    }
+  },
+  {
+    "id": "0f03c139-c36f-444a-aa9d-37466252c1b6",
+    "name": "Ö36. 📋 AYŞEGÜL FAROOQ - 22-28 EYLÜL - PERŞEMBE - öğle - 1. hafta",
+    "type": "öğle",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 621,
+      "protein": 25,
+      "karb": 20,
+      "yag": 49
+    },
+    "foods": [
+      {
+        "foodName": "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "originalText": "haşlanmış yumurta (2 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "calories": 203,
+        "protein": 6,
+        "carbs": 2,
+        "fat": 19,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "1 dilim Keten Tohumu Ekmeği",
+        "originalText": "keten tohumu ekmeği 2 dilim",
+        "calories": 255,
+        "protein": 15,
+        "carbs": 15,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Zeytin (10 adet)",
+        "originalText": "zeytin (10 adet)",
+        "calories": 80,
+        "protein": 1,
+        "carbs": 1,
+        "fat": 8,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (4 yaprak marul, 4-5 dal maydanoz + limon, sirke ve 1 yemek kaşığı zeytinyağı ile)",
+        "calories": 83,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 7,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "AYŞEGÜL FAROOQ",
+      "dateRange": "22-28 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "PERŞEMBE",
+      "mealName": "ÖĞLE"
+    }
+  },
+  {
+    "id": "399ffbab-ac44-485b-8560-ca8bdf7204b7",
+    "name": "Ö37. 📋 AYŞEGÜL FAROOQ - 22-28 EYLÜL - PERŞEMBE - akşam - 1. hafta",
+    "type": "akşam",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 343.7,
+      "protein": 34.5,
+      "karb": 9,
+      "yag": 17.8
+    },
+    "foods": [
+      {
+        "foodName": "Tavuk Izgara",
+        "originalText": "ızgara tavuk göğsü (1 yemek kaşığı zeytinyağı ve istenilen baharatlarla ile marine edilmiş)",
+        "calories": 165,
+        "protein": 31,
+        "carbs": 0,
+        "fat": 3.5,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Semizotu Salatası",
+        "originalText": "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
+        "calories": 158,
+        "protein": 3,
+        "carbs": 5,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "5 Adet Çilek",
+        "originalText": "çilek",
+        "calories": 20.7,
+        "protein": 0.5,
+        "carbs": 4,
+        "fat": 0.3,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Toz kollajen 1 ölçek",
+        "originalText": "toz kollajen 1 ölçek",
+        "calories": 0,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "AYŞEGÜL FAROOQ",
+      "dateRange": "22-28 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "PERŞEMBE",
+      "mealName": "AKŞAM"
+    }
+  },
+  {
+    "id": "102ba2f8-43ed-4681-bfb5-21385e8064fc",
+    "name": "Ö38. 📋 AYŞEGÜL FAROOQ - 22-28 EYLÜL - CUMA - akşam - 1. hafta",
+    "type": "akşam",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 685,
+      "protein": 44,
+      "karb": 17,
+      "yag": 49
+    },
+    "foods": [
+      {
+        "foodName": "Tavuk Güveç",
+        "originalText": "tavuk güveç",
+        "calories": 312,
+        "protein": 25,
+        "carbs": 8,
+        "fat": 20,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Semizotu Salatası",
+        "originalText": "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
+        "calories": 158,
+        "protein": 3,
+        "carbs": 5,
+        "fat": 14,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Haşhaş ezmesi ekmeği (1 dilim)",
+        "originalText": "haşhaş ezmesi ekmeği (1 dilim)",
+        "calories": 43,
+        "protein": 3,
+        "carbs": 1,
+        "fat": 3,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Ceviz (3 adet)",
+        "originalText": "ceviz (3 adet)",
+        "calories": 93,
+        "protein": 2,
+        "carbs": 1,
+        "fat": 9,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Bitter çikolata (2 kare)",
+        "originalText": "bitter çikolata (2 kare)",
+        "calories": 39,
+        "protein": 1,
+        "carbs": 2,
+        "fat": 3,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kollajen (1 ölçek 10 gram)",
+        "originalText": "kollajen (1 ölçek 10 gram)",
+        "calories": 40,
+        "protein": 10,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "AYŞEGÜL FAROOQ",
+      "dateRange": "22-28 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "CUMA",
+      "mealName": "akşam (tercihen hava kararınca)"
+    }
+  },
+  {
+    "id": "c0cf23eb-f30b-4589-8435-5081c44196aa",
+    "name": "Ö39. 📋 AYŞEGÜL FAROOQ - 22-28 EYLÜL - CUMARTESI - öğle - 1. hafta",
+    "type": "öğle",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 546.8,
+      "protein": 30,
+      "karb": 7.7,
+      "yag": 44
+    },
+    "foods": [
+      {
+        "foodName": "Kavurmalı Yumurta (50 gram kavurma, 2 adet yumurta)",
+        "originalText": "kavurmalı yumurta (2 yumurta, 50 gr. kavurma,istenilen baharatlar)",
+        "calories": 337.2,
+        "protein": 23,
+        "carbs": 2.8,
+        "fat": 26,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Zeytin (10 adet)",
+        "originalText": "zeytin (10 adet)",
+        "calories": 80,
+        "protein": 1,
+        "carbs": 1,
+        "fat": 8,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Haşhaş ezmesi ekmeği (1 dilim)",
+        "originalText": "haşhaş ezmesi ekmeği (1 dilim)",
+        "calories": 43,
+        "protein": 3,
+        "carbs": 1,
+        "fat": 3,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "cherry domates (2 adet)",
+        "originalText": "cherry domates (2 adet)",
+        "calories": 3.6,
+        "protein": 0,
+        "carbs": 0.9,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "yeşillikler (dereotu, roka, maydanoz sirke ve limon ile)",
+        "calories": 83,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 7,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "AYŞEGÜL FAROOQ",
+      "dateRange": "22-28 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "CUMARTESI",
+      "mealName": "öğle (tercihen saat 12:00 civarında)"
+    }
+  },
+  {
+    "id": "0bba35f4-a0d2-459c-bdb6-f1be3ea9b40c",
+    "name": "Ö40. 📋 AYŞEGÜL FAROOQ - 22-28 EYLÜL - CUMARTESI - akşam - 1. hafta",
+    "type": "akşam",
+    "createdDate": "2025-10-08",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 660,
+      "protein": 41,
+      "karb": 7,
+      "yag": 52
+    },
+    "foods": [
+      {
+        "foodName": "Kabak kavurması (1 adet kabak + 1 domates + 1 biber) + 1 yemek kaşığı zeytinyağı ile)",
+        "originalText": "kabak kavurması (1 adet kabak + 1 domates + 1 biber) + 1 yemek kaşığı zeytinyağı ile)",
+        "calories": 204,
+        "protein": 5,
+        "carbs": 1,
+        "fat": 20,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Tavuk Döner (100 gram)",
+        "originalText": "tavuk ya da et döner (100 gram)",
+        "calories": 215,
+        "protein": 17,
+        "carbs": 3,
+        "fat": 15,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Yeşil Salata (marul, dereotu, roka, kırmızı lahana, 1 tatlı kaşığı zeytinyağı)",
+        "originalText": "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 tatlı kaşığı zeytinyağı)",
+        "calories": 83,
+        "protein": 3,
+        "carbs": 2,
+        "fat": 7,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kabak Çekirdeği (1 avuç)",
+        "originalText": "kabak çekirdeği (1 avuç )",
+        "calories": 118,
+        "protein": 6,
+        "carbs": 1,
+        "fat": 10,
+        "category": null,
+        "tags": []
+      },
+      {
+        "foodName": "Kollajen (1 ölçek 10 gram)",
+        "originalText": "kollajen (1 ölçek 10 gram)",
+        "calories": 40,
+        "protein": 10,
+        "carbs": 0,
+        "fat": 0,
+        "category": null,
+        "tags": []
+      }
+    ],
+    "sourcePatient": {
+      "name": "AYŞEGÜL FAROOQ",
+      "dateRange": "22-28 EYLÜL",
+      "weekNumber": 1,
+      "dayName": "CUMARTESI",
+      "mealName": "akşam (tercihen hava kararınca)"
+    }
+  }
+]

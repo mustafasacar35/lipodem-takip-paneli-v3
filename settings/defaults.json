@@ -1,0 +1,17 @@
+{
+  "dietType": "lowcarb",
+  "activityLevel": 3,
+  "goal": "maintain",
+  "weightKg": 55,
+  "perKg": {
+    "carbsPerKg": 0.6,
+    "proteinPerKg": 0.8,
+    "fatPerKg": 1
+  },
+  "mealDistribution": {
+    "kahvalti": 9,
+    "ogle": 38,
+    "aksam": 48,
+    "ara": 5
+  }
+}

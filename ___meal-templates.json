@@ -1,0 +1,275 @@
+[
+  {
+    "id": "1757619596045",
+    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Perşembe - öğle. 2. hafta",
+    "type": "öğle (tercihen saat 12:00 civarında)",
+    "createdDate": "2025-09-11",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 749,
+      "protein": 30,
+      "karb": 11,
+      "yag": 65
+    },
+    "foods": [
+      {
+        "foodName": "Badem Unlu Dere Otlu Poğaça (3 poğaça)",
+        "originalText": "Badem unlu dereotlu poğaça (3 adet)"
+      },
+      {
+        "foodName": "Tulum / kaşar / lor peyniri (30 gram)",
+        "originalText": "Tulum / kaşar / lor peyniri (50 gram)"
+      },
+      {
+        "foodName": "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "Salatalık (orta boy) + Cherry domates (2 adet)"
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "Yeşillikler (dereotu, roka, maydanoz, marul sirke + limon ve 1 yemek kaşığı zeytinyağı ile)"
+      },
+      {
+        "foodName": "Ceviz (5 adet)",
+        "originalText": "Ceviz (5 adet)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "BETÜL GENÇ",
+      "dateRange": "11-17 AĞUSTOS",
+      "weekNumber": 2,
+      "dayName": "PERŞEMBE"
+    },
+    "displayName": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Perşembe - öğle. 2. hafta"
+  },
+  {
+    "id": "1757619598901",
+    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Perşembe - akşam. 2. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-11",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 435,
+      "protein": 33,
+      "karb": 3,
+      "yag": 31
+    },
+    "foods": [
+      {
+        "foodName": "Kırmızı et ya da tavuklu bamya yemeği (100 gram et ile)",
+        "originalText": "Tavuklu Bamya Yemeği Yoğurtlu Salatalık Mezesi"
+      },
+      {
+        "foodName": "Un Helvası",
+        "originalText": "Un helvası Toz kollajen 1 ölçek"
+      }
+    ],
+    "sourcePatient": {
+      "name": "BETÜL GENÇ",
+      "dateRange": "11-17 AĞUSTOS",
+      "weekNumber": 2,
+      "dayName": "PERŞEMBE"
+    },
+    "displayName": "3. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Perşembe - akşam. 2. hafta"
+  },
+  {
+    "id": "1757619601219",
+    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Cuma - öğle. 2. hafta",
+    "type": "öğle (tercihen saat 12:00 civarında)",
+    "createdDate": "2025-09-11",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 1075,
+      "protein": 49,
+      "karb": 15,
+      "yag": 91
+    },
+    "foods": [
+      {
+        "foodName": "Badem Unlu Dere Otlu Poğaça (3 poğaça)",
+        "originalText": "Badem unlu dereotlu poğaça (3 adet)"
+      },
+      {
+        "foodName": "Tulum /kaşar peyniri (50 gram)",
+        "originalText": "Tulum / kaşar peyniri (50 gram)"
+      },
+      {
+        "foodName": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "originalText": "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke+1 tatlı kaşığı zeytinyağı ile)"
+      },
+      {
+        "foodName": "Fındık (20 adet)",
+        "originalText": "Fındık (20 adet)"
+      },
+      {
+        "foodName": "Yoğurtlu çılbır",
+        "originalText": "Yoğurtlu çılbır Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon, sirke ve 1 tatlı kaşığı zeytinyağı ile)"
+      },
+      {
+        "foodName": "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "Cherry domates (2 adet) Fındık (20 adet)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "BETÜL GENÇ",
+      "dateRange": "11-17 AĞUSTOS",
+      "weekNumber": 2,
+      "dayName": "CUMA"
+    },
+    "displayName": "4. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Cuma - öğle. 2. hafta"
+  },
+  {
+    "id": "1757619603490",
+    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Cuma - akşam. 2. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-11",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 651,
+      "protein": 46,
+      "karb": 11,
+      "yag": 47
+    },
+    "foods": [
+      {
+        "foodName": "Yoğurtlu Kabak Mezesi",
+        "originalText": "Tavuk ya da kuzugüveç Yoğurtlu Kabak Mezesi"
+      },
+      {
+        "foodName": "Turşu (organik, ev yapımı)",
+        "originalText": "Turşu (organik, ev yapımı)"
+      },
+      {
+        "foodName": "Pita Ekmeği",
+        "originalText": "Pita ekmeği (1 adet) Toz kollajen 1 ölçek"
+      },
+      {
+        "foodName": "200 gram kuzu kavurma",
+        "originalText": "200 gram köfte / ya da 200 gram kuzu kavurma"
+      },
+      {
+        "foodName": "Köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)",
+        "originalText": "Köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)"
+      },
+      {
+        "foodName": "Toz kollajen 1 ölçek",
+        "originalText": "Toz kollajen 1 ölçek"
+      }
+    ],
+    "sourcePatient": {
+      "name": "BETÜL GENÇ",
+      "dateRange": "11-17 AĞUSTOS",
+      "weekNumber": 2,
+      "dayName": "CUMA"
+    },
+    "displayName": "5. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Cuma - akşam. 2. hafta"
+  },
+  {
+    "id": "1757619610537",
+    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Cumartesi̇ - öğle. 2. hafta",
+    "type": "öğle (tercihen saat 12:00 civarında)",
+    "createdDate": "2025-09-11",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 438,
+      "protein": 18,
+      "karb": 6,
+      "yag": 38
+    },
+    "foods": [
+      {
+        "foodName": "Yoğurtlu çılbır",
+        "originalText": "Yoğurtlu çılbır Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon, sirke ve 1 tatlı kaşığı zeytinyağı ile)"
+      },
+      {
+        "foodName": "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+        "originalText": "Cherry domates (2 adet) Fındık (20 adet)"
+      }
+    ],
+    "sourcePatient": {
+      "name": "BETÜL GENÇ",
+      "dateRange": "11-17 AĞUSTOS",
+      "weekNumber": 2,
+      "dayName": "CUMARTESİ"
+    },
+    "displayName": "6. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Cumartesi̇ - öğle. 2. hafta"
+  },
+  {
+    "id": "1757619613780",
+    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Cumartesi̇ - akşam. 2. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-11",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 385,
+      "protein": 36,
+      "karb": 4,
+      "yag": 25
+    },
+    "foods": [
+      {
+        "foodName": "200 gram kuzu kavurma",
+        "originalText": "200 gram köfte / ya da 200 gram kuzu kavurma"
+      },
+      {
+        "foodName": "Köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)",
+        "originalText": "Köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)"
+      },
+      {
+        "foodName": "Toz kollajen 1 ölçek",
+        "originalText": "Toz kollajen 1 ölçek"
+      }
+    ],
+    "sourcePatient": {
+      "name": "BETÜL GENÇ",
+      "dateRange": "11-17 AĞUSTOS",
+      "weekNumber": 2,
+      "dayName": "CUMARTESİ"
+    },
+    "displayName": "7. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Cumartesi̇ - akşam. 2. hafta"
+  },
+  {
+    "id": "1757619626855",
+    "name": "2. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Pazar susamli omlet tulum peyniri veya kaşar peyniri (50 gram) - akşam. 2. hafta",
+    "type": "akşam (tercihen hava kararınca)",
+    "createdDate": "2025-09-11",
+    "dietType": null,
+    "dietTypeName": null,
+    "totalMacros": {
+      "kalori": 931,
+      "protein": 28,
+      "karb": 18,
+      "yag": 83
+    },
+    "foods": [
+      {
+        "foodName": "Mücver",
+        "originalText": "Lahana ya da kabak Mücver"
+      },
+      {
+        "foodName": "Cevizli biber yoğurtlaması",
+        "originalText": "Cevizli biber yoğurtlaması"
+      },
+      {
+        "foodName": "Pita Ekmeği",
+        "originalText": "Pita ekmeği (1 adet) Turşu (organik, ev yapımı)"
+      },
+      {
+        "foodName": "Toz kollajen 1 ölçek",
+        "originalText": "Toz kollajen 1 ölçek"
+      }
+    ],
+    "sourcePatient": {
+      "name": "BETÜL GENÇ",
+      "dateRange": "11-17 AĞUSTOS",
+      "weekNumber": 2,
+      "dayName": "PAZAR SUSAMLI OMLET TULUM PEYNIRI VEYA KAŞAR PEYNIRI (50 GRAM)"
+    },
+    "displayName": "8. 📋 BETÜL GENÇ - 11-17 AĞUSTOS 2025 - Pazar susamli omlet tulum peyniri veya kaşar peyniri (50 gram) - akşam. 2. hafta"
+  }
+]
