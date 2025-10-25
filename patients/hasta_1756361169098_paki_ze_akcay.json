@@ -130,12 +130,11 @@
         "kollajen (1 ölçek 5 gram)",
         "cumartesi̇",
         "öğle (tercihen saat 12:00 civarında)",
-        "Sebzeli omlet (2 adet yumurta, 5 adet mantar, 5 yaprak ıspanak, 1 tatlı kaşığı tereyağı)",
-        "Tulum /kaşar peyniri (50 gram)",
+        "Sahanda Yumurta (2 adet)",
         "Zeytin (10 adet)",
-        "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
-        "1/2 Avokado",
-        "fındık (20 adet)",
+        "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
+        "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere,  limon ile)",
+        "Bitter çikolata (2 kare)",
         "akşam (tercihen hava kararınca)",
         "sulu et kızartması",
         "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 tatlı kaşığı zeytinyağı)",
@@ -232,12 +231,11 @@
         "kollajen (1 ölçek 5 gram)",
         "cumartesi̇",
         "öğle (tercihen saat 12:00 civarında)",
-        "Sebzeli omlet (2 adet yumurta, 5 adet mantar, 5 yaprak ıspanak, 1 tatlı kaşığı tereyağı)",
-        "Tulum /kaşar peyniri (50 gram)",
+        "Sahanda Yumurta (2 adet)",
         "Zeytin (10 adet)",
-        "Salatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
-        "1/2 Avokado",
-        "fındık (20 adet)",
+        "tahin ekmeği ile tost (1 dilim kaşar) + kasap sucuk (50 gram)",
+        "Yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere,  limon ile)",
+        "Bitter çikolata (2 kare)",
         "akşam (tercihen hava kararınca)",
         "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 tatlı kaşığı zeytinyağı)",
         "tahin ekmeği (1 dilim)",
@@ -262,7 +260,7 @@
       ],
       "hastaIsmi": "PAKIZE AKCAY",
       "tarihAraligi": "8-14 EYLUL",
-      "realizedAvgKcal": 1456,
+      "realizedAvgKcal": 1455,
       "_orijinalOgunler": {
         "orig_meal_pazartesi_akşam": {
           "createdAt": 1758568014160,
@@ -327,7 +325,7 @@
         "target_meal_sali_öğle (": "2424c2a6-222b-4c74-8656-f3fa5281180e",
         "target_meal_sali_akşam": "be4ff70e-d5c5-423f-88cd-2b48a0b55b88",
         "sim_meal_pazartesi_öğle": "78cdba0b-b2a7-4259-a0aa-31e3327eddd9",
-        "sim_meal_cumartesi_öğle": "f7bb08e9-9b76-40d1-bdd6-2f824021f8cd"
+        "sim_meal_cumartesi_öğle": "92bd8913-985d-4379-b3bb-44d35e17a871"
       },
       "haftaninTarifleriLive": false,
       "rowMatchedCards": {
@@ -346,6 +344,6 @@
   ],
   "olusturmaTarihi": "2025-08-28T06:06:09.098Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-25T20:26:23.835Z",
+  "sonGuncelleme": "2025-10-25T20:26:24.964Z",
   "githubKaydedildi": true
 }
