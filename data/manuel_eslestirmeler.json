@@ -1,42 +1,1374 @@
 {
   "version": "1.0",
-  "sonGuncelleme": "2025-10-25T20:21:46.690Z",
+  "sonGuncelleme": "2025-10-25T19:10:27.804Z",
   "eslestirmeler": {
+    "tavuklukabakmakarna": {
+      "orijinalMetin": "tavuklu kabak makarna",
+      "kartlar": [
+        "tavuklu_kabak_makarnasi.jpg"
+      ],
+      "eklemeTarihi": "2025-07-22T14:34:25.819Z"
+    },
+    "urfaadanakebap150gram1porsiyon": {
+      "orijinalMetin": "urfa / adana kebap 150 gram ( 1 porsiyon)",
+      "kartlar": [
+        "urfa_adana_kebap.jpg"
+      ],
+      "eklemeTarihi": "2025-07-27T11:47:55.292Z"
+    },
+    "urfaadanakebap": {
+      "orijinalMetin": "urfa / adana kebap",
+      "kartlar": [
+        "adana_urfa_kebap.jpg"
+      ],
+      "eklemeTarihi": "2025-07-27T11:48:03.039Z"
+    },
+    "urfaadanakebap200gram1porsiyon": {
+      "orijinalMetin": "urfa / adana kebap 200 gram ( 1 porsiyon)",
+      "kartlar": [
+        "adana_urfa_kebap.jpg"
+      ],
+      "eklemeTarihi": "2025-07-28T06:39:16.344Z"
+    },
     "kofte": {
-      "orijinalMetin": "köfte",
+      "orijinalMetin": "kÃ¶fte",
       "kartlar": [
         "keto_kofte.jpg"
       ],
-      "eklemeTarihi": "2025-08-09T09:09:00.826Z"
+      "eklemeTarihi": "2025-08-12T09:00:53.147Z"
+    },
+    "200 gram kofte ya da 150 gram kuzu kavurma": {
+      "orijinalMetin": "200 gram kÃ¶fte / ya da 150 gram kuzu kavurma",
+      "kartlar": [
+        "keto_kÃ¶fte.jpg"
+      ]
+    },
+    "kiymali lahana kabak patlican yemegi 150 gr kiyma": {
+      "orijinalMetin": "kÄ±ymalÄ± lahana/kabak /patlÄ±can yemeÄi(150 gr kÄ±yma)",
+      "kartlar": [
+        "kiymali_lahana_yemegi.jpg",
+        "patlican_musakka.jpg"
+      ],
+      "eklemeTarihi": "2025-08-13T09:28:46.212Z"
+    },
+    "150 gr firinda tavuk pirzola ya da kanat": {
+      "orijinalMetin": "150 gr. FÄ±rÄ±nda Tavuk pirzola ya da kanat",
+      "kartlar": [
+        "FÄ±rÄ±nda_tavuk_kanat.jpg"
+      ]
+    },
+    "biber dolmasi lor  yumurta dolgulu": {
+      "orijinalMetin": "biber dolmasÄ± (lor & yumurta dolgulu)",
+      "kartlar": [
+        "biber_dolmasi_lor_ve_yumurta_dolgulu.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:41:53.580Z"
+    },
+    "kiymali yesil fasulye kabak yemegi 100 gr kiyma ile": {
+      "orijinalMetin": "kÄ±ymalÄ± yeÅil fasulye / kabak yemeÄi (100 gr kÄ±yma ile)",
+      "kartlar": [
+        "kiymali_kabak_yemeÄi.jpg"
+      ]
+    },
+    "ispanakli ya da pazili tavuk dolmasi": {
+      "orijinalMetin": "ispanaklÄ± ya da pazÄ±lÄ± tavuk dolmasÄ±",
+      "kartlar": [
+        "ispanakli_tavuk_dolmasi.jpg"
+      ],
+      "eklemeTarihi": "2025-08-13T11:03:16.141Z"
+    },
+    "kiymali karnabahar bamya yemegi": {
+      "orijinalMetin": "kÄ±ymalÄ± karnabahar / bamya yemeÄi",
+      "kartlar": [
+        "kiymali_bamya_yemeÄi.jpg",
+        "kiymali_karnabahar_yemeÄi.jpg"
+      ]
+    },
+    "avokado ve rokali salata": {
+      "orijinalMetin": "avokado ve rokalÄ± salata",
+      "kartlar": [
+        "avokado_ve_rokali_salata.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:39:27.218Z"
+    },
+    "enginar ya da karnabahar mantisi": {
+      "orijinalMetin": "enginar ya da karnabahar mantısı",
+      "kartlar": [
+        "enginar_mantisi.jpg",
+        "karnabahar_manti.jpg"
+      ],
+      "eklemeTarihi": "2025-10-24T07:01:41.397Z"
+    },
+    "ispanakli ya da pazi dolmasi 150 gr tavuk ile": {
+      "orijinalMetin": "Ä±spanaklÄ± ya da pazÄ± dolmasÄ± (150 gr tavuk ile)",
+      "kartlar": [
+        "Ä±spanakli_tavuk_dolmasÄ±.jpg"
+      ]
+    },
+    "200 gram kofte": {
+      "orijinalMetin": "200 gram kÃ¶fte",
+      "kartlar": [
+        "keto_kÃ¶fte.jpg"
+      ]
+    },
+    "maydanozlu pogaca": {
+      "orijinalMetin": "maydanozlu poÄaÃ§a",
+      "kartlar": [
+        "maydanozlu_poÄaÃ§a.jpg"
+      ]
+    },
+    "kiymali kabak ispanak patlican": {
+      "orijinalMetin": "kÄ±ymalÄ± kabak / Ä±spanak / patlÄ±can",
+      "kartlar": [
+        "kiymali_Ä±spanak.jpg",
+        "kiymali_kabak_yemeÄi.jpg",
+        "kiymali_patlÄ±can_kapama.jpg"
+      ]
+    },
+    "kiymali kabak ispanak": {
+      "orijinalMetin": "kÄ±ymalÄ± kabak / Ä±spanak",
+      "kartlar": [
+        "kiymali_Ä±spanak.jpg",
+        "kiymali_kabak_yemeÄi.jpg"
+      ]
+    },
+    "kiymali kabak 150 gram kiyma ile": {
+      "orijinalMetin": "kÄ±ymalÄ± kabak (150 gram kÄ±yma ile)",
+      "kartlar": [
+        "kiymali_kabak_yemeÄi.jpg"
+      ]
+    },
+    "kiymali kabak 100 gram kiyma ile": {
+      "orijinalMetin": "kÄ±ymalÄ± kabak (100 gram kÄ±yma ile)",
+      "kartlar": [
+        "kiymali_kabak_yemegi.jpg"
+      ],
+      "eklemeTarihi": "2025-08-20T06:33:13.866Z"
+    },
+    "kiymali kabak 200 gram kiyma ile": {
+      "orijinalMetin": "kÄ±ymalÄ± kabak (200 gram kÄ±yma ile)",
+      "kartlar": [
+        "kiymali_kabak_yemeÄi.jpg"
+      ]
+    },
+    "tavuk guvec": {
+      "orijinalMetin": "tavuk gÃ¼veÃ§",
+      "kartlar": [
+        "tavuk_guvec.jpg"
+      ],
+      "eklemeTarihi": "2025-08-18T12:14:29.442Z"
+    },
+    "tavuk eti ile guvec domates biber ve sogan ile": {
+      "orijinalMetin": "tavuk eti ile gÃ¼veÃ§ (domates, biber ve soÄan ile)",
+      "kartlar": [
+        "tavuk_gÃ¼veÃ§.jpg"
+      ]
+    },
+    "tavuk eti ile guvec": {
+      "orijinalMetin": "tavuk eti ile gÃ¼veÃ§",
+      "kartlar": [
+        "tavuk_gÃ¼veÃ§.jpg"
+      ]
+    },
+    "tavuk ya da kuzu guvec": {
+      "orijinalMetin": "tavuk ya da kuzu gÃ¼veÃ§",
+      "kartlar": [
+        "kuzu_gÃ¼veÃ§.jpg",
+        "tavuk_gÃ¼veÃ§.jpg"
+      ]
+    },
+    "kiymali kabak bamya yemegi": {
+      "orijinalMetin": "kÄ±ymalÄ± kabak / bamya yemeÄi",
+      "kartlar": [
+        "kiymali_bamya_yemeÄi.jpg",
+        "kiymali_kabak_yemeÄi.jpg"
+      ]
+    },
+    "enginar mantisi": {
+      "orijinalMetin": "enginar mantÄ±sÄ±",
+      "kartlar": [
+        "enginar_mantÄ±sÄ±.jpg"
+      ]
+    },
+    "lor salatasi": {
+      "orijinalMetin": "lor salatasÄ±",
+      "kartlar": [
+        "lor_peyniri_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-08-14T13:31:37.986Z"
+    },
+    "firinda tavuk pirzola ya da kanat": {
+      "orijinalMetin": "fırında tavuk pirzola ya da kanat",
+      "kartlar": [
+        "firinda_tavuk_kanat.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:34:33.753Z"
+    },
+    "yogurtlu tavuk salata": {
+      "orijinalMetin": "yoÄurtlu tavuk salata",
+      "kartlar": [
+        "yogurtlu_tavuklu_salata.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:28:14.719Z"
+    },
+    "somonlu roka ve avokado salatasi": {
+      "orijinalMetin": "somonlu roka ve avokado salatasÄ±",
+      "kartlar": [
+        "somonlu_roka_ve_avokado_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-08-13T15:20:57.150Z"
+    },
+    "sebzeli ya da ispanakli muffin": {
+      "orijinalMetin": "sebzeli ya da ıspanaklı muffin",
+      "kartlar": [
+        "sebzeli_muffin.jpg",
+        "ispanakli_muffin.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T15:48:45.061Z"
+    },
+    "kiymali kabak yesil fasulye": {
+      "orijinalMetin": "kÄ±ymalÄ± kabak / yeÅil fasulye",
+      "kartlar": [
+        "kiymali_kabak_yemeÄi.jpg"
+      ]
+    },
+    "kiymali patlican kabak bamya yemegi 100 gr kiyma ile": {
+      "orijinalMetin": "kÄ±ymalÄ± patlÄ±can / kabak / bamya yemeÄi(100 gr kÄ±yma ile)",
+      "kartlar": [
+        "kiymali_bamya_sote.jpg",
+        "kiymali_kabak_yemegi.jpg",
+        "patlican_musakka.jpg"
+      ],
+      "eklemeTarihi": "2025-08-13T15:19:21.622Z"
+    },
+    "kuzu guvec": {
+      "orijinalMetin": "kuzu gÃ¼veÃ§",
+      "kartlar": [
+        "kuzu_guvec.jpg"
+      ],
+      "eklemeTarihi": "2025-08-13T15:08:50.694Z"
+    },
+    "badem unu ekmegi 1 dilim": {
+      "orijinalMetin": "badem unu ekmeÄi (1 dilim)",
+      "kartlar": [
+        "badem_unlu_ekmek.jpg"
+      ]
+    },
+    "borani yogurtlu ispanak": {
+      "orijinalMetin": "borani (yoÄurtlu Ä±spanak)",
+      "kartlar": [
+        "borani_yogurtlu_ispanak.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:26:57.635Z"
+    },
+    "firinda sebzeli peynirli guvec": {
+      "orijinalMetin": "fÄ±rÄ±nda sebzeli peynirli gÃ¼veÃ§",
+      "kartlar": [
+        "firinda_sebzeli_peynirli_guvec.jpg"
+      ],
+      "eklemeTarihi": "2025-08-13T15:34:06.420Z"
+    },
+    "kirmizi et ya da tavuk guvec": {
+      "orijinalMetin": "kÄ±rmÄ±zÄ± et ya da tavuk gÃ¼veÃ§",
+      "kartlar": [
+        "kuzu_gÃ¼veÃ§.jpg",
+        "tavuk_gÃ¼veÃ§.jpg"
+      ]
+    },
+    "badem unlu dereotlu pogaca 3 adet": {
+      "orijinalMetin": "badem unlu dereotlu poÄaÃ§a (3 adet)",
+      "kartlar": [
+        "badem_unlu_dere_otlu_pogaca.jpg"
+      ],
+      "eklemeTarihi": "2025-08-14T07:36:44.570Z"
+    },
+    "urfa adana kebap 200 gram 1 porsiyon": {
+      "orijinalMetin": "urfa / adana kebap 200 gram ( 1 porsiyon)",
+      "kartlar": [
+        "adana_urfa_kebap.jpg"
+      ],
+      "eklemeTarihi": "2025-08-13T06:22:52.412Z"
+    },
+    "kiymali kabak patlican taze fasulye yemegi 150 gr kiyma": {
+      "orijinalMetin": "kÄ±ymalÄ± kabak / patlÄ±can / taze fasulye yemeÄi(150 gr kÄ±yma)",
+      "kartlar": [
+        "kiymali_kabak_yemegi.jpg",
+        "kiymali_taze_fasulye.jpg",
+        "patlican_musakka.jpg"
+      ],
+      "eklemeTarihi": "2025-08-13T10:30:36.343Z"
+    },
+    "kiymali kabak patlican yemegi 150 gr kiyma": {
+      "orijinalMetin": "kÄ±ymalÄ± kabak /patlÄ±can yemeÄi(150 gr kÄ±yma)",
+      "kartlar": [
+        "kiymali_kabak_yemegi.jpg",
+        "patlican_musakka.jpg"
+      ],
+      "eklemeTarihi": "2025-08-13T10:43:22.682Z"
+    },
+    "badem unlu kabak ve peynirli pogaca": {
+      "orijinalMetin": "badem unlu kabak ve peynirli poÄaÃ§a",
+      "kartlar": [
+        "badem_unlu_dere_otlu_pogaca.jpg",
+        "peynirli_kabakli_pogaca.jpg"
+      ],
+      "eklemeTarihi": "2025-08-13T15:09:30.288Z"
+    },
+    "ispanakli ya da pazili tavuk dolmasi 150 gr tavuk ile": {
+      "orijinalMetin": "ispanaklÄ± ya da pazÄ±lÄ± tavuk dolmasÄ±(150 gr tavuk ile)",
+      "kartlar": [
+        "ispanakli_tavuk_dolmasi.jpg"
+      ],
+      "eklemeTarihi": "2025-08-13T15:10:33.820Z"
+    },
+    "kuzu ya da tavuk guvec": {
+      "orijinalMetin": "kuzu ya da tavuk gÃ¼veÃ§",
+      "kartlar": [
+        "kuzu_guvec.jpg",
+        "tavuk_guvec.jpg"
+      ],
+      "eklemeTarihi": "2025-08-13T15:20:03.164Z"
+    },
+    "avokadolu omlet": {
+      "orijinalMetin": "avokadolu omlet",
+      "kartlar": [
+        "avokado_omleti.jpg"
+      ],
+      "eklemeTarihi": "2025-08-13T15:33:07.671Z"
+    },
+    "urfa adana kebap 100 gram 1 porsiyon": {
+      "orijinalMetin": "urfa / adana kebap 100 gram (1 porsiyon)",
+      "kartlar": [
+        "adana_urfa_kebap.jpg"
+      ],
+      "eklemeTarihi": "2025-08-14T15:02:39.230Z"
+    },
+    "kofte ya da 150gram kuzu kavurma": {
+      "orijinalMetin": "kÃ¶fte / ya da 150gram kuzu kavurma",
+      "kartlar": [
+        "keto_kofte.jpg"
+      ],
+      "eklemeTarihi": "2025-08-14T15:03:37.286Z"
+    },
+    "tavuk ya da et doner 100 gram": {
+      "orijinalMetin": "Tavuk ya da et döner (100 gram)",
+      "kartlar": [
+        "et_doner.jpg",
+        "tavuk_doner.jpg"
+      ],
+      "eklemeTarihi": "2025-10-22T16:56:03.763Z"
+    },
+    "ketojenik karnabaharli kisir": {
+      "orijinalMetin": "ketojenik (karnabaharlÄ±) kÄ±sÄ±r)",
+      "kartlar": [
+        "ketojenik_karnabaharli_kisir.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:25:16.384Z"
+    },
+    "karnabahar kofte": {
+      "orijinalMetin": "karnabahar kÃ¶fte",
+      "kartlar": [
+        "karnabahar_koftesi.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:28:50.292Z"
+    },
+    "frambuazli cheescake 1 dilim": {
+      "orijinalMetin": "frambuazlÄ± cheescake (1 dilim)",
+      "kartlar": [
+        "frambuazli_cheesecake.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:29:34.880Z"
+    },
+    "ketojenik ispanakli borek 1 dilim icin": {
+      "orijinalMetin": "ketojenik ıspanaklı börek (1 dilim için)",
+      "kartlar": [
+        "ispanakli_borek.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T18:46:34.427Z"
+    },
+    "ton baligi salatasi 80 gram ton baligi mevsim yesillikleri 1 yemek kasigi zeytinyagi ile": {
+      "orijinalMetin": "ton balÄ±ÄÄ± salatasÄ± (80 gram ton balÄ±ÄÄ± +mevsim yeÅillikleri +1 yemek kaÅÄ±ÄÄ± zeytinyaÄÄ± ile)",
+      "kartlar": [
+        "ton_baligi_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T14:00:35.514Z"
+    },
+    "tavuklu kabak makarna": {
+      "orijinalMetin": "tavuklu kabak makarna",
+      "kartlar": [
+        "tavuklu_kabak_makarnasi.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:36:02.477Z"
+    },
+    "pankek": {
+      "orijinalMetin": "Pankek",
+      "kartlar": [
+        "pankek.jpg"
+      ],
+      "eklemeTarihi": "2025-10-20T18:06:23.316Z"
+    },
+    "tavuk keto durum": {
+      "orijinalMetin": "*Tavuk keto dÃ¼rÃ¼m",
+      "kartlar": [
+        "tavuk_keto_durum.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T14:18:11.130Z"
+    },
+    "bal kabagi corbasi": {
+      "orijinalMetin": "bal kabaÄÄ± Ã§orbasÄ±",
+      "kartlar": [
+        "balkabagi_corbasi.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:36:38.655Z"
+    },
+    "zeytinyagli yer elmasi": {
+      "orijinalMetin": "zeytinyaÄlÄ± yer elmasÄ±",
+      "kartlar": [
+        "zeytinyagli_yerelmasi.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:36:50.003Z"
+    },
+    "kiymali bruksel lahana yemegi": {
+      "orijinalMetin": "kÄ±ymalÄ± brÃ¼ksel lahana yemeÄi",
+      "kartlar": [
+        "kiymali_bruksel_lahanasi.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:37:19.778Z"
+    },
+    "ketojenik kofte": {
+      "orijinalMetin": "ketojenik kÃ¶fte",
+      "kartlar": [
+        "keto_kofte.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:37:42.443Z"
+    },
+    "tavuk doner 200 gr": {
+      "orijinalMetin": "tavuk dÃ¶ner (200 gr)",
+      "kartlar": [
+        "tavuk_doner.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:37:50.888Z"
+    },
+    "karnabahar pureli bonfile": {
+      "orijinalMetin": "karnabahar pÃ¼reli bonfile",
+      "kartlar": [
+        "karnabahar_pureli_bonfile.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:39:40.673Z"
+    },
+    "adana urfa kebap 200 gr": {
+      "orijinalMetin": "adana/ urfa kebap (200 gr)",
+      "kartlar": [
+        "adana_urfa_kebap.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:40:05.182Z"
+    },
+    "kabakli ve havuclu tost low carb": {
+      "orijinalMetin": "kabaklÄ± ve havuÃ§lu tost (low carb)",
+      "kartlar": [
+        "kabakli_ve_havuclu_tost.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:40:28.623Z"
+    },
+    "havuclu ve kabakli tarator": {
+      "orijinalMetin": "havuÃ§lu ve kabaklÄ± tarator",
+      "kartlar": [
+        "havuclu_ve_kabakli_tarator.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:40:56.956Z"
+    },
+    "semizotlu ve cilekli kinoa salatasi": {
+      "orijinalMetin": "semizotlu ve Ã§ilekli kinoa salatasÄ±",
+      "kartlar": [
+        "semizotu_ve_cilekli_kinoa_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:41:15.038Z"
+    },
+    "peynirli zeytin ezmesi": {
+      "orijinalMetin": "peynirli zeytin ezmesi",
+      "kartlar": [
+        "peynirli_zeytin_ezmasi.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:41:34.561Z"
+    },
+    "enginar salatasi": {
+      "orijinalMetin": "enginar salatası",
+      "kartlar": [
+        "enginar_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T18:47:06.227Z"
+    },
+    "patlican yataginda tavuk sote": {
+      "orijinalMetin": "patlÄ±can yataÄÄ±nda tavuk sote",
+      "kartlar": [
+        "patlican_yataginde_tavuk_sote.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:42:23.005Z"
+    },
+    "turlu": {
+      "orijinalMetin": "tÃ¼rlÃ¼",
+      "kartlar": [
+        "turlu_yemegi.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:42:40.211Z"
+    },
+    "kremali mantar soslu dana bonfile": {
+      "orijinalMetin": "kremalÄ± mantar soslu dana bonfile",
+      "kartlar": [
+        "kremali_mantar_soslu_dana_bonfile.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:42:52.228Z"
+    },
+    "patlican salatasi low carb": {
+      "orijinalMetin": "patlıcan salatası low carb",
+      "kartlar": [
+        "patlican_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T18:47:45.160Z"
+    },
+    "firinda ispanakli ve pirasali mucver": {
+      "orijinalMetin": "fÄ±rÄ±nda ispanaklÄ± ve pÄ±rasalÄ± mÃ¼cver",
+      "kartlar": [
+        "firinda_ispanakli_ve_pirasali_mucver.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:44:10.681Z"
+    },
+    "guvecte sucuklu yumurta": {
+      "orijinalMetin": "gÃ¼veÃ§te sucuklu yumurta",
+      "kartlar": [
+        "guvecte_sucuklu_yumurta.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:44:24.460Z"
+    },
+    "damla sakizli kurabiye 2 kurabiye": {
+      "orijinalMetin": "damla sakÄ±zlÄ± kurabiye (2 kurabiye)",
+      "kartlar": [
+        "damka_sakizli_kurabiye.jpg"
+      ],
+      "eklemeTarihi": "2025-09-11T13:44:37.306Z"
+    },
+    "urfa adana kebap 150 gram 1 porsiyon ya da izgara somon": {
+      "orijinalMetin": "urfa / adana kebap 150 gram ( 1 porsiyon) ya da ızgara somon",
+      "kartlar": [
+        "adana_urfa_kebap.jpg"
+      ],
+      "eklemeTarihi": "2025-09-26T10:53:39.208Z"
+    },
+    "yogurtlu kabak salatasi": {
+      "orijinalMetin": "yoğurtlu kabak salatası",
+      "kartlar": [
+        "yogurtlu_kabak_mezesi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T18:33:51.745Z"
+    },
+    "keten tohumu ekmegi": {
+      "orijinalMetin": "keten tohumu ekmeği",
+      "kartlar": [
+        "keten_tohumu_ekmegi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T18:50:09.354Z"
+    },
+    "tavuk pirzola ya da kanat": {
+      "orijinalMetin": ". tavuk pirzola ya da kanat",
+      "kartlar": [
+        "firinda_tavuk_kanat.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T18:52:29.836Z"
+    },
+    "kiymali taze fasulye kabak yemegi 100 gr kiyma ile": {
+      "orijinalMetin": "kıymalı taze fasulye / kabak yemeği (100 gr kıyma ile)",
+      "kartlar": [
+        "kiymali_kabak_yemegi.jpg",
+        "kiymali_taze_fasulye.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:15:22.363Z"
+    },
+    "kiymali bamya veya kiymali kabak yemegi 100 gram kiyma ile": {
+      "orijinalMetin": "kıymalı bamya (veya kıymalı kabak) yemeği (100 gram kıyma ile)",
+      "kartlar": [
+        "kiymali_bamya_yemegi.jpg",
+        "kiymali_kabak_yemegi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:17:40.032Z"
+    },
+    "lupin unlu pogaca veya 3 adet lorlu pogaca": {
+      "orijinalMetin": "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
+      "kartlar": [
+        "lupin_unlu_pogaca.jpg",
+        "lorlu_pogaca.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:18:56.705Z"
+    },
+    "urfa adana kebap 150 gram 1 porsiyon": {
+      "orijinalMetin": "urfa / adana kebap 150 gram ( 1 porsiyon)",
+      "kartlar": [
+        "adana_urfa_kebap.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:21:00.336Z"
+    },
+    "kiymali semizotu yemegi ya da ispanak yemegi": {
+      "orijinalMetin": "kıymalı semizotu yemeği ya da ispanak yemeği",
+      "kartlar": [
+        "kiymali_ispanak.jpg",
+        "kiymali_semizotu_yemegi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:23:39.891Z"
+    },
+    "kiymali kabak ya da taze fasulye 100 gr kiyma ile": {
+      "orijinalMetin": "kıymalı kabak ya da taze fasulye (100 gr kıyma ile)",
+      "kartlar": [
+        "kiymali_kabak_yemegi.jpg",
+        "kiymali_taze_fasulye.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:24:58.506Z"
+    },
+    "kiymali kabak ispanak yemegi": {
+      "orijinalMetin": "kıymalı kabak/ ispanak yemeği",
+      "kartlar": [
+        "kiymali_ispanak.jpg",
+        "kiymali_kabak_yemegi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:26:05.608Z"
+    },
+    "tavuklu salata": {
+      "orijinalMetin": "tavuklu salata",
+      "kartlar": [
+        "tavuk_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:26:42.756Z"
+    },
+    "enginar manti": {
+      "orijinalMetin": "enginar mantı",
+      "kartlar": [
+        "enginar_mantisi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:30:17.374Z"
+    },
+    "urfa adana kebap 200 gram": {
+      "orijinalMetin": "urfa / adana kebap 200 gram",
+      "kartlar": [
+        "urfa_adana_kebap.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:30:53.689Z"
+    },
+    "yogurtlu cilbir 2 yumurta ile": {
+      "orijinalMetin": "yoğurtlu çılbır (2 yumurta ile)",
+      "kartlar": [
+        "cilbir_yogurtlu_yumurta.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:31:26.066Z"
+    },
+    "urfa adana kebap 150 gram": {
+      "orijinalMetin": "urfa / adana kebap 150 gram",
+      "kartlar": [
+        "adana_urfa_kebap.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:33:05.741Z"
+    },
+    "tavuk kanat": {
+      "orijinalMetin": "tavuk kanat",
+      "kartlar": [
+        "firinda_tavuk_kanat.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:35:48.992Z"
+    },
+    "kofte ya da 150 gram kuzu kavurma": {
+      "orijinalMetin": "köfte / ya da 150 gram kuzu kavurma",
+      "kartlar": [
+        "keto_kofte.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:36:36.948Z"
+    },
+    "kiymali semizotu ya da ispanak yemegi": {
+      "orijinalMetin": "kıymalı semizotu ya da ıspanak yemeği",
+      "kartlar": [
+        "kiymali_ispanak.jpg",
+        "kiymali_semizotu_yemegi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:37:31.683Z"
+    },
+    "kiymali ispanak lahana kabak yesil fasulye yemegi 100 gram kiyma ile": {
+      "orijinalMetin": "kıymalı ıspanak /lahana/kabak/ yeşil fasulye yemeği (100 gram kıyma ile)",
+      "kartlar": [
+        "kiymali_ispanak.jpg",
+        "kiymali_lahana_yemegi.jpg",
+        "kiymali_kabak_yemegi.jpg",
+        "kiymali_taze_fasulye.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:39:22.757Z"
+    },
+    "avokadolu ve lor peynirli kraker 6 kraker": {
+      "orijinalMetin": "avokadolu ve lor peynirli kraker (6 kraker)",
+      "kartlar": [
+        "avokadolu_ve_lor_peynirli_kraker.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:40:18.398Z"
+    },
+    "kiymali bamya kabak yemegi 100 gram kiyma ile": {
+      "orijinalMetin": "kıymalı bamya/ kabak yemeği (100 gram kıyma ile)",
+      "kartlar": [
+        "kiymali_bamya_yemegi.jpg",
+        "kiymali_kabak_yemegi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:41:56.913Z"
+    },
+    "lahana ya da kabak mucver": {
+      "orijinalMetin": "lahana ya da kabak mücver",
+      "kartlar": [
+        "lahana_mucver.jpg",
+        "mucver.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:43:20.469Z"
+    },
+    "urfa adana kebap 120 gram": {
+      "orijinalMetin": "urfa / adana kebap 120 gram",
+      "kartlar": [
+        "adana_urfa_kebap.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:44:33.571Z"
+    },
+    "kabakli cokertme kebabi": {
+      "orijinalMetin": "kabaklı çökertme kebabı",
+      "kartlar": [
+        "kabak_cokertme_kebabi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:48:45.608Z"
+    },
+    "kiymali kabak taze fasulye yemegi": {
+      "orijinalMetin": "kıymalı kabak / taze fasulye yemeği",
+      "kartlar": [
+        "kiymali_kabak_yemegi.jpg",
+        "kiymali_taze_fasulye.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:49:27.974Z"
+    },
+    "yesil fasulye yemegi": {
+      "orijinalMetin": "yeşil fasulye yemeği",
+      "kartlar": [
+        "zeytinyagli_taze_fasulye.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:50:50.012Z"
+    },
+    "yogurtlu semizotu ya da kabak salatasi": {
+      "orijinalMetin": "yoğurtlu semizotu ya da kabak salatası",
+      "kartlar": [
+        "yogurtlu_semizotu_salatasi.jpg",
+        "kabak_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:52:27.653Z"
+    },
+    "kabak ya da lahana lazanya": {
+      "orijinalMetin": "kabak ya da lahana lazanya",
+      "kartlar": [
+        "kabak_lazanya.jpg",
+        "lahana_lazanya.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:55:07.544Z"
+    },
+    "hashas ezmesi ekmegi 1 dilim ya da 10 adet cig badem": {
+      "orijinalMetin": "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem",
+      "kartlar": [
+        "hashas_ezmesi_ekmegi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-17T19:57:21.038Z"
+    },
+    "1 adet sebzeli muffin": {
+      "orijinalMetin": "1 adet Sebzeli Muffin",
+      "kartlar": [
+        "sebzeli_muffin.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T18:37:34.386Z"
+    },
+    "1 adet ispanakli muffin": {
+      "orijinalMetin": "1 adet Ispanaklı Muffin",
+      "kartlar": [
+        "ispanakli_muffin.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T18:40:01.534Z"
+    },
+    "avokadolu omlet 1 porsiyon": {
+      "orijinalMetin": "Avokadolu Omlet (1 porsiyon)",
+      "kartlar": [
+        "avokado_omleti.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T18:55:22.962Z"
+    },
+    "maydanozlu pogaca 2 adet": {
+      "orijinalMetin": "Maydanozlu Poğaça (2 adet)",
+      "kartlar": [
+        "maydanozlu_pogaca.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T18:57:01.361Z"
+    },
+    "yogurtlu cilbir": {
+      "orijinalMetin": "Yoğurtlu çılbır",
+      "kartlar": [
+        "cilbir_yogurtlu_yumurta.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T18:57:31.547Z"
+    },
+    "badem unlu dere otlu pogaca 3 pogaca": {
+      "orijinalMetin": "Badem Unlu Dere Otlu Poğaça (3 poğaça)",
+      "kartlar": [
+        "badem_unlu_dere_otlu_pogaca.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T18:57:58.196Z"
+    },
+    "hindistancevizi unlu ispanakli muffin 2 adet": {
+      "orijinalMetin": "Hindistancevizi Unlu Ispanaklı Muffin (2 adet)",
+      "kartlar": [
+        "hindistancevizi_unlu_ispanakli_muffin.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T18:58:20.134Z"
+    },
+    "kabak lazanya 1 porsiyon": {
+      "orijinalMetin": "Kabak Lazanya (1 porsiyon)",
+      "kartlar": [
+        "kabak_lazanya.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:01:13.398Z"
+    },
+    "tatli patates omleti": {
+      "orijinalMetin": "Tatlı Patates Omleti",
+      "kartlar": [
+        "tatli_patates_omleti.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:03:40.475Z"
+    },
+    "yaban mersinli smoothie 1 porsiyon": {
+      "orijinalMetin": "Yaban Mersinli Smoothie (1 porsiyon)",
+      "kartlar": [
+        "yaban_mersinli_smoothie.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:08:22.850Z"
+    },
+    "1 dilim firinda kabakli borek": {
+      "orijinalMetin": "1 dilim Fırında Kabaklı Börek",
+      "kartlar": [
+        "firinda_kabakli_borek.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:09:06.598Z"
+    },
+    "nohut kraker": {
+      "orijinalMetin": "Nohut Kraker",
+      "kartlar": [
+        "nohut_kraker.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:09:41.532Z"
+    },
+    "yulafli borek 1 dilim": {
+      "orijinalMetin": "Yulaflı Börek (1 dilim)",
+      "kartlar": [
+        "yulafli_borek.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:10:23.644Z"
+    },
+    "kabakli ve havuclu tost": {
+      "orijinalMetin": "Kabaklı ve havuçlu tost",
+      "kartlar": [
+        "kabakli_ve_havuclu_tost.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:10:55.617Z"
+    },
+    "firinda sucuklu kasarli lokmalar 4 adet": {
+      "orijinalMetin": "Fırında Sucuklu Kaşarlı Lokmalar (4 adet)",
+      "kartlar": [
+        "firinda_sucuklu_kasarli_lokmalar.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:12:08.300Z"
+    },
+    "karnabahar pankek": {
+      "orijinalMetin": "Karnabahar Pankek",
+      "kartlar": [
+        "karnabahar_pankek.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:12:28.745Z"
+    },
+    "1 dilim pirasali tava boregi": {
+      "orijinalMetin": "1 dilim Pırasalı Tava Böreği",
+      "kartlar": [
+        "pirasali_tava_boregi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:12:49.633Z"
+    },
+    "ketojenik ispanakli borek 1 dilim": {
+      "orijinalMetin": "Ketojenik Ispanaklı Börek (1 dilim)",
+      "kartlar": [
+        "ketojenij_ispanakli_borek.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:13:15.754Z"
+    },
+    "peynirli kabakli pogaca 2 adet": {
+      "orijinalMetin": "Peynirli Kabaklı Poğaça (2 adet)",
+      "kartlar": [
+        "peynirli_kabakli_pogaca.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:13:33.250Z"
+    },
+    "peynirli biber dolmasi 2 adet": {
+      "orijinalMetin": "Peynirli biber dolması (2 adet)",
+      "kartlar": [
+        "peynirli_biber_dolmasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:14:35.314Z"
+    },
+    "1 porsiyon kahvaltilik kuru soganli cevizli lor kavurmasi": {
+      "orijinalMetin": "(1 porsiyon) Kahvaltılık Kuru Soğanlı Cevizli Lor Kavurması",
+      "kartlar": [
+        "kahvaltilik_kuru_soganli_cevizli_lor_kavurmasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:16:30.544Z"
+    },
+    "peynir toplari 1 porsiyon": {
+      "orijinalMetin": "Peynir Topları (1 porsiyon)",
+      "kartlar": [
+        "peynir_toplari.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:16:49.564Z"
+    },
+    "ispanakli ve lor peynirli omlet": {
+      "orijinalMetin": "Ispanaklı ve Lor Peynirli Omlet",
+      "kartlar": [
+        "ispanakli_ve_lor_peynirli_omlet.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:17:18.918Z"
+    },
+    "susamli omlet": {
+      "orijinalMetin": "Susamlı Omlet",
+      "kartlar": [
+        "susamli_omlet.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:18:21.025Z"
+    },
+    "2 adet lupin unlu pogaca veya 4 adet lorlu pogaca": {
+      "orijinalMetin": "2 adet lupin unlu poğaça (veya 4 adet Lorlu poğaça)",
+      "kartlar": [
+        "lorlu_pogaca.jpg",
+        "lupin_unlu_pogaca.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:20:29.810Z"
+    },
+    "1 dilim ketojenik ispanakli borek": {
+      "orijinalMetin": "1 dilim Ketojenik Ispanaklı Börek",
+      "kartlar": [
+        "ispanakli_borek.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:25:40.519Z"
+    },
+    "lor peynirli tabanli keto pizza": {
+      "orijinalMetin": "Lor peynirli tabanlı keto pizza",
+      "kartlar": [
+        "lor_peynirli_tabanli_keto_pizza.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:26:10.212Z"
+    },
+    "kabakli omlet": {
+      "orijinalMetin": "Kabaklı Omlet",
+      "kartlar": [
+        "kabakli_omlet.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:26:34.450Z"
+    },
+    "1 dilim ispanakli kabak boregi": {
+      "orijinalMetin": "1 dilim Ispanaklı Kabak Böreği",
+      "kartlar": [
+        "ispanakli_kabak_boregi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:26:59.096Z"
+    },
+    "biber dolmasi lor ve yumurta dolgulu": {
+      "orijinalMetin": "Biber Dolması (Lor ve Yumurta Dolgulu)",
+      "kartlar": [
+        "biber_dolmasi_lor_ve_yumurta_dolgulu.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:27:32.679Z"
+    },
+    "firinda menemen": {
+      "orijinalMetin": "Fırında Menemen",
+      "kartlar": [
+        "firinda_menemen.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:27:48.723Z"
+    },
+    "izgara kabak rulolari": {
+      "orijinalMetin": "Izgara Kabak Ruloları",
+      "kartlar": [
+        "izgara_kabak_rulolari.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:29:53.528Z"
+    },
+    "taze fasulyeli yumurta kavurmasi": {
+      "orijinalMetin": "Taze Fasulyeli Yumurta Kavurması",
+      "kartlar": [
+        "taze_fasulyeli_yumurta_kavurmasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:30:11.777Z"
+    },
+    "yogurtlu tavuk salatasi": {
+      "orijinalMetin": "Yoğurtlu Tavuk Salatası",
+      "kartlar": [
+        "yogurtlu_tavuklu_salata.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:30:33.789Z"
+    },
+    "girit usulu zeytinli meze": {
+      "orijinalMetin": "Girit Usulü Zeytinli Meze",
+      "kartlar": [
+        "girit_usulu_zeytinli_meze.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:31:00.939Z"
+    },
+    "yumurtali lahana kavurma": {
+      "orijinalMetin": "Yumurtalı Lahana Kavurma",
+      "kartlar": [
+        "yumurtali_lahana_kavurma.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:31:19.622Z"
+    },
+    "patlican tost": {
+      "orijinalMetin": "Patlıcan Tost",
+      "kartlar": [
+        "patlican_tost.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:31:35.707Z"
+    },
+    "kabakli peynirli muffin 4 adet": {
+      "orijinalMetin": "Kabaklı Peynirli Muffin (4 adet)",
+      "kartlar": [
+        "kabakli_peynirli_muffin.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:31:55.711Z"
+    },
+    "semizotlu omlet": {
+      "orijinalMetin": "Semizotlu Omlet",
+      "kartlar": [
+        "semizotlu_omlet.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:32:11.725Z"
+    },
+    "yesil mercimekli tuzlu kek 1 dilim": {
+      "orijinalMetin": "Yeşil Mercimekli Tuzlu Kek (1 dilim)",
+      "kartlar": [
+        "yesil_mercimekli_tuzlu_kek.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:32:42.714Z"
+    },
+    "kiymali taze fasulye kabak yemegi": {
+      "orijinalMetin": "kıymalı taze fasulye / kabak yemeği",
+      "kartlar": [
+        "kiymali_taze_fasulye.jpg",
+        "kiymali_kabak_yemegi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:33:32.632Z"
+    },
+    "citir tavuk": {
+      "orijinalMetin": "Çıtır Tavuk",
+      "kartlar": [
+        "citir_tavuk.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:33:48.173Z"
+    },
+    "lahana lazanya": {
+      "orijinalMetin": "Lahana Lazanya",
+      "kartlar": [
+        "lahana_lazanya.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T19:34:03.368Z"
+    },
+    "brokoli corbasi": {
+      "orijinalMetin": "Brokoli Çorbası",
+      "kartlar": [
+        "ketojenik_brokoli_corbasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-18T20:25:20.127Z"
+    },
+    "lorsalatasi": {
+      "orijinalMetin": "Lor Salatası",
+      "kartlar": [
+        "lor_peyniri_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T11:09:17.552Z"
+    },
+    "semizotluvecileklikinoasalatasi": {
+      "orijinalMetin": "Semizotlu ve Çilekli Kinoa Salatası",
+      "kartlar": [
+        "semizotu_ve_cilekli_kinoa_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T11:09:50.056Z"
+    },
+    "bademunuekmegi1dilim": {
+      "orijinalMetin": "Badem unu ekmeği (1 dilim)",
+      "kartlar": [
+        "badem_unlu_ekmek.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T11:10:32.536Z"
+    },
+    "ketentohumluekmek1dilim": {
+      "orijinalMetin": "Keten Tohumlu Ekmek (1 dilim)",
+      "kartlar": [
+        "keten_tohumu_ekmegi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T11:10:46.907Z"
+    },
+    "1dilimbademunuekmegi": {
+      "orijinalMetin": "1 dilim  Badem Unu Ekmeği",
+      "kartlar": [
+        "badem_unlu_ekmek.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T11:13:22.517Z"
+    },
+    "ketosmoothie": {
+      "orijinalMetin": "Keto Smoothie",
+      "kartlar": [
+        "cilekli_limonlu_smoothie.jpg",
+        "yaban_mersinli_smoothie.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T11:14:05.529Z"
+    },
+    "kiymalilahanakabakyesilfasulyeyemegi": {
+      "orijinalMetin": "kıymalı lahana / kabak / yeşil fasulye yemeği",
+      "kartlar": [
+        "kiymali_lahana_yemegi.jpg",
+        "kiymali_kabak_yemegi.jpg",
+        "kiymali_taze_fasulye.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T11:15:08.841Z"
+    },
+    "kiymalibiberdolmasi2adet": {
+      "orijinalMetin": "Kıymalı biber dolması (2 adet)",
+      "kartlar": [
+        "kiymali_patlicanli_biber_dolmasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:19:26.116Z"
+    },
+    "kiymalibruksellahanayemegi": {
+      "orijinalMetin": "Kıymalı Brüksel Lahana Yemeği",
+      "kartlar": [
+        "kiymali_bruksel_lahanasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:19:41.184Z"
+    },
+    "ketojenikkarnabaharlikisir": {
+      "orijinalMetin": "Ketojenik (Karnabaharlı) Kısır",
+      "kartlar": [
+        "ketojenik_karnabaharli_kisir.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:20:11.566Z"
+    },
+    "150gramkirmizietileguvecdomatesbibervesoganile": {
+      "orijinalMetin": "150 gram kırmızı et ile güveç (domates, biber ve soğan ile)",
+      "kartlar": [
+        "kuzu_guvec.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:20:32.393Z"
+    },
+    "kabakyadakerevizcokertmekebabi": {
+      "orijinalMetin": "Kabak  ya da kereviz çökertme kebabı",
+      "kartlar": [
+        "kabak_cokertme_kebabi.jpg",
+        "kerevizli_cokertme_kebabi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:21:13.217Z"
+    },
+    "200gramkirmizietileguvec1porsiyon": {
+      "orijinalMetin": "200 gram Kırmızı Et ile Güveç (1 porsiyon)",
+      "kartlar": [
+        "kuzu_guvec.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:22:14.198Z"
+    },
+    "kiymalilahanakabakpatlicanyemegi150grkiyma": {
+      "orijinalMetin": "*Kıymalı lahana/kabak /patlıcan  yemeği (150 gr kıyma)",
+      "kartlar": [
+        "kiymali_lahana_yemegi.jpg",
+        "kiymali_kabak_yemegi.jpg",
+        "patlican_musakka.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:23:31.531Z"
+    },
+    "ispanakliyadapazilitavukdolmasi": {
+      "orijinalMetin": "Ispanaklı ya da Pazılı Tavuk Dolması",
+      "kartlar": [
+        "ispanakli_tavuk_dolmasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:24:05.625Z"
+    },
+    "peynirlizeytinezmesi": {
+      "orijinalMetin": "Peynirli Zeytin Ezmesi",
+      "kartlar": [
+        "peynirli_zeytin_ezmasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:24:34.861Z"
+    },
+    "200gramtavuketiileguvecdomatesbibervesoganile": {
+      "orijinalMetin": "200 gram Tavuk Eti ile Güveç (domates, biber ve soğan ile)",
+      "kartlar": [
+        "tavuk_guvec.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:24:54.608Z"
+    },
+    "ketocheesecake": {
+      "orijinalMetin": "Keto Cheesecake",
+      "kartlar": [
+        "cikolatali_cheescake.jpg",
+        "frambuazli_cheesecake.jpg",
+        "san_sebastian_cheesecake.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:25:16.163Z"
+    },
+    "chiapuding": {
+      "orijinalMetin": "Chia Puding",
+      "kartlar": [
+        "chia_tohumlu_puding.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:25:29.055Z"
+    },
+    "ketocikolata": {
+      "orijinalMetin": "Keto Çikolata",
+      "kartlar": [
+        "cikolata_sosu.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:25:42.826Z"
+    },
+    "ketomuhallebi": {
+      "orijinalMetin": "Keto Muhallebi",
+      "kartlar": [
+        "ketojenik_muhallebi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:25:58.021Z"
+    },
+    "yogurtlukirmizipancarsalatasi100grampancar2yemekkasigiyogurt1tatlikasigizeytinyagi": {
+      "orijinalMetin": "Yoğurtlu Kırmızı Pancar Salatası (100 gram pancar, 2 yemek kaşığı yoğurt, 1 tatlı kaşığı zeytinyağı)",
+      "kartlar": [
+        "yogurtlu_pancar_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T12:26:34.500Z"
+    },
+    "avokadoluomlet": {
+      "orijinalMetin": "*Avokadolu omlet",
+      "kartlar": [
+        "avokado_omleti.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T19:55:44.804Z"
+    },
+    "yogurtlucilbir": {
+      "orijinalMetin": "Yoğurtlu çılbır",
+      "kartlar": [
+        "cilbir_yogurtlu_yumurta.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T19:56:27.606Z"
+    },
+    "ketojenikkofte": {
+      "orijinalMetin": "Ketojenik Köfte",
+      "kartlar": [
+        "keto_kofte.jpg"
+      ],
+      "eklemeTarihi": "2025-10-19T20:58:11.058Z"
+    },
+    "karnabaharmanti150grkarnabahar150grkiymaile": {
+      "orijinalMetin": "Karnabahar Mantı (150 gr karnabahar, 150 gr kıyma ile)",
+      "kartlar": [
+        "karnabahar_manti.jpg",
+        "enginar_mantisi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-20T11:46:06.737Z"
+    },
+    "kiymaliispanakveyakiymalilahanayemegi100gramkiymaile": {
+      "orijinalMetin": "Kıymalı Ispanak  (veya kıymalı lahana) yemeği (100 gram kıyma ile)",
+      "kartlar": [
+        "kiymali_ispanak.jpg",
+        "kiymali_lahana_yemegi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-20T11:54:44.754Z"
+    },
+    "kiymalikarnabaharbamyayemegi": {
+      "orijinalMetin": "Kıymalı karnabahar /bamya yemeği",
+      "kartlar": [
+        "kiymali_karnabahar_yemegi.jpg",
+        "kiymali_bamya_yemegi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-20T12:02:06.803Z"
+    },
+    "biberdolmasilorveyumurtadolgulu": {
+      "orijinalMetin": "Biber Dolması (Lor ve Yumurta Dolgulu)",
+      "kartlar": [
+        "biber_dolmasi_lor_ve_yumurta_dolgulu.jpg"
+      ],
+      "eklemeTarihi": "2025-10-20T19:36:40.375Z"
+    },
+    "zeytinyaglidenizborulcesiyadabrokolisalata1tatlikasigizeytinyagiile": {
+      "orijinalMetin": "*Zeytinyağlı Deniz Börülcesi ya da brokoli salata (1 tatlı kaşığı zeytinyağı ile",
+      "kartlar": [
+        "zeytinyagli_deniz_borulcesi.jpg",
+        "brokoli_salata.jpg"
+      ],
+      "eklemeTarihi": "2025-10-21T20:47:44.115Z"
+    },
+    "brokolicorbasi": {
+      "orijinalMetin": "Brokoli Çorbası",
+      "kartlar": [
+        "ketojenik_brokoli_corbasi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-21T20:48:49.794Z"
+    },
+    "kiymali bamya veya kiymali ispanak yemegi 100 gram kiyma ile": {
+      "orijinalMetin": "kıymalı bamya (veya kıymalı ıspanak) yemeği (100 gram kıyma ile)",
+      "kartlar": [
+        "kiymali_bamya_yemegi.jpg",
+        "kiymali_ispanak.jpg"
+      ],
+      "eklemeTarihi": "2025-10-24T06:53:46.648Z"
+    },
+    "tavuklu hunkar begendi": {
+      "orijinalMetin": "tavuklu hünkar beğendi",
+      "kartlar": [
+        "tavuklu_hunkar_begendi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-24T06:57:17.303Z"
+    },
+    "lahana ya da kabak lazanya": {
+      "orijinalMetin": "lahana ya da kabak lazanya",
+      "kartlar": [
+        "kabak_lazanya.jpg",
+        "lahana_lazanya.jpg"
+      ],
+      "eklemeTarihi": "2025-10-24T06:59:08.503Z"
+    },
+    "1 2 su bardagi nohut  100 gr kirmizi et ya da tavuk eti ile nohut yemegi": {
+      "orijinalMetin": "1/2 su bardağı nohut + 100 gr kırmızı et ya da tavuk eti ile nohut yemeği",
+      "kartlar": [
+        "tavuklu_nohut_yemegi.jpg"
+      ],
+      "eklemeTarihi": "2025-10-24T07:00:45.530Z"
+    },
+    "kiymali kabak taze fasulye yemegi 100 gr kiyma ile": {
+      "orijinalMetin": "kıymalı kabak/ taze fasulye yemeği (100 gr kıyma ile)",
+      "kartlar": [
+        "kiymali_kabak_yemegi.jpg",
+        "kiymali_taze_fasulye.jpg"
+      ],
+      "eklemeTarihi": "2025-10-24T07:03:48.209Z"
     },
     "yogurtlu kirmizi pancar salatasi": {
       "orijinalMetin": "yoğurtlu kırmızı pancar salatası",
       "kartlar": [
         "yogurtlu_pancar_salatasi.jpg"
       ],
-      "eklemeTarihi": "2025-08-16T08:39:40.118Z"
+      "eklemeTarihi": "2025-10-24T07:23:01.147Z"
     },
-    "kiymali karnabahar lahana yemegi 150 gram kiyma ile": {
-      "orijinalMetin": "kıymalı karnabahar / lahana yemeği (150 gram kıyma ile)",
+    "yarim su bardagi nohut150 gr tavuk ya da kirmizi et ile nohut yemegi": {
+      "orijinalMetin": "yarım su bardağı nohut+150 gr tavuk ya da kırmızı et ile nohut yemeği",
       "kartlar": [
-        "kiymali_karnabahar_yemegi.jpg",
-        "kiymali_lahana_yemegi.jpg"
+        "tavuklu_nohut_yemegi.jpg"
       ],
-      "eklemeTarihi": "2025-08-16T08:40:01.950Z"
+      "eklemeTarihi": "2025-10-24T08:49:21.703Z"
     },
-    "hashas ezmesi ekmegi 1 dilim": {
-      "orijinalMetin": "haşhaş ezmesi ekmeği (1 dilim)",
+    "alabas kizartma": {
+      "orijinalMetin": "alabaş kızartma",
       "kartlar": [
-        "hashas_ezmesi_ekmegi.jpg"
+        "alabas_kizartmasi.jpg"
       ],
-      "eklemeTarihi": "2025-08-16T08:40:22.910Z"
-    },
-    "brokoli corbasi": {
-      "orijinalMetin": "brokoli çorbası",
-      "kartlar": [
-        "ketojenik_brokoli_corbasi.jpg"
-      ],
-      "eklemeTarihi": "2025-08-16T08:40:36.702Z"
+      "eklemeTarihi": "2025-10-24T08:52:45.464Z"
     }
   }
 }
