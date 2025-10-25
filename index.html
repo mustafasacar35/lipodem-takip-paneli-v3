@@ -15831,6 +15831,14 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
           const data = await resp.json();
           const jsonContent = decodeBase64UTF8(data.content);
           const kayitVerisi = JSON.parse(jsonContent);
+          
+          // Debug için
+          console.log('🔍 GitHub\'dan gelen veri yapısı:', kayitVerisi);
+          console.log('🔍 eslestirmeler alanı var mı?', kayitVerisi.eslestirmeler ? 'Evet' : 'Hayır');
+          if (kayitVerisi.eslestirmeler) {
+            console.log('🔍 eslestirmeler sayısı:', Object.keys(kayitVerisi.eslestirmeler).length);
+          }
+          
           const eslestirmeSayisi = manuelEslestirmeVerisiniUygula(kayitVerisi, { sessiz: sessizYukleme });
 
           if (!sessizYukleme) {
