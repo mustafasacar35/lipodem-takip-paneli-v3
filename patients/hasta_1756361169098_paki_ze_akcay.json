@@ -92,9 +92,9 @@
         "ceviz (3 adet)",
         "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
         "akşam (tercihen hava kararınca)",
-        "hindi ya da tavuk ızgara tava",
-        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı",
-        "fındık (10 adet)",
+        "Tavuk Izgara",
+        "Semizotu Salatası",
+        "Fındık  (10 adet)",
         "çarşamba",
         "öğle (tercihen saat 12:00 civarında)",
         "sahanda yumurta (2 adet + 1 tatlı kaşığı tereyağı ile)",
@@ -195,9 +195,9 @@
         "ceviz (3 adet)",
         "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz + limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
         "akşam (tercihen hava kararınca)",
-        "hindi ya da tavuk ızgara tava",
-        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı",
-        "fındık (10 adet)",
+        "Tavuk Izgara",
+        "Semizotu Salatası",
+        "Fındık  (10 adet)",
         "çarşamba",
         "öğle (tercihen saat 12:00 civarında)",
         "sahanda yumurta (2 adet + 1 tatlı kaşığı tereyağı ile)",
@@ -260,7 +260,7 @@
       ],
       "hastaIsmi": "PAKIZE AKCAY",
       "tarihAraligi": "8-14 EYLUL",
-      "realizedAvgKcal": 1455,
+      "realizedAvgKcal": 1456,
       "_orijinalOgunler": {
         "orig_meal_pazartesi_akşam": {
           "createdAt": 1758568014160,
@@ -325,7 +325,8 @@
         "target_meal_sali_öğle (": "2424c2a6-222b-4c74-8656-f3fa5281180e",
         "target_meal_sali_akşam": "be4ff70e-d5c5-423f-88cd-2b48a0b55b88",
         "sim_meal_pazartesi_öğle": "78cdba0b-b2a7-4259-a0aa-31e3327eddd9",
-        "sim_meal_cumartesi_öğle": "92bd8913-985d-4379-b3bb-44d35e17a871"
+        "sim_meal_cumartesi_öğle": "92bd8913-985d-4379-b3bb-44d35e17a871",
+        "sim_meal_sali_akşam": "ca6273fa-ddef-461f-b34c-63791cae0be7"
       },
       "haftaninTarifleriLive": false,
       "rowMatchedCards": {
@@ -344,6 +345,6 @@
   ],
   "olusturmaTarihi": "2025-08-28T06:06:09.098Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2025-10-25T20:26:24.964Z",
+  "sonGuncelleme": "2025-10-25T20:26:45.752Z",
   "githubKaydedildi": true
 }
