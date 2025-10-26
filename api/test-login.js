@@ -1,4 +1,4 @@
-// api/test-login.js - Test version without GitHub
+﻿// api/test-login.js - Test version without GitHub
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 
@@ -10,10 +10,19 @@ const testCredentials = {
     {
       id: "admin",
       username: "admin",
-      passwordHash: "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+      passwordHash: "$2y$10$N8BvbtJ4/KkDPWCO958Ehe0l5Fjk2KgFLUq2hynkTcgR9FYPGx06W",
       role: "admin",
       fullName: "Yönetici",
       email: "admin@example.com",
+      active: true
+    },
+    {
+      id: "dietitian",
+      username: "diyetisyen",
+      passwordHash: "$2y$10$N8BvbtJ4/KkDPWCO958Ehe0l5Fjk2KgFLUq2hynkTcgR9FYPGx06W",
+      role: "dietitian",
+      fullName: "Diyetisyen",
+      email: "dietitian@example.com",
       active: true
     }
   ],
