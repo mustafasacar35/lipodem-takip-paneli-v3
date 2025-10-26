@@ -1,19 +1,7 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "api/**/*.js",
-      "use": "@vercel/node"
+  "functions": {
+    "api/**/*.js": {
+      "runtime": "nodejs20.x"
     }
-  ],
-  "routes": [
-    {
-      "src": "/api/(.*)",
-      "dest": "/api/$1"
-    }
-  ],
-  "env": {
-    "JWT_SECRET": "@jwt-secret",
-    "GITHUB_TOKEN": "@github-token"
   }
 }
