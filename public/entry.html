@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>Login</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font:14px Arial,sans-serif;background:linear-gradient(135deg,#667eea,#764ba2);height:100vh;display:flex;align-items:center;justify-content:center}
+.container{background:#fff;padding:40px;border-radius:12px;width:400px;box-shadow:0 8px 32px rgba(0,0,0,.3)}
+h1{text-align:center;margin-bottom:30px;color:#2a5298}
+.field{margin-bottom:20px}
+label{display:block;margin-bottom:8px;font-weight:600;color:#333}
+input{width:100%;padding:12px;border:2px solid #ddd;border-radius:6px;font-size:14px}
+input:focus{border-color:#2a5298;outline:none}
+.btn{width:100%;padding:14px;background:#2a5298;color:#fff;border:none;border-radius:6px;font-size:16px;cursor:pointer}
+.btn:hover{background:#1e3c72}
+.btn:disabled{opacity:.7}
+.status{margin-top:15px;padding:12px;border-radius:6px;text-align:center;display:none}
+.ok{background:#d4edda;color:#155724}
+.err{background:#f8d7da;color:#721c24}
+.demo{margin-top:25px;background:#f8f9fa;padding:20px;border-radius:8px}
+.demo h3{margin-bottom:15px;text-align:center;color:#2a5298;font-size:14px}
+.test{background:#fff;margin:8px 0;padding:10px;border-radius:6px;cursor:pointer;border:1px solid #ddd}
+.test:hover{border-color:#2a5298}
+.role{font-weight:600;color:#2a5298;font-size:13px}
+.creds{font-family:monospace;color:#666;font-size:11px}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Diet Panel Login</h1>
+<form id="loginForm">
+<div class="field">
+<label>Username</label>
+<input type="text" id="username" required>
+</div>
+<div class="field">
+<label>Password</label>
+<input type="password" id="password" required>
+</div>
+<button type="submit" id="submitBtn" class="btn">Login</button>
+<div id="statusDiv" class="status"></div>
+</form>
+<div class="demo">
+<h3>Test Accounts</h3>
+<div class="test" onclick="setAuth('admin','admin123')">
+<div class="role">Admin</div>
+<div class="creds">admin / admin123</div>
+</div>
+<div class="test" onclick="setAuth('dyt.ayse','dyt123')">
+<div class="role">Dietitian</div>
+<div class="creds">dyt.ayse / dyt123</div>
+</div>
+<div class="test" onclick="setAuth('hasta001','hasta123')">
+<div class="role">Patient</div>
+<div class="creds">hasta001 / hasta123</div>
+</div>
+<div class="test" onclick="setAuth('zeynep.senturk','zeynep123')">
+<div class="role">Hasta (Zeynep)</div>
+<div class="creds">zeynep.senturk / zeynep123</div>
+</div>
+</div>
+</div>
+<script src="auth.js"></script>
+<script>
+let authSys=null;
+let usersData={
+  "meta": {
+    "version": 2,
+    "generatedAt": "2024-12-09T20:30:00Z",
+    "description": "Kapsamlı kullanıcı sistemi: ADMIN/DIETITIAN/PATIENT rolleri, permissions, authentication ve access limits"
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "passwordHash": "$2b$12$KIXWq7rJ8GKVJGxE9QXB3uyG8K6FQ4LZ3Wc7vHqN1mPzY4Td8Ea6K",
+      "role": "ADMIN",
+      "fullName": "Dr. Yönetici",
+      "email": "admin@lipodem.com",
+      "createdAt": "2024-01-01T00:00:00Z",
+      "lastLogin": null,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "isActive": true,
+      "permissions": ["ALL", "PATIENT_MANAGE", "DIETITIAN_MANAGE", "SYSTEM_ADMIN"],
+      "assignedPatients": "ALL"
+    },
+    {
+      "id": 2,
+      "username": "dyt.ayse",
+      "passwordHash": "$2b$12$VEQp8rG9FGxD2YXB5uyP7eLM4K8FQ4LZ3Wc7vHqN1mPzY4Td8Ea7Q",
+      "role": "DIETITIAN",
+      "fullName": "Dyt. Ayşe Kaya",
+      "email": "ayse@lipodem.com",
+      "createdAt": "2024-01-15T00:00:00Z",
+      "lastLogin": null,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "isActive": true,
+      "permissions": ["PATIENT_VIEW", "PATIENT_EDIT", "MEAL_MANAGE", "PROGRESS_VIEW"],
+      "assignedPatients": [1, 2, 3]
+    },
+    {
+      "id": 3,
+      "username": "hasta001",
+      "passwordHash": "$2b$12$XYZa9rH6MGxE3YXC7uyQ8fNP5K9GQ5MZ4Xd8wIrO2nQaZ5Ue9Fb8R",
+      "role": "PATIENT",
+      "fullName": "Ahmet Yılmaz",
+      "email": "ahmet@example.com",
+      "createdAt": "2024-02-01T00:00:00Z",
+      "lastLogin": null,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "isActive": true,
+      "permissions": ["SELF_VIEW", "SELF_EDIT", "MEAL_SELECT", "PDF_EXPORT"],
+      "patientId": 1,
+      "assignedDietitian": 2,
+      "accessLimits": {
+        "pdfExportsThisWeek": 0,
+        "pdfExportsThisMonth": 0,
+        "weeklyResetDate": "2024-12-16T00:00:00Z",
+        "monthlyResetDate": "2024-12-01T00:00:00Z",
+        "maxWeeksAccess": 52
+      }
+    },
+    {
+      "id": 4,
+      "username": "zeynep.senturk",
+      "passwordHash": "$2b$12$ZEYa0rH7PHxF5bYE0w1T1iPR8N2JT8PB4Xe9xJsP3oRbA6Vf0Gc9S",
+      "role": "PATIENT",
+      "fullName": "ZEYNEP ŞENTÜRK",
+      "email": "zeynep@example.com",
+      "createdAt": "2024-02-01T00:00:00Z",
+      "lastLogin": null,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "isActive": true,
+      "permissions": ["SELF_VIEW", "SELF_EDIT", "MEAL_SELECT", "PDF_EXPORT"],
+      "patientId": "ZEYNEP_SENTURK",
+      "patientName": "ZEYNEP ŞENTÜRK",
+      "patientFolder": "ZEYNEP ŞENTÜRK",
+      "assignedDietitian": 2,
+      "accessLimits": {
+        "pdfExportsThisWeek": 0,
+        "pdfExportsThisMonth": 0,
+        "weeklyResetDate": "2024-12-16T00:00:00Z",
+        "monthlyResetDate": "2024-12-01T00:00:00Z",
+        "maxWeeksAccess": 52
+      }
+    }
+  ]
+};
+
+async function initAuth(){
+if(typeof AuthenticationSystem==='undefined')return false;
+if(!authSys){
+try{
+// Embedded data yerine fetch kullanmayalım
+authSys=new AuthenticationSystem();
+await authSys.initialize(usersData);
+// Global olarak expose et
+window.authSys = authSys;
+}catch(err){
+console.error('Auth init failed:',err);
+return false;
+}
+}
+return true;
+}
+function showMsg(txt,type){
+const s=document.getElementById('statusDiv');
+s.textContent=txt;
+s.className='status '+(type==='success'?'ok':'err');
+s.style.display='block';
+}
+function setAuth(u,p){
+document.getElementById('username').value=u;
+document.getElementById('password').value=p;
+}
+document.getElementById('loginForm').addEventListener('submit',async(e)=>{
+e.preventDefault();
+const u=document.getElementById('username').value.trim();
+const p=document.getElementById('password').value.trim();
+const btn=document.getElementById('submitBtn');
+if(!u||!p){showMsg('Fill all fields','error');return;}
+btn.disabled=true;
+btn.textContent='Logging in...';
+try{
+if(!(await initAuth())){throw new Error('Auth system not available');}
+const result=await authSys.authenticateUser(u,p);
+if(result.success){
+// Session bilgisini localStorage'a kaydet
+localStorage.setItem('currentUser', JSON.stringify(result.user));
+localStorage.setItem('sessionToken', result.token || 'demo_token');
+localStorage.setItem('sessionTimestamp', Date.now().toString());
+console.log('✅ Session saved to localStorage');
+showMsg('Success! Redirecting...','success');
+setTimeout(()=>location.href='index.html',1000);
+}else{
+showMsg(result.error||'Login failed','error');
+}
+}catch(err){
+showMsg('Error: '+err.message,'error');
+}finally{
+btn.disabled=false;
+btn.textContent='Login';
+}
+});
+(async()=>{
+if(await initAuth()){
+const user=authSys.getCurrentUser&&authSys.getCurrentUser();
+if(user){
+showMsg('Session active, redirecting...','success');
+setTimeout(()=>location.href='index.html',800);
+}
+}
+})();
+</script>
+</body>
+</html>

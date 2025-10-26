@@ -1,0 +1,98 @@
+{
+  "version": "1.0",
+  "sonGuncelleme": "2025-07-22T00:00:00.000Z",
+  "eslesmemeKurallari": {
+    "tavuklu hunkar begendi": {
+      "orijinalMetin": "tavuklu hÃÂÃÂ¼nkar beÃÂÃÂendi",
+      "yasakliKartlar": [
+        "hunkar_begendi.jpg"
+      ],
+      "eklemeTarihi": "2025-07-17T20:57:08.928Z"
+    },
+    "domatesli kabak corbasi": {
+      "orijinalMetin": "domatesli kabak ÃÂ§orbasÃÂ±",
+      "yasakliKartlar": [
+        "kabak_corbasi.jpg"
+      ],
+      "eklemeTarihi": "2025-07-18T07:27:33.365Z"
+    },
+    "yesil salata": {
+      "orijinalMetin": "yeÅil salata",
+      "yasakliKartlar": [
+        "avokadolu_roka_salatasi.jpg",
+        "somonlu_roka_ve_avokado_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-07-19T23:36:16.991Z"
+    },
+    "yesil fasulye yemegi": {
+      "orijinalMetin": "yeÅil fasulye yemeÄi",
+      "yasakliKartlar": [
+        "kiymali_kabak_yemegi.jpg"
+      ],
+      "eklemeTarihi": "2025-07-19T23:37:02.956Z"
+    },
+    "yesil salata marul dereotu roka kirmizi lahanasirke limon ve 1 yemek kasigi zeytinyagi ile": {
+      "orijinalMetin": "yeÅil salata (marul, dereotu, roka, kÄ±rmÄ±zÄ± lahana,sirke ,limon ve 1 yemek kaÅÄ±ÄÄ± zeytinyaÄÄ± ile)",
+      "yasakliKartlar": [
+        "avokadolu_roka_salatasi.jpg",
+        "somonlu_roka_ve_avokado_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-07-19T23:37:58.216Z"
+    },
+    "firinda sebzeli peynirli guvec": {
+      "orijinalMetin": "fÄ±rÄ±nda sebzeli peynirli gÃ¼veÃ§",
+      "yasakliKartlar": [
+        "kuzu_guvec.jpg"
+      ],
+      "eklemeTarihi": "2025-07-19T23:40:53.294Z"
+    },
+    "yogurtlu enginar salatasi": {
+      "orijinalMetin": "* YoÄurtlu enginar  salatasÄ±",
+      "yasakliKartlar": [
+        "yogurtlu_kereviz_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-07-20T00:01:35.889Z"
+    },
+    "mevsim salata": {
+      "orijinalMetin": "mevsim salata",
+      "yasakliKartlar": [
+        "avokadolu_roka_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-07-20T00:03:48.475Z"
+    },
+    "avokadolu roka salatasi": {
+      "orijinalMetin": "avokadolu roka salatası",
+      "yasakliKartlar": [
+        "avokadolu_roka_salatasi.jpg",
+        "avokado_ve_rokali_salata.jpg",
+        "somonlu_roka_ve_avokado_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-07-22T00:00:00.000Z"
+    },
+    "roka salatasi yarim bag roka 1 adet kucuk salatalik 3 adet cherry domates yarim kirmizi sogan limon 1 yemek kasigi": {
+      "orijinalMetin": "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı)",
+      "yasakliKartlar": [
+        "avokadolu_roka_salatasi.jpg",
+        "avokado_ve_rokali_salata.jpg",
+        "somonlu_roka_ve_avokado_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-09-27T00:00:00.000Z"
+    },
+    "roka salatasi yarim bag roka 5 adet findik turp 3 adet cherry domates yarim kirmizi sogan limon 1 yemek kasigi": {
+      "orijinalMetin": "roka salatası (yarım bağ roka, 5 adet fındık turp, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı)",
+      "yasakliKartlar": [
+        "avokadolu_roka_salatasi.jpg",
+        "avokado_ve_rokali_salata.jpg",
+        "somonlu_roka_ve_avokado_salatasi.jpg"
+      ],
+      "eklemeTarihi": "2025-09-27T00:00:00.000Z"
+    },
+    "badem unlu lor ekmegi": {
+      "orijinalMetin": "badem unlu lor ekmeği",
+      "yasakliKartlar": [
+        "lor_ekmegi.jpg"
+      ],
+      "eklemeTarihi": "2025-07-21T21:02:07.867Z"
+    }
+  }
+}
