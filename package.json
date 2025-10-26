@@ -4,7 +4,7 @@
   "description": "Lipodem takip paneli - Vercel Serverless",
   "type": "commonjs",
   "engines": {
-    "node": ">=18.0.0"
+    "node": "20.x"
   },
   "dependencies": {
     "bcryptjs": "2.4.3",
