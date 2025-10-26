@@ -1,282 +1,561 @@
-<!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html>
+<!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html><!DOCTYPE html>
 
 <html lang="tr">
 
-<head><html>
+<head><html lang="tr">
 
-<meta charset="UTF-8">
+  <meta charset="UTF-8">
 
-<title>Login - Diet Panel</title><head><html lang="tr" data-integrity-check="clean-login-v1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"><head><html>
 
-<style>
+  <title>Giriş - Lipodem Takip Paneli</title>
+
+  <style><meta charset="UTF-8">
+
+    * {
+
+      margin: 0;<title>Login - Diet Panel</title><head><html lang="tr" data-integrity-check="clean-login-v1">
+
+      padding: 0;
+
+      box-sizing: border-box;<style>
+
+    }
 
 *{margin:0;padding:0;box-sizing:border-box;}<meta charset="UTF-8">
 
-body{font:14px Arial;background:linear-gradient(135deg,#667eea,#764ba2);min-height:100vh;display:flex;align-items:center;justify-content:center;}
+    body {
 
-.box{background:white;padding:40px;border-radius:12px;width:400px;box-shadow:0 8px 32px rgba(0,0,0,.3);}<title>Login</title><head><html lang="tr">
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;body{font:14px Arial;background:linear-gradient(135deg,#667eea,#764ba2);min-height:100vh;display:flex;align-items:center;justify-content:center;}
 
-h1{text-align:center;margin-bottom:30px;color:#2a5298;}
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 
-.group{margin-bottom:20px;}<style>
+      min-height: 100vh;.box{background:white;padding:40px;border-radius:12px;width:400px;box-shadow:0 8px 32px rgba(0,0,0,.3);}<title>Login</title><head><html lang="tr">
+
+      display: flex;
+
+      align-items: center;h1{text-align:center;margin-bottom:30px;color:#2a5298;}
+
+      justify-content: center;
+
+      padding: 20px;.group{margin-bottom:20px;}<style>
+
+    }
 
 label{display:block;margin-bottom:8px;font-weight:600;color:#333;}
 
-input{width:100%;padding:12px;border:2px solid #ddd;border-radius:6px;font-size:14px;}body{font-family:Arial;margin:0;background:#667eea;display:flex;align-items:center;justify-content:center;min-height:100vh;}  <meta charset="UTF-8">
+    .login-container {
 
-input:focus{border-color:#2a5298;outline:none;}
+      background: white;input{width:100%;padding:12px;border:2px solid #ddd;border-radius:6px;font-size:14px;}body{font-family:Arial;margin:0;background:#667eea;display:flex;align-items:center;justify-content:center;min-height:100vh;}  <meta charset="UTF-8">
 
-.btn{width:100%;padding:14px;background:#2a5298;color:white;border:none;border-radius:6px;font-size:16px;cursor:pointer;}.container{background:white;padding:40px;border-radius:15px;width:400px;box-shadow:0 10px 30px rgba(0,0,0,0.3);}
+      border-radius: 16px;
 
-.btn:hover{background:#1e3c72;}
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);input:focus{border-color:#2a5298;outline:none;}
 
-.btn:disabled{opacity:0.7;cursor:not-allowed;}h1{text-align:center;color:#2a5298;margin-bottom:30px;}  <title>🔐 Diyet Panel Giriş</title><head><html lang="tr">
+      width: 100%;
 
-.msg{margin-top:15px;padding:12px;border-radius:6px;text-align:center;display:none;}
+      max-width: 420px;.btn{width:100%;padding:14px;background:#2a5298;color:white;border:none;border-radius:6px;font-size:16px;cursor:pointer;}.container{background:white;padding:40px;border-radius:15px;width:400px;box-shadow:0 10px 30px rgba(0,0,0,0.3);}
 
-.success{background:#d4edda;color:#155724;}.form-group{margin-bottom:20px;}
+      padding: 50px 40px;
+
+    }.btn:hover{background:#1e3c72;}
+
+
+
+    h1 {.btn:disabled{opacity:0.7;cursor:not-allowed;}h1{text-align:center;color:#2a5298;margin-bottom:30px;}  <title>🔐 Diyet Panel Giriş</title><head><html lang="tr">
+
+      text-align: center;
+
+      color: #2a5298;.msg{margin-top:15px;padding:12px;border-radius:6px;text-align:center;display:none;}
+
+      margin-bottom: 10px;
+
+      font-size: 28px;.success{background:#d4edda;color:#155724;}.form-group{margin-bottom:20px;}
+
+    }
 
 .error{background:#f8d7da;color:#721c24;}
 
-.demo{margin-top:25px;background:#f8f9fa;padding:20px;border-radius:8px;}label{display:block;margin-bottom:8px;color:#333;font-weight:600;}  <meta name="viewport" content="width=device-width,initial-scale=1">
+    .subtitle {
 
-.demo h3{margin-bottom:15px;text-align:center;color:#2a5298;font-size:14px;}
+      text-align: center;.demo{margin-top:25px;background:#f8f9fa;padding:20px;border-radius:8px;}label{display:block;margin-bottom:8px;color:#333;font-weight:600;}  <meta name="viewport" content="width=device-width,initial-scale=1">
 
-.item{background:white;margin:8px 0;padding:10px;border-radius:6px;cursor:pointer;border:1px solid #ddd;}input{width:100%;padding:12px;border:2px solid #ddd;border-radius:8px;font-size:14px;}
+      color: #666;
 
-.item:hover{border-color:#2a5298;}
+      margin-bottom: 40px;.demo h3{margin-bottom:15px;text-align:center;color:#2a5298;font-size:14px;}
 
-.role{font-weight:600;color:#2a5298;font-size:13px;}input:focus{border-color:#2a5298;outline:none;}  <link rel="stylesheet" href="login.css?v=2">  <meta charset="UTF-8">
+      font-size: 14px;
 
-.creds{font-family:monospace;color:#666;font-size:11px;}
+    }.item{background:white;margin:8px 0;padding:10px;border-radius:6px;cursor:pointer;border:1px solid #ddd;}input{width:100%;padding:12px;border:2px solid #ddd;border-radius:8px;font-size:14px;}
 
-</style>button{width:100%;padding:15px;background:#2a5298;color:white;border:none;border-radius:8px;font-size:16px;cursor:pointer;}
 
-</head>
 
-<body>button:hover{background:#1e3c72;}</head>
+    .form-group {.item:hover{border-color:#2a5298;}
 
-<div class="box">
+      margin-bottom: 25px;
 
-<h1>🔐 Diet Panel</h1>.status{margin-top:15px;padding:10px;border-radius:8px;text-align:center;display:none;}
+    }.role{font-weight:600;color:#2a5298;font-size:13px;}input:focus{border-color:#2a5298;outline:none;}  <link rel="stylesheet" href="login.css?v=2">  <meta charset="UTF-8">
 
-<form id="f">
 
-<div class="group">.success{background:#d4edda;color:#155724;}<body>  <title>Giriş | Diyet Panel</title><head><html lang="tr">
 
-<label>Username</label>
+    label {.creds{font-family:monospace;color:#666;font-size:11px;}
+
+      display: block;
+
+      margin-bottom: 8px;</style>button{width:100%;padding:15px;background:#2a5298;color:white;border:none;border-radius:8px;font-size:16px;cursor:pointer;}
+
+      color: #333;
+
+      font-weight: 600;</head>
+
+      font-size: 14px;
+
+    }<body>button:hover{background:#1e3c72;}</head>
+
+
+
+    input[type="text"],<div class="box">
+
+    input[type="password"] {
+
+      width: 100%;<h1>🔐 Diet Panel</h1>.status{margin-top:15px;padding:10px;border-radius:8px;text-align:center;display:none;}
+
+      padding: 14px 16px;
+
+      border: 2px solid #e0e0e0;<form id="f">
+
+      border-radius: 8px;
+
+      font-size: 15px;<div class="group">.success{background:#d4edda;color:#155724;}<body>  <title>Giriş | Diyet Panel</title><head><html lang="tr">
+
+      transition: all 0.3s ease;
+
+      font-family: inherit;<label>Username</label>
+
+    }
 
 <input type="text" id="u" required>.error{background:#f8d7da;color:#721c24;}
 
-</div>
+    input[type="text"]:focus,
 
-<div class="group">.demo{margin-top:30px;background:#f8f9fa;padding:20px;border-radius:10px;}  <div class="login-container" data-login-root="true">
+    input[type="password"]:focus {</div>
 
-<label>Password</label>
+      outline: none;
 
-<input type="password" id="p" required>.demo h3{margin:0 0 15px;text-align:center;color:#2a5298;}
+      border-color: #667eea;<div class="group">.demo{margin-top:30px;background:#f8f9fa;padding:20px;border-radius:10px;}  <div class="login-container" data-login-root="true">
 
-</div>
+      box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
 
-<button type="submit" id="btn" class="btn">Login</button>.demo-item{background:white;margin:10px 0;padding:12px;border-radius:8px;cursor:pointer;border:1px solid #ddd;}    <a href="index.html" class="back-link">← Ana Panel</a>  <meta name="viewport" content="width=device-width,initial-scale=1">
+    }<label>Password</label>
 
-<div id="msg" class="msg"></div>
 
-</form>.demo-item:hover{border-color:#2a5298;}
 
-<div class="demo">
+    .login-btn {<input type="password" id="p" required>.demo h3{margin:0 0 15px;text-align:center;color:#2a5298;}
 
-<h3>Test Accounts</h3>.demo-role{font-weight:600;color:#2a5298;}    
+      width: 100%;
 
-<div class="item" onclick="fill('admin','admin123')">
+      padding: 16px;</div>
 
-<div class="role">Admin</div>.demo-creds{font-family:monospace;color:#666;font-size:12px;}
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+
+      color: white;<button type="submit" id="btn" class="btn">Login</button>.demo-item{background:white;margin:10px 0;padding:12px;border-radius:8px;cursor:pointer;border:1px solid #ddd;}    <a href="index.html" class="back-link">← Ana Panel</a>  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+      border: none;
+
+      border-radius: 8px;<div id="msg" class="msg"></div>
+
+      font-size: 16px;
+
+      font-weight: 600;</form>.demo-item:hover{border-color:#2a5298;}
+
+      cursor: pointer;
+
+      transition: all 0.3s ease;<div class="demo">
+
+      margin-top: 10px;
+
+    }<h3>Test Accounts</h3>.demo-role{font-weight:600;color:#2a5298;}    
+
+
+
+    .login-btn:hover {<div class="item" onclick="fill('admin','admin123')">
+
+      transform: translateY(-2px);
+
+      box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);<div class="role">Admin</div>.demo-creds{font-family:monospace;color:#666;font-size:12px;}
+
+    }
 
 <div class="creds">admin / admin123</div>
 
-</div></style>    <div class="logo">  <link rel="preload" href="auth.js" as="script">  <meta charset="UTF-8" />
+    .login-btn:active {
+
+      transform: translateY(0);</div></style>    <div class="logo">  <link rel="preload" href="auth.js" as="script">  <meta charset="UTF-8" />
+
+    }
 
 <div class="item" onclick="fill('diyetisyen1','dyt123')">
 
-<div class="role">Dietitian</div></head>
+    .login-btn:disabled {
 
-<div class="creds">diyetisyen1 / dyt123</div>
+      opacity: 0.6;<div class="role">Dietitian</div></head>
+
+      cursor: not-allowed;
+
+      transform: none;<div class="creds">diyetisyen1 / dyt123</div>
+
+    }
 
 </div><body>      <h1>🥗 Diyet Panel</h1>
 
-<div class="item" onclick="fill('hasta001','hasta001')">
+    .error-message {
 
-<div class="role">Patient</div><div class="container">
+      background: #fee;<div class="item" onclick="fill('hasta001','hasta001')">
 
-<div class="creds">hasta001 / hasta001</div>
+      color: #c33;
 
-</div><h1>🔐 Diyet Panel</h1>      <p>Güvenli Giriş Sistemi</p>  <link rel="stylesheet" href="login.css?v=1">
+      padding: 12px 16px;<div class="role">Patient</div><div class="container">
 
-</div>
+      border-radius: 8px;
 
-</div><form id="loginForm">
+      margin-bottom: 20px;<div class="creds">hasta001 / hasta001</div>
 
-<script src="auth.js"></script>
+      font-size: 14px;
 
-<script><div class="form-group">    </div>
+      display: none;</div><h1>🔐 Diyet Panel</h1>      <p>Güvenli Giriş Sistemi</p>  <link rel="stylesheet" href="login.css?v=1">
 
-if(!window.authSystem && typeof AuthenticationSystem !== 'undefined'){
+      border-left: 4px solid #c33;
 
-window.authSystem = new AuthenticationSystem();<label>Kullanıcı Adı</label>
+    }</div>
 
-window.authSystem.init();
 
-}<input type="text" id="username" required>      <script>  <meta name="viewport" content="width=device-width, initial-scale=1.0" /><head><html lang="tr">
+
+    .error-message.show {</div><form id="loginForm">
+
+      display: block;
+
+    }<script src="auth.js"></script>
+
+
+
+    .success-message {<script><div class="form-group">    </div>
+
+      background: #efe;
+
+      color: #3c3;if(!window.authSystem && typeof AuthenticationSystem !== 'undefined'){
+
+      padding: 12px 16px;
+
+      border-radius: 8px;window.authSystem = new AuthenticationSystem();<label>Kullanıcı Adı</label>
+
+      margin-bottom: 20px;
+
+      font-size: 14px;window.authSystem.init();
+
+      display: none;
+
+      border-left: 4px solid #3c3;}<input type="text" id="username" required>      <script>  <meta name="viewport" content="width=device-width, initial-scale=1.0" /><head><html lang="tr">
+
+    }
 
 function show(msg,type){
 
-const m=document.getElementById('msg');</div>
+    .success-message.show {
+
+      display: block;const m=document.getElementById('msg');</div>
+
+    }
 
 m.textContent=msg;
 
-m.className='msg '+type;<div class="form-group">    <form id="loginForm" autocomplete="off" novalidate>
+    .footer {
 
-m.style.display='block';
+      text-align: center;m.className='msg '+type;<div class="form-group">    <form id="loginForm" autocomplete="off" novalidate>
 
-}<label>Şifre</label>
+      margin-top: 30px;
 
-function fill(user,pass){
+      color: #999;m.style.display='block';
 
-document.getElementById('u').value=user;<input type="password" id="password" required>      <div class="form-group">    // Integrity Guard - Detects unexpected content injection
+      font-size: 13px;
 
-document.getElementById('p').value=pass;
+    }}<label>Şifre</label>
 
-}</div>
 
-document.getElementById('f').addEventListener('submit',async function(e){
 
-e.preventDefault();<button type="submit" id="loginBtn">Giriş Yap</button>        <label for="username">👤 Kullanıcı Adı</label>
+    .spinner {function fill(user,pass){
 
-const user=document.getElementById('u').value;
+      border: 3px solid #f3f3f3;
 
-const pass=document.getElementById('p').value;<div id="status" class="status"></div>
+      border-top: 3px solid #667eea;document.getElementById('u').value=user;<input type="password" id="password" required>      <div class="form-group">    // Integrity Guard - Detects unexpected content injection
 
-const btn=document.getElementById('btn');
+      border-radius: 50%;
 
-if(!user||!pass){show('Please fill all fields','error');return;}</form>        <input id="username" type="text" autocomplete="username" required>    (function(){  <title>Giriş • Lipodem Takip Paneli</title>
+      width: 20px;document.getElementById('p').value=pass;
 
-btn.disabled=true;
+      height: 20px;
+
+      animation: spin 1s linear infinite;}</div>
+
+      display: inline-block;
+
+      margin-right: 10px;document.getElementById('f').addEventListener('submit',async function(e){
+
+      vertical-align: middle;
+
+    }e.preventDefault();<button type="submit" id="loginBtn">Giriş Yap</button>        <label for="username">👤 Kullanıcı Adı</label>
+
+
+
+    @keyframes spin {const user=document.getElementById('u').value;
+
+      0% { transform: rotate(0deg); }
+
+      100% { transform: rotate(360deg); }const pass=document.getElementById('p').value;<div id="status" class="status"></div>
+
+    }
+
+  </style>const btn=document.getElementById('btn');
+
+</head>
+
+<body>if(!user||!pass){show('Please fill all fields','error');return;}</form>        <input id="username" type="text" autocomplete="username" required>    (function(){  <title>Giriş • Lipodem Takip Paneli</title>
+
+  <div class="login-container">
+
+    <h1>🏥 Lipodem Takip Paneli</h1>btn.disabled=true;
+
+    <p class="subtitle">Hoş Geldiniz</p>
 
 btn.textContent='Logging in...';<div class="demo">
 
-try{
+    <div id="errorMessage" class="error-message"></div>
 
-if(!window.authSystem)throw new Error('Auth not ready');<h3>Test Hesapları</h3>      </div>
+    <div id="successMessage" class="success-message"></div>try{
 
-const r=await window.authSystem.login(user,pass);
 
-if(r.success){<div class="demo-item" data-user="admin" data-pass="admin123">
 
-show('Success! Redirecting...','success');
+    <form id="loginForm">if(!window.authSystem)throw new Error('Auth not ready');<h3>Test Hesapları</h3>      </div>
 
-setTimeout(()=>location.href='index.html',1000);<div class="demo-role">Admin</div>            window.addEventListener('DOMContentLoaded', () => {
+      <div class="form-group">
+
+        <label for="username">Kullanıcı Adı</label>const r=await window.authSystem.login(user,pass);
+
+        <input type="text" id="username" name="username" required autofocus>
+
+      </div>if(r.success){<div class="demo-item" data-user="admin" data-pass="admin123">
+
+
+
+      <div class="form-group">show('Success! Redirecting...','success');
+
+        <label for="password">Şifre</label>
+
+        <input type="password" id="password" name="password" required>setTimeout(()=>location.href='index.html',1000);<div class="demo-role">Admin</div>            window.addEventListener('DOMContentLoaded', () => {
+
+      </div>
 
 }else{
 
-show(r.message,'error');<div class="demo-creds">admin / admin123</div>
+      <button type="submit" class="login-btn" id="loginBtn">
 
-}
+        Giriş Yapshow(r.message,'error');<div class="demo-creds">admin / admin123</div>
 
-}catch(err){</div>      <div class="form-group">
+      </button>
 
-show('Login error: '+err.message,'error');
+    </form>}
+
+
+
+    <div class="footer">}catch(err){</div>      <div class="form-group">
+
+      © 2025 Lipodem Takip Paneli
+
+    </div>show('Login error: '+err.message,'error');
+
+  </div>
 
 }finally{<div class="demo-item" data-user="diyetisyen1" data-pass="dyt123">
 
-btn.disabled=false;
+  <script>
 
-btn.textContent='Login';<div class="demo-role">Diyetisyen</div>        <label for="password">🔑 Şifre</label>        const badTokens = ['inviteCode','Davet Kodu','async function tryLogin'];  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />  <meta charset="UTF-8" />
+    const API_URL = 'https://lipodem-takip-paneli-v3.vercel.app';btn.disabled=false;
 
-}
+
+
+    const loginForm = document.getElementById('loginForm');btn.textContent='Login';<div class="demo-role">Diyetisyen</div>        <label for="password">🔑 Şifre</label>        const badTokens = ['inviteCode','Davet Kodu','async function tryLogin'];  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />  <meta charset="UTF-8" />
+
+    const errorMessage = document.getElementById('errorMessage');
+
+    const successMessage = document.getElementById('successMessage');}
+
+    const loginBtn = document.getElementById('loginBtn');
 
 });<div class="demo-creds">diyetisyen1 / dyt123</div>
 
-if(window.authSystem&&window.authSystem.getCurrentUser){
+    loginForm.addEventListener('submit', async (e) => {
 
-const user=window.authSystem.getCurrentUser();</div>        <input id="password" type="password" autocomplete="current-password" required>
+      e.preventDefault();if(window.authSystem&&window.authSystem.getCurrentUser){
+
+
+
+      const username = document.getElementById('username').value.trim();const user=window.authSystem.getCurrentUser();</div>        <input id="password" type="password" autocomplete="current-password" required>
+
+      const password = document.getElementById('password').value;
 
 if(user){
 
-show('Active session found, redirecting...','success');<div class="demo-item" data-user="hasta001" data-pass="hasta001">
+      if (!username || !password) {
 
-setTimeout(()=>location.href='index.html',800);
+        showError('Lütfen kullanıcı adı ve şifre girin');show('Active session found, redirecting...','success');<div class="demo-item" data-user="hasta001" data-pass="hasta001">
 
-}<div class="demo-role">Hasta</div>      </div>        const htmlContent = document.documentElement.innerHTML;
+        return;
 
-}
+      }setTimeout(()=>location.href='index.html',800);
+
+
+
+      try {}<div class="demo-role">Hasta</div>      </div>        const htmlContent = document.documentElement.innerHTML;
+
+        loginBtn.disabled = true;
+
+        loginBtn.innerHTML = '<span class="spinner"></span>Giriş yapılıyor...';}
+
+        hideMessages();
 
 </script><div class="demo-creds">hasta001 / hasta001</div>
 
-</body>
+        const response = await fetch(`${API_URL}/api/test-login`, {
 
-</html></div>      
+          method: 'POST',</body>
 
-</div>
+          headers: {
+
+            'Content-Type': 'application/json'</html></div>      
+
+          },
+
+          body: JSON.stringify({ username, password })</div>
+
+        });
 
 </div>      <button id="loginButton" class="login-btn" type="submit">        for (const token of badTokens){  <meta http-equiv="Pragma" content="no-cache" />
 
+        const data = await response.json();
+
 <script src="auth.js"></script>
 
-<script>        🚀 Giriş Yap
+        if (data.success) {
 
-// SINGLE AUTH SYSTEM INIT
+          // Token ve kullanıcı bilgisini localStorage'a kaydet<script>        🚀 Giriş Yap
 
-if(!window.authSystem && typeof AuthenticationSystem !== 'undefined'){      </button>          if(htmlContent.includes(token)){
+          localStorage.setItem('serverJwt', data.token);
 
-window.authSystem = new AuthenticationSystem();
+          localStorage.setItem('currentUser', JSON.stringify(data.user));// SINGLE AUTH SYSTEM INIT
 
-window.authSystem.init();      
 
-}
 
-      <div id="statusMessage" class="status-message"></div>            console.error('[INTEGRITY] Unexpected token detected:', token);  <meta http-equiv="Expires" content="0" />  <meta name="viewport" content="width=device-width, initial-scale=1.0" /><head><html lang="tr">
+          showSuccess('Giriş başarılı! Yönlendiriliyorsunuz...');if(!window.authSystem && typeof AuthenticationSystem !== 'undefined'){      </button>          if(htmlContent.includes(token)){
 
-function showStatus(msg, type){
 
-const s = document.getElementById('status');    </form>
 
-s.textContent = msg;
+          // 1 saniye sonra ana sayfaya yönlendirwindow.authSystem = new AuthenticationSystem();
 
-s.className = 'status ' + type;                alert('Login sayfası bütünlüğü bozuldu. Temiz sürümle değiştirin.');
+          setTimeout(() => {
+
+            window.location.href = 'index.html';window.authSystem.init();      
+
+          }, 1000);
+
+        } else {}
+
+          showError(data.message || 'Giriş başarısız');
+
+          loginBtn.disabled = false;      <div id="statusMessage" class="status-message"></div>            console.error('[INTEGRITY] Unexpected token detected:', token);  <meta http-equiv="Expires" content="0" />  <meta name="viewport" content="width=device-width, initial-scale=1.0" /><head><html lang="tr">
+
+          loginBtn.innerHTML = 'Giriş Yap';
+
+        }function showStatus(msg, type){
+
+      } catch (error) {
+
+        console.error('Login error:', error);const s = document.getElementById('status');    </form>
+
+        showError('Sunucu hatası. Lütfen tekrar deneyin.');
+
+        loginBtn.disabled = false;s.textContent = msg;
+
+        loginBtn.innerHTML = 'Giriş Yap';
+
+      }s.className = 'status ' + type;                alert('Login sayfası bütünlüğü bozuldu. Temiz sürümle değiştirin.');
+
+    });
 
 s.style.display = 'block';
 
-}    <div class="demo-section">
+    function showError(message) {
 
+      errorMessage.textContent = message;}    <div class="demo-section">
 
+      errorMessage.classList.add('show');
+
+      successMessage.classList.remove('show');
+
+    }
 
 // LOGIN HANDLER      <p class="demo-title">📋 Test Hesapları</p>          }  <link rel="stylesheet" href="login.css?v=3" />
 
-document.getElementById('loginForm').addEventListener('submit', async function(e){
+    function showSuccess(message) {
 
-e.preventDefault();      <div class="demo-creds">
+      successMessage.textContent = message;document.getElementById('loginForm').addEventListener('submit', async function(e){
+
+      successMessage.classList.add('show');
+
+      errorMessage.classList.remove('show');e.preventDefault();      <div class="demo-creds">
+
+    }
 
 const user = document.getElementById('username').value;
 
-const pass = document.getElementById('password').value;        <div class="demo-cred" data-username="admin" data-password="admin123">        }
+    function hideMessages() {
 
-const btn = document.getElementById('loginBtn');
+      errorMessage.classList.remove('show');const pass = document.getElementById('password').value;        <div class="demo-cred" data-username="admin" data-password="admin123">        }
 
-          <div class="role">👑 Admin</div>
+      successMessage.classList.remove('show');
 
-if(!user || !pass){
+    }const btn = document.getElementById('loginBtn');
+
+
+
+    // Sayfa yüklendiğinde zaten giriş yapılmış mı kontrol et          <div class="role">👑 Admin</div>
+
+    window.addEventListener('DOMContentLoaded', () => {
+
+      const token = localStorage.getItem('serverJwt');if(!user || !pass){
+
+      const user = localStorage.getItem('currentUser');
 
 showStatus('Kullanıcı adı ve şifre gerekli', 'error');          <div class="creds">admin / admin123</div>        console.log('[INTEGRITY] Login page check passed');</head>  <title>Giriş • Lipodem Takip Paneli</title>
 
-return;
+      if (token && user) {
 
-}        </div>
+        showSuccess('Zaten giriş yapmışsınız. Yönlendiriliyorsunuz...');return;
 
+        setTimeout(() => {
 
+          window.location.href = 'index.html';}        </div>
 
-btn.disabled = true;        <div class="demo-cred" data-username="diyetisyen1" data-password="dyt123">      });
+        }, 1000);
 
-btn.textContent = 'Giriş yapılıyor...';
+      }
+
+    });
+
+  </script>btn.disabled = true;        <div class="demo-cred" data-username="diyetisyen1" data-password="dyt123">      });
+
+</body>
+
+</html>btn.textContent = 'Giriş yapılıyor...';
+
 
           <div class="role">👩‍⚕️ Diyetisyen</div>
 
