@@ -2,11 +2,12 @@
   "name": "lipodem-takip-paneli-v3",
   "version": "1.0.0",
   "description": "Lipodem takip paneli - Vercel Serverless",
-  "scripts": {
-    "build": "echo 'Static site with serverless functions'"
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18.0.0"
   },
   "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "jsonwebtoken": "^9.0.2"
+    "bcryptjs": "2.4.3",
+    "jsonwebtoken": "9.0.2"
   }
 }
